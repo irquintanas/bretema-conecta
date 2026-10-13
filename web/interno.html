@@ -1,24 +1,9 @@
 <section class="pulso">
-<div id="login" class="login">
-  <h1>Brétema <b>Pulso</b></h1>
-  <p class="sub2">Cuadro de mando comercial · acceso empleados</p>
-  <form id="form" novalidate>
-    <label>Usuario<input id="usuario" autocomplete="username" autocapitalize="off"></label>
-    <label>Contraseña<input id="clave" type="password" autocomplete="current-password"></label>
-    <button type="submit">Entrar</button>
-    <p id="error" class="error" role="alert"></p>
-  </form>
-  <div class="demo"><b>Prototipo · acceso simulado.</b> La comprobación se hace en el navegador y los datos viajan dentro
-    de esta página: no hay seguridad real. Usuarios de prueba: <code>direccion</code> (toda la empresa) y
-    <code>lugo</code> (solo su delegación) · contraseña <code>pulso2025</code>.</div>
-</div>
-
-<div id="cuadro" hidden>
+<div id="cuadro">
+  <div class="demo"><b>Prototipo · sin autenticación.</b> Esta área está abierta: no pide usuario ni contraseña y los datos
+    viajan dentro de la página. En un proyecto real iría detrás de un servidor con acceso controlado.</div>
   <div class="pbarra">
-    <div><span class="hola">Hola, <b id="quien"></b></span>
-      <label id="elige">Ámbito <select id="ambito"></select></label>
-      <span id="fijo" class="fijo"></span></div>
-    <button id="salir" type="button">Salir</button>
+    <div><label>Ámbito <select id="ambito"></select></label></div>
   </div>
   <h1 id="titulo"></h1>
   <div class="datos" id="kpis"></div>
@@ -36,10 +21,6 @@
 
 <script>
 const CUADRO = /*CUADRO*/null;
-const USUARIOS = {                      /* simulado: en un proyecto real esto vive en un servidor */
-  direccion: { clave: "pulso2025", nombre: "Dirección", ambito: null },
-  lugo:      { clave: "pulso2025", nombre: "Delegación de Lugo", ambito: "Lugo" },
-};
 const MES = ["E","F","M","A","M","J","J","A","S","O","N","D"];
 const $ = id => document.getElementById(id);
 const eur = n => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ".") + " €";
@@ -47,9 +28,6 @@ const pct = (n, d = 1) => n.toFixed(d).replace(".", ",") + " %";
 const varia = (a, b) => { if (!b) return ""; const v = (a - b) / b * 100;
   return `<span class="${v >= 0 ? "sube" : "baja"}">${v >= 0 ? "▲" : "▼"} ${pct(Math.abs(v))}</span>`; };
 const esc = t => String(t).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-
-function guardar(u) { try { u ? sessionStorage.setItem("pulso", u) : sessionStorage.removeItem("pulso"); } catch (e) {} }
-function recordado() { try { return sessionStorage.getItem("pulso"); } catch (e) { return null; } }
 
 function barras(filas, total, extra) {
   const max = Math.max(...filas.map(f => f.ventas), 1);
@@ -92,28 +70,7 @@ function pintar(ambito) {
     d.comerciales.map(c => `<tr><td>${esc(c.nombre)}</td><td>${eur(c.ventas)}</td><td>${varia(c.ventas, c.anterior)}</td><td>${c.clientes}</td></tr>`).join("");
 }
 
-function entrar(u) {
-  const usr = USUARIOS[u];
-  $("login").hidden = true; $("cuadro").hidden = false;
-  $("quien").textContent = usr.nombre;
-  if (usr.ambito) {
-    $("elige").hidden = true; $("fijo").textContent = "solo ve su delegación"; pintar(usr.ambito);
-  } else {
-    $("elige").hidden = false; $("fijo").textContent = "";
-    $("ambito").innerHTML = Object.keys(CUADRO.ambitos).map(n => `<option>${esc(n)}</option>`).join("");
-    $("ambito").onchange = e => pintar(e.target.value);
-    pintar("Brétema");
-  }
-}
-
-$("form").addEventListener("submit", ev => {
-  ev.preventDefault();
-  const u = $("usuario").value.trim().toLowerCase(), c = $("clave").value;
-  if (!u || !c) { $("error").textContent = "Escribe usuario y contraseña."; return; }
-  if (!USUARIOS[u] || USUARIOS[u].clave !== c) { $("error").textContent = "Usuario o contraseña incorrectos."; return; }
-  $("error").textContent = ""; guardar(u); entrar(u);
-});
-["usuario", "clave"].forEach(id => $(id).addEventListener("input", () => { $("error").textContent = ""; }));
-$("salir").addEventListener("click", () => { guardar(null); $("cuadro").hidden = true; $("login").hidden = false; $("clave").value = ""; });
-const previo = recordado(); if (previo && USUARIOS[previo]) entrar(previo);
+$("ambito").innerHTML = Object.keys(CUADRO.ambitos).map(n => `<option>${esc(n)}</option>`).join("");
+$("ambito").onchange = e => pintar(e.target.value);
+pintar("Brétema");
 </script>

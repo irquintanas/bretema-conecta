@@ -300,7 +300,7 @@ def dato(valor, etiqueta):
 
 
 def interno():
-    """Área interna: inicio de sesión simulado + cuadro de mando con los datos de bi/cuadro.json."""
+    """Área interna: cuadro de mando con los datos de bi/cuadro.json."""
     if not CUADRO.exists():
         return ('<section class="pulso"><h1>Brétema <b>Pulso</b></h1><p class="vacio">El cuadro de mando aún no se ha '
                 'generado. Lo prepara el equipo de datos: <code>python bi/etl.py</code> y <code>python bi/cuadro.py</code>.</p></section>')

@@ -34,7 +34,7 @@ La lista exacta (tarea, nombre y nombre de fichero) está en `web/plan.csv`. Cad
 | `datos/ventas.csv` | Extracto del ERP (ventas 2024–2025): de aquí salen todas las cifras |
 | `web/build.py` | Comprueba el contenido, calcula las cifras y genera la web |
 | `web/plan.csv` | Las 11 tareas de la v1.0 (no se toca) |
-| `web/interno.html` | Plantilla del área interna (inicio de sesión simulado + cuadro de mando) |
+| `web/interno.html` | Plantilla del área interna (cuadro de mando sin inicio de sesión) |
 | `bi/etl.py` | ETL del equipo de datos: extrae `datos/ventas.csv`, transforma y carga un modelo en estrella en `bi/bretema.db` (SQLite) |
 | `bi/cuadro.py` | Consultas SQL del cuadro de mando: deja el resultado en `bi/cuadro.json` |
 | `.github/workflows/publicar.yml` | Comprobar en cada pull request, publicar en cada cambio de `main` |
@@ -60,8 +60,7 @@ python web/build.py    # genera también _site/interno/
   de mando usan la misma definición, y la comprobación automática falla si sus cifras no cuadran.
 - **Público e interno.** El portal muestra cifras agregadas; el margen, los comerciales y el detalle mensual solo
   aparecen en el área interna.
-- **Acceso simulado.** Usuarios de prueba `direccion` (toda la empresa) y `lugo` (solo su delegación), contraseña
-  `pulso2025`. Es un prototipo: en GitHub Pages no hay servidor, así que la comprobación se hace en el navegador y
-  los datos van dentro de la página. En un proyecto real, el cuadro de mando estaría en una herramienta de BI o
-  detrás de un servidor con autenticación, nunca en una web pública.
+- **Sin autenticación.** El área interna es de acceso libre: no pide usuario ni contraseña. Es un prototipo: en
+  GitHub Pages no hay servidor y los datos van dentro de la página. En un proyecto real, el cuadro de mando estaría en
+  una herramienta de BI o detrás de un servidor con autenticación, nunca en una web pública.
 - `bi/bretema.db` y `bi/cuadro.json` son resultados: no se suben a git. GitHub los genera en cada publicación.
