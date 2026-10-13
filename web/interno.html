@@ -1,5 +1,14 @@
 <section class="pulso">
-<div id="cuadro">
+<dialog id="aviso" class="aviso" aria-labelledby="aviso-t">
+  <h2 id="aviso-t">Área restringida</h2>
+  <p>Vas a acceder al <b>área interna de empleados</b> de Distribuciones Brétema, con información comercial
+    confidencial (márgenes, comerciales y detalle mensual).</p>
+  <p class="sub2">En este prototipo los datos son ficticios y no hay control de acceso, pero en un entorno real solo
+    podría verla personal autorizado.</p>
+  <button id="acepto" type="button" autofocus>Aceptar</button>
+</dialog>
+
+<div id="cuadro" hidden>
   <div class="demo"><b>Prototipo · sin autenticación.</b> Esta área está abierta: no pide usuario ni contraseña y los datos
     viajan dentro de la página. En un proyecto real iría detrás de un servidor con acceso controlado.</div>
   <div class="pbarra">
@@ -73,4 +82,9 @@ function pintar(ambito) {
 $("ambito").innerHTML = Object.keys(CUADRO.ambitos).map(n => `<option>${esc(n)}</option>`).join("");
 $("ambito").onchange = e => pintar(e.target.value);
 pintar("Brétema");
+
+const aviso = $("aviso");
+aviso.addEventListener("cancel", ev => ev.preventDefault());   // Esc no salta el aviso
+$("acepto").addEventListener("click", () => { aviso.close(); $("cuadro").hidden = false; });
+aviso.showModal();
 </script>

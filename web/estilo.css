@@ -77,6 +77,12 @@ header .acceso:hover { background:#5EEAD4; color:var(--navy); }
 [hidden] { display:none !important; }
 .pulso h1 b { color:#B45309; }
 .demo { margin-bottom:14px; background:#FEF3C7; border:1px solid #F59E0B; color:#78350F; border-radius:8px; padding:10px 12px; font-size:12.5px; }
+.aviso { max-width:440px; width:calc(100% - 32px); border:none; border-top:5px solid #B45309; border-radius:12px; padding:24px 26px; box-shadow:0 12px 40px rgba(11,31,59,.35); }
+.aviso::backdrop { background:rgba(11,31,59,.6); }
+.aviso h2 { font-size:19px; color:var(--navy); margin-bottom:10px; }
+.aviso p { margin-bottom:10px; }
+.aviso .sub2 { color:var(--grey); font-size:13px; }
+.aviso button { background:#B45309; color:#fff; border:none; border-radius:8px; padding:9px 22px; font:inherit; font-weight:700; cursor:pointer; margin-top:6px; }
 .pbarra { display:flex; flex-wrap:wrap; gap:10px; justify-content:space-between; align-items:center; background:#fff; border:1px solid #D8E0EE; border-left:5px solid #B45309; border-radius:10px; padding:10px 14px; margin-bottom:14px; }
 .pbarra > div { display:flex; flex-wrap:wrap; gap:6px 16px; align-items:center; }
 .pbarra label { font-size:13px; color:var(--grey); }
