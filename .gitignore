@@ -1,0 +1,6 @@
+_site/
+__pycache__/
+.DS_Store
+# resultados del ETL (se generan con python bi/etl.py y python bi/cuadro.py)
+bi/bretema.db
+bi/cuadro.json

@@ -1,0 +1,55 @@
+# Comprueba cada pull request y publica la web en GitHub Pages en cada cambio de main.
+name: Comprobar y publicar
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:        # botón «Run workflow» (p. ej., tras crear la etiqueta v1.0)
+
+env:
+  TZ: Europe/Madrid          # fechas de la web en hora española
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0              # historial y etiquetas completos para «Últimos cambios» y la versión
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: ETL del cuadro de mando (equipo de datos)
+        run: |
+          python bi/etl.py
+          python bi/cuadro.py
+      - name: Comprobar páginas, menú y que portal y BI cuadran
+        run: python web/build.py --check
+      - name: Construir la web
+        run: python web/build.py
+      - name: Guardar la web para publicarla
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publicar:
+    if: github.event_name != 'pull_request'
+    needs: comprobar
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4

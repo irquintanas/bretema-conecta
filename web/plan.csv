@@ -1,0 +1,12 @@
+tarea,tipo,nombre,archivo
+T-01,familia,Vinos y licores,vinos-y-licores
+T-02,familia,Congelados,congelados
+T-03,familia,Conservas,conservas
+T-04,familia,Limpieza e higiene,limpieza-e-higiene
+T-05,familia,Cervezas,cervezas
+T-06,familia,Lácteos,lacteos
+T-07,familia,Bebidas frías,bebidas-frias
+T-08,familia,Aperitivos,aperitivos
+T-09,delegacion,A Coruña,a-coruna
+T-10,delegacion,Santiago,santiago
+T-11,delegacion,Lugo,lugo
