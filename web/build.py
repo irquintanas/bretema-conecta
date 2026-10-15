@@ -159,9 +159,9 @@ def comprobar():
         elif clave not in datos["familias" if tipo == "familia" else "delegaciones"]:
             errores.append(f"{sitio}: «{clave}» no aparece en datos/ventas.csv.")
         if not re.match(r"^[a-z0-9._-]+$", d.get("autor", "")) or d.get("autor") == "tu.alias":
-            errores.append(f"{sitio}: «autor» debe ser tu alias en minúsculas, sin espacios (ej.: ivan.h).")
+            errores.append(f"{sitio}: «autor» debe ser tu alias en minúsculas, sin espacios (ej.: ana.r).")
         if not d.get("lema") or d.get("lema", "").startswith("Una frase corta"):
-            errores.append(f"{sitio}: falta el «lema».")
+            errores.append(f"{sitio}: falta el «lema» (o sigue el texto de la plantilla).")
         if tarea in vistas:
             errores.append(f"{sitio}: la tarea {tarea} ya tiene página en {vistas[tarea]}.")
         vistas[tarea] = sitio
