@@ -1,8 +1,8 @@
 ---
-tarea: T-NN
-familia: Nombre exacto de la familia
-autor: tu.alias
-lema: Una frase corta que resuma la familia
+tarea: T-08
+familia: Página de la familia Aperitivos
+autor: Koda
+lema: Desde 1923 sabiendo a gloria
 ---
 ## Qué ofrecemos
 
