@@ -11,7 +11,7 @@ Cervezas en barril, botella y lata para bares, cafeterías, restaurantes y terra
 ## Por qué con Brétema
 
 - Delegaciones en A Coruña, Santiago y Lugo, cerca de tu local.
-- Variedad: clásicas, especiales y sin alcohol en un mismo catálogo.
+- Reparto junto con el resto de tu pedido: un solo proveedor y una sola factura.
 
 <!-- Las cifras (productos, precio desde, los más pedidos) NO se escriben aquí:
      las calcula la web a partir de datos/ventas.csv. -->
