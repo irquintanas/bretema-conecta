@@ -331,7 +331,7 @@ def interno():
     """Área interna: cuadro de mando con los datos de bi/cuadro.json."""
     if not CUADRO.exists():
         return ('<section class="pulso"><h1>Brétema <b>Pulso</b></h1><p class="vacio">El cuadro de mando aún no se ha '
-                'generado. Lo prepara el equipo de datos: <code>python bi/etl.py</code> y <code>python bi/cuadro.py</code>.</p></section>')
+                'generado. Lo prepara el equipo de datos: <code>dbt build</code> y <code>python bi/cuadro.py</code>.</p></section>')
     datos = CUADRO.read_text(encoding="utf-8").replace("</", "<\\/")
     return (RAIZ / "web" / "interno.html").read_text(encoding="utf-8").replace("/*CUADRO*/null", datos)
 
