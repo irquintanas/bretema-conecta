@@ -43,6 +43,12 @@ jobs:
           dbt docs generate --static --project-dir dbt --profiles-dir dbt
           mkdir -p _site/dbt-docs
           cp dbt/target/static_index.html _site/dbt-docs/index.html
+      - name: Publicar plata y oro (Parquet) en la web
+        if: github.event_name != 'pull_request'
+        run: |
+          mkdir -p _site/lakehouse/plata _site/lakehouse/oro
+          cp lakehouse/plata/*.parquet _site/lakehouse/plata/
+          cp lakehouse/oro/*.parquet _site/lakehouse/oro/
       - name: Guardar la web para publicarla
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
