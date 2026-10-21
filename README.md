@@ -62,6 +62,8 @@ python web/build.py                                # genera también _site/inter
 Es opcional: GitHub hace lo mismo en cada pull request y en cada cambio de `main`. En la página de cada ejecución
 (pestaña Actions) queda un resumen con los tests, las filas en cuarentena y las ventas por mes, y un zip
 `lakehouse-<PR>` con plata y oro en Parquet (`select * from 'oro/ventas_mes.parquet'` con DuckDB).
+Tras cada cambio de `main`, plata y oro quedan también publicados en la web, y DuckDB los lee por URL:
+`select * from 'https://irquintanas.github.io/bretema-conecta/lakehouse/oro/ventas_mes.parquet'`.
 
 - **Una sola verdad.** «Ventas netas» = unidades × precio unitario; las devoluciones restan. El portal y el cuadro
   de mando usan la misma definición, y la comprobación automática falla si sus cifras no cuadran.
