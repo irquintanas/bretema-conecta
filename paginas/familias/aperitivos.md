@@ -1,6 +1,6 @@
 ---
 tarea: T-08
-familia: Página de la familia Aperitivos
+familia: Aperitivos
 autor: luis.s.p
 lema: Desde 1923 sabiendo a gloria
 ---
