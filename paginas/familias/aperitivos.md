@@ -1,7 +1,7 @@
 ---
 tarea: T-08
 familia: Página de la familia Aperitivos
-autor: Koda
+autor: luis.s.p
 lema: Desde 1923 sabiendo a gloria
 ---
 ## Qué ofrecemos
