@@ -1,0 +1,1676 @@
+fecha,delegacion,comercial,cliente_id,canal,familia,producto,unidades,precio_unitario,coste_unitario
+2026-01-01,A Coruña,Com. Freire,CL0063,Comercio,Vinos y licores,Vinos y licores — Ref. 07,10,10.02,7.30
+2026-01-01,A Coruña,Com. Rey,CL0020,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,11,5.93,4.61
+2026-01-01,A Coruña,Com. Rodríguez,CL0066,Hostelería,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-01,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 03,17,1.53,1.18
+2026-01-01,Lugo,Com. Doval,CL0102,Comercio,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-01,A Coruña,Com. Rodríguez,CL0037,Hostelería,Aperitivos,Aperitivos — Ref. 01,19,"2,16",1.68
+2026-01-01,A Coruña,Com. Freire,CL0109,Hostelería,Cervezas,Cervezas — Ref. 06,1,3.38,2.50
+2026-01-01,Lugo,Com. Corral,CL0078,Hostelería,Conservas,Conservas — Ref. 03,11,4.98,3.54
+2026-01-01,A Coruña,Com. Rodríguez,CL0009,Hostelería,Cervezas,Cervezas — Ref. 08,14,3.06,2.21
+2026-01-01,A Coruña,Com. García,CL0057,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-01,Lugo,Com. Piñeiro,CL0113,Hostelería,Cervezas,Cervezas — Ref. 06,5,3.38,2.50
+2026-01-01,A Coruña,Com. Rey,CL0026,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-01,Santiago,Com. Barreiro,CL0080,Comercio,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-01,Lugo,Com. Piñeiro,CL0141,Hostelería,Conservas,Conservas — Ref. 03,13,4.98,3.54
+2026-01-01,A Coruña,Com. Castro,CL0114,Hostelería,Lácteos,Lácteos — Ref. 03,15,2.93,2.55
+2026-01-01,A Coruña,Com. Vázquez,CL0177,Hostelería,Lácteos,Lácteos — Ref. 04,16,1.34,1.06
+2026-01-01,Santiago,Com. Novo,CL0134,Comercio,Bebidas frías,Bebidas frías — Ref. 04,2,0.97,0.71
+2026-01-01,Lugo,Com. Piñeiro,CL0067,Hostelería,Cervezas,Cervezas — Ref. 03,20,1.79,1.30
+2026-01-01,A Coruña,Com. Souto,CL0164,Hostelería,Congelados,Congelados — Ref. 05,23,2.69,1.89
+2026-01-01,A Coruña,Com. Pérez,CL0010,Comercio,Vinos y licores,Vinos y licores — Ref. 10,11,23.86,15.70
+2026-01-01,Lugo,Com. Requeixo,CL0166,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,4,3.64,2.43
+2026-01-01,Santiago,Com. Lema,CL0085,Hostelería,Cervezas,Cervezas — Ref. 04,6,1.37,1.13
+2026-01-01,A Coruña,Com. Rodríguez,CL0090,Comercio,Aperitivos,Aperitivos — Ref. 06,11,1.64,1.23
+2026-01-01,Santiago,Com. Novo,CL0152,Hostelería,Cervezas,Cervezas — Ref. 07,9,"1,76",1.45
+2026-01-01,A Coruña,Com. Freire,CL0086,Hostelería,Conservas,Conservas — Ref. 01,6,4.24,2.92
+2026-01-01,Lugo,Com. Corral,CL0167,Hostelería,Lácteos,Lácteos — Ref. 01,4,1.71,1.47
+2026-01-01,Santiago,Com. Lema,CL0085,Hostelería,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-01,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 08,3,16.58,10.77
+2026-01-01,A Coruña,Com. Seoane,CL0104,Comercio,Conservas,Conservas — Ref. 05,5,1.90,1.33
+2026-01-01,A Coruña,Com. Rodríguez,CL0053,Comercio,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-01,A Coruña,Com. Vázquez,CL0001,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-01,Santiago,Com. Paz,CL0038,Hostelería,Aperitivos,Aperitivos — Ref. 03,5,1.53,1.18
+2026-01-01,Santiago,Com. Ferreiro,CL0030,Comercio,Bebidas frías,Bebidas frías — Ref. 05,4,0.84,0.61
+2026-01-01,Santiago,Com. Novo,CL0152,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,5,10.02,7.30
+2026-01-01,A Coruña,Com. Seoane,CL0121,Comercio,Aperitivos,Aperitivos — Ref. 05,19,1.08,0.75
+2026-01-01,A Coruña,Com. López,CL0149,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-01,A Coruña,Com. Souto,CL0128,Comercio,Vinos y licores,Vinos y licores — Ref. 04,8,18.33,14.02
+2026-01-01,Lugo,Com. Corral,CL0167,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,3,1.46,1.12
+2026-01-01,A Coruña,Com. López,CL0116,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,5,3.64,2.43
+2026-01-01,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-01,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 01,2,3.34,2.66
+2026-01-01,A Coruña,Com. García,CL0056,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,13,1.46,1.12
+2026-01-01,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,3,1.26,0.88
+2026-01-01,Santiago,Com. Paz,CL0038,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,15,7.05,5.58
+2026-01-01,Lugo,Com. Piñeiro,CL0141,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,12,1.46,1.12
+2026-01-01,A Coruña,Com. Fernández,CL0023,Hostelería,Lácteos,Lácteos — Ref. 03,8,2.93,2.55
+2026-01-01,A Coruña,Com. Freire,CL0174,Comercio,Vinos y licores,Vinos y licores — Ref. 07,8,10.02,7.30
+2026-01-01,A Coruña,Com. Souto,CL0058,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-01,Santiago,Com. Ferreiro,CL0133,Comercio,Aperitivos,Aperitivos — Ref. 03,2,1.53,1.18
+2026-01-01,Santiago,Com. Novo,CL0015,Hostelería,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-01,A Coruña,Com. Freire,CL0060,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,25,7.05,5.58
+2026-01-01,Lugo,Com. Doval,CL0007,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,2,23.19,14.48
+2026-01-01,A Coruña,Com. López,CL0161,Hostelería,Conservas,Conservas — Ref. 05,11,1.90,1.33
+2026-01-01,A Coruña,Com. Vázquez,CL0148,Comercio,Congelados,Congelados — Ref. 04,16,5.93,4.78
+2026-01-01,A Coruña,Com. Fernández,CL0052,Hostelería,Cervezas,Cervezas — Ref. 04,1,1.37,1.13
+2026-01-01,Lugo,Com. Corral,CL0078,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,6,4.76,3.59
+2026-01-02,A Coruña,Com. Vázquez,CL0064,Hostelería,Conservas,Conservas — Ref. 01,-9,4.24,2.92
+2026-01-02,Santiago,Com. Iglesias,CL0028,Comercio,Aperitivos,Aperitivos — Ref. 02,6,2.25,1.67
+2026-01-02,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,3,18.33,14.02
+2026-01-02,A Coruña,Com. Seoane,CL0089,Comercio,Bebidas frías,Bebidas frías — Ref. 04,2,0.97,0.71
+2026-01-02,Lugo,Com. Piñeiro,CL0141,Hostelería,Congelados,Congelados — Ref. 05,11,2.69,1.89
+2026-01-02,A Coruña,Com. Seoane,CL0121,Comercio,Congelados,Congelados — Ref. 06,4,2.84,2.26
+2026-01-02,A Coruña,Com. Seoane,CL0089,Comercio,Conservas,Conservas — Ref. 04,25,1.25,0.98
+2026-01-02,Santiago,Com. Paz,CL0038,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,16,2.45,1.92
+2026-01-02,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-02,A Coruña,Com. Souto,CL0170,Comercio,Conservas,Conservas — Ref. 06,7,5.50,3.65
+2026-01-02,A Coruña,Com. Vázquez,CL0064,Hostelería,Conservas,Conservas — Ref. 02,3,2.81,2.10
+2026-01-02,A Coruña,Com. García,CL0165,Hostelería,Conservas,Conservas — Ref. 01,13,4.24,2.92
+2026-01-02,A Coruña,Com. Otero,CL0095,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,9,4.76,3.59
+2026-01-02,A Coruña,Com. García,CL0013,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,2,5.93,4.61
+2026-01-02,Lugo,Com. Requeixo,CL0166,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-02,Santiago,Com. Ferreiro,CL0005,Comercio,Conservas,Conservas — Ref. 05,2,1.90,1.33
+2026-01-02,Lugo,Com. Piñeiro,CL0029,Comercio,Congelados,Congelados — Ref. 06,19,2.84,2.26
+2026-01-02,Lugo,Com. Piñeiro,CL0046,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,3,1.46,1.12
+2026-01-02,A Coruña,Com. Freire,CL0117,Comercio,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-02,Santiago,Com. Novo,CL0042,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,20,3.87,2.86
+2026-01-02,Santiago,Com. Paz,CL0038,Hostelería,Congelados,Congelados — Ref. 06,14,2.84,2.26
+2026-01-02,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 08,7,5.98,3.96
+2026-01-02,A Coruña,Com. Freire,CL0096,Comercio,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-02,A Coruña,Com. Rey,CL0020,Comercio,Lácteos,Lácteos — Ref. 03,2,2.93,2.55
+2026-01-02,Lugo,Com. Mosquera,CL0131,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,3,1.26,0.88
+2026-01-02,A Coruña,Com. Vázquez,CL0001,Hostelería,Lácteos,Lácteos — Ref. 07,19,3.70,3.02
+2026-01-02,Lugo,Com. Piñeiro,CL0141,Hostelería,Conservas,Conservas — Ref. 07,3,5.99,4.58
+2026-01-02,A Coruña,Com. Pérez,CL0092,Comercio,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-02,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-02,A Coruña,Com. Freire,CL0109,Hostelería,Conservas,Conservas — Ref. 06,6,5.50,3.65
+2026-01-02,Santiago,Com. Lema,CL0071,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,2,16.58,10.77
+2026-01-02,A Coruña,Com. Pérez,CL0092,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-02,A Coruña,Com. Vázquez,CL0137,Comercio,Congelados,Congelados — Ref. 05,5,2.69,1.89
+2026-01-02,Santiago,Com. Barreiro,CL0080,Comercio,Congelados,Congelados — Ref. 02,5,5.18,3.75
+2026-01-02,A Coruña,Com. Freire,CL0109,Hostelería,Aperitivos,Aperitivos — Ref. 03,16,1.53,1.18
+2026-01-02,Santiago,Com. Barreiro,CL0080,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-02,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 09,3,23.19,14.48
+2026-01-02,Lugo,Com. Requeixo,CL0118,Comercio,Vinos y licores,Vinos y licores — Ref. 06,4,3.87,2.86
+2026-01-02,Santiago,Com. Novo,CL0134,Comercio,Lácteos,Lácteos — Ref. 05,1,2.68,2.17
+2026-01-02,Santiago,Com. Ferreiro,CL0043,Hostelería,Aperitivos,Aperitivos — Ref. 06,14,1.64,1.23
+2026-01-02,Lugo,Com. Corral,CL0167,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,10,3.64,2.43
+2026-01-02,A Coruña,Com. García,CL0057,Hostelería,Aperitivos,Aperitivos — Ref. 03,6,1.53,1.18
+2026-01-02,A Coruña,Com. Seoane,CL0025,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,10,23.86,15.70
+2026-01-02,Lugo,Com. Corral,CL0151,Hostelería,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-02,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,20,3.64,2.43
+2026-01-02,A Coruña,Com. Rey,CL0020,Comercio,Vinos y licores,Vinos y licores — Ref. 05,4,16.46,12.52
+2026-01-02,A Coruña,Com. Freire,CL0109,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,10,6.78,5.45
+2026-01-02,A Coruña,Com. Freire,CL0163,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,9,23.86,15.70
+2026-01-02,Lugo,Com. Piñeiro,CL0047,Hostelería,Cervezas,Cervezas — Ref. 05,13,2.38,1.85
+2026-01-02,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 06,-1,3.38,2.50
+2026-01-02,Santiago,Com. Ferreiro,CL0030,Comercio,Aperitivos,Aperitivos — Ref. 02,1,2.25,1.67
+2026-01-02,A Coruña,Com. Rodríguez,CL0090,Comercio,Vinos y licores,Vinos y licores — Ref. 07,12,10.02,7.30
+2026-01-02,A Coruña,Com. Fernández,CL0127,Hostelería,Lácteos,Lácteos — Ref. 06,22,1.02,0.86
+2026-01-03,A Coruña,Com. Rodríguez,CL0003,Hostelería,Cervezas,Cervezas — Ref. 02,16,1.34,1.08
+2026-01-03,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 01,10,4.24,2.92
+2026-01-03,Santiago,Com. Novo,CL0017,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,11,0.75,0.61
+2026-01-03,A Coruña,Com. Castro,CL0091,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,11,1.26,0.88
+2026-01-03,Lugo,Com. Requeixo,CL0081,Comercio,Congelados,Congelados — Ref. 06,4,2.84,2.26
+2026-01-03,Santiago,Com. Iglesias,CL0041,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,4,23.86,15.70
+2026-01-03,A Coruña,Com. Souto,CL0170,Comercio,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-03,A Coruña,Com. López,CL0130,Hostelería,Conservas,Conservas — Ref. 06,7,5.50,3.65
+2026-01-03,Lugo,Com. Doval,CL0132,Comercio,Congelados,Congelados — Ref. 07,4,4.35,3.19
+2026-01-03,A Coruña,Com. Vázquez,CL0064,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-03,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 10,2,23.86,15.70
+2026-01-03,A Coruña,Com. Castro,CL0114,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-03,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 04,1,5.93,4.78
+2026-01-03,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,9,10.02,7.30
+2026-01-03,A Coruña,Com. Rodríguez,CL0009,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,8,0.82,0.66
+2026-01-03,Santiago,Com. Novo,CL0152,Hostelería,Congelados,Congelados — Ref. 03,29,5.11,3.71
+2026-01-03,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,8,0.75,0.61
+2026-01-03,A Coruña,Com. Rodríguez,CL0066,Hostelería,Aperitivos,Aperitivos — Ref. 01,2,2.16,1.68
+2026-01-03,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 05,16,2.38,1.85
+2026-01-03,A Coruña,Com. Seoane,CL0103,Hostelería,Lácteos,Lácteos — Ref. 05,14,2.68,2.17
+2026-01-03,Lugo,Com. Requeixo,CL0179,Comercio,Vinos y licores,Vinos y licores — Ref. 01,5,3.64,2.43
+2026-01-03,A Coruña,Com. García,CL0018,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,6,0.82,0.66
+2026-01-03,Santiago,Com. Ferreiro,CL0133,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-03,A Coruña,Com. Seoane,CL0025,Hostelería,Lácteos,Lácteos — Ref. 07,17,3.70,3.02
+2026-01-03,A Coruña,Com. Vázquez,CL0001,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,8,0.84,0.61
+2026-01-03,A Coruña,Com. García,CL0057,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,20,3.64,2.43
+2026-01-03,A Coruña,Com. Seoane,CL0119,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,32,21.24,14.50
+2026-01-03,A Coruña,Com. Freire,CL0077,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-03,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 03,6,1.79,1.30
+2026-01-03,Santiago,Com. Paz,CL0093,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,6,6.78,5.45
+2026-01-03,A Coruña,Com. Castro,CL0091,Hostelería,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-03,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 02,7,2.76,2.28
+2026-01-03,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 01,34,1.71,1.47
+2026-01-03,Santiago,Com. Novo,CL0099,Hostelería,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-03,A Coruña,Com. Fernández,CL0082,Hostelería,Congelados,Congelados — Ref. 02,11,5.18,3.75
+2026-01-03,Santiago,Com. Novo,CL0111,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-03,Lugo,Com. Corral,CL0151,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,13,18.33,14.02
+2026-01-03,A Coruña,Com. Fernández,CL0158,Hostelería,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-03,A Coruña,Com. Rey,CL0020,Comercio,Vinos y licores,Vinos y licores — Ref. 05,3,16.46,12.52
+2026-01-03,Santiago,Com. Novo,CL0162,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,34,3.64,2.43
+2026-01-03,Santiago,Com. Paz,CL0054,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,11,4.76,3.59
+2026-01-03,Santiago,Com. Paz,CL0093,Comercio,Bebidas frías,Bebidas frías — Ref. 02,7,1.23,0.91
+2026-01-03,Santiago,Com. Iglesias,CL0039,Hostelería,Conservas,Conservas — Ref. 05,4,1.90,1.33
+2026-01-03,Santiago,Com. Iglesias,CL0028,Comercio,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-03,Lugo,Com. Doval,CL0105,Hostelería,Conservas,Conservas — Ref. 04,2,1.25,0.98
+2026-01-03,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 07,6,5.99,4.58
+2026-01-03,A Coruña,Com. Rodríguez,CL0037,Hostelería,Cervezas,Cervezas — Ref. 06,4,3.38,2.50
+31/02/2026,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,2,1.66,1.33
+2026-01-03,A Coruña,Com. Rey,CL0022,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,12,2.45,1.92
+2026-01-03,Lugo,Com. Piñeiro,CL0141,Hostelería,Conservas,Conservas — Ref. 06,19,5.50,3.65
+2026-01-03,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 05,4,1.08,0.75
+2026-01-03,A Coruña,Com. Otero,CL0008,Hostelería,Congelados,Congelados — Ref. 02,6,5.18,3.75
+2026-01-03,A Coruña,Com. Seoane,CL0100,Hostelería,Congelados,Congelados — Ref. 08,8,7.98,6.09
+2026-01-03,A Coruña,Com. Fernández,CL0098,Hostelería,Aperitivos,Aperitivos — Ref. 01,5,2.16,1.68
+2026-01-03,A Coruña,Com. Freire,CL0096,Comercio,Conservas,Conservas — Ref. 06,5,5.50,3.65
+2026-01-03,Santiago,Com. Ferreiro,CL0031,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,11,2.45,1.92
+2026-01-03,A Coruña,Com. Freire,CL0139,Hostelería,Aperitivos,Aperitivos — Ref. 04,4,"1,35",0.89
+2026-01-03,Santiago,Com. Novo,CL0134,Comercio,Bebidas frías,Bebidas frías — Ref. 05,6,0.84,0.61
+2026-01-03,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-03,Lugo,Com. Corral,CL0151,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-03,A Coruña,Com. Rey,CL0022,Comercio,Aperitivos,Aperitivos — Ref. 02,8,2.25,1.67
+2026-01-03,A Coruña,Com. Rodríguez,CL0053,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,1,4.76,3.59
+2026-01-03,Lugo,Com. Corral,CL0078,Hostelería,Cervezas,Cervezas — Ref. 04,9,1.37,1.13
+2026-01-03,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 08,7,5.98,3.96
+2026-01-03,A Coruña,Com. Fernández,CL0127,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,10,7.05,5.58
+2026-01-03,A Coruña,Com. Rodríguez,CL0009,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,2,21.24,14.50
+2026-01-03,A Coruña,Com. Souto,CL0048,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-03,A Coruña,Com. Freire,CL0063,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,13,7.05,5.58
+2026-01-03,A Coruña,Com. Souto,CL0170,Comercio,Vinos y licores,Vinos y licores — Ref. 02,20,21.24,14.50
+2026-01-03,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 08,4,7.98,6.09
+2026-01-03,Lugo,Com. Doval,CL0076,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,30,7.59,4.98
+2026-01-03,A Coruña,Com. Otero,CL0008,Hostelería,Aperitivos,Aperitivos — Ref. 01,18,2.16,1.68
+2026-01-03,A Coruña,Com. Vázquez,CL0177,Hostelería,Cervezas,Cervezas — Ref. 01,1,3.34,2.66
+2026-01-03,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 08,1,3.06,2.21
+2026-01-03,A Coruña,Com. Seoane,CL0089,Comercio,Vinos y licores,Vinos y licores — Ref. 06,5,3.87,2.86
+2026-01-03,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,4,18.33,14.02
+2026-01-03,A Coruña,Com. Souto,CL0170,Comercio,Conservas,Conservas — Ref. 07,10,5.99,4.58
+2026-01-04,A Coruña,Com. García,CL0057,Hostelería,Congelados,Congelados — Ref. 05,5,2.69,1.89
+2026-01-04,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 07,4,5.99,4.58
+2026-01-04,Lugo,Com. Piñeiro,CL0159,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,5,1.66,1.33
+2026-01-04,Santiago,Com. Novo,CL0101,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,17,4.76,3.59
+2026-01-04,Lugo,Com. Requeixo,CL0081,Comercio,Vinos y licores,Vinos y licores — Ref. 05,6,16.46,12.52
+2026-01-04,A Coruña,Com. Otero,CL0036,Hostelería,Lácteos,Lácteos — Ref. 01,3,1.71,1.47
+2026-01-04,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,7,23.86,15.70
+2026-01-04,A Coruña,Com. Seoane,CL0171,Hostelería,Lácteos,Lácteos — Ref. 04,1,1.34,1.06
+2026-01-04,Lugo,Com. Doval,CL0132,Comercio,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-04,A Coruña,Com. Rodríguez,CL0066,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,2,0.82,0.66
+2026-01-04,A Coruña,Com. Seoane,CL0100,Hostelería,Cervezas,Cervezas — Ref. 06,6,3.38,2.50
+2026-01-04,Lugo,Com. Requeixo,CL0118,Comercio,Cervezas,Cervezas — Ref. 02,3,1.34,1.08
+2026-01-04,A Coruña,Com. Freire,CL0063,Comercio,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-04,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,5,23.86,15.70
+2026-01-04,Lugo,Com. Mosquera,CL0059,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,11,"1,23",0.91
+2026-01-04,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,7,2.45,1.92
+2026-01-04,Santiago,Com. Ferreiro,CL0031,Comercio,Aperitivos,Aperitivos — Ref. 06,15,1.64,1.23
+2026-01-04,A Coruña,Com. Seoane,CL0121,Comercio,Aperitivos,Aperitivos — Ref. 01,3,2.16,1.68
+2026-01-04,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 07,9,1.46,1.12
+2026-01-04,Lugo,Com. Doval,CL0105,Hostelería,Lácteos,Lácteos — Ref. 07,10,3.70,3.02
+2026-01-04,Lugo,Com. Doval,CL0132,Comercio,Congelados,Congelados — Ref. 08,7,7.98,6.09
+2026-01-04,A Coruña,Com. Vázquez,CL0177,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,3,1.23,0.91
+2026-01-04,Santiago,Com. Baamonde,CL0072,Comercio,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-04,A Coruña,Com. López,CL0149,Hostelería,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-04,santiago ,Com. Novo,CL0017,Hostelería,Aperitivos,Aperitivos — Ref. 02,10,2.25,1.67
+2026-01-04,A Coruña,Com. García,CL0165,Hostelería,Conservas,Conservas — Ref. 04,19,1.25,0.98
+2026-01-04,Santiago,Com. Baamonde,CL0072,Comercio,Vinos y licores,Vinos y licores — Ref. 05,7,16.46,12.52
+2026-01-04,A Coruña,Com. Castro,CL0175,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,12,23.86,15.70
+2026-01-04,Lugo,Com. Requeixo,CL0157,Comercio,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-04,Santiago,Com. Paz,CL0038,Hostelería,Conservas,Conservas — Ref. 08,6,5.98,3.96
+2026-01-04,A Coruña,Com. Seoane,CL0025,Hostelería,Cervezas,Cervezas — Ref. 04,7,1.37,1.13
+2026-01-04,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 07,16,3.70,3.02
+2026-01-04,A Coruña,Com. Vázquez,CL0064,Hostelería,Congelados,Congelados — Ref. 03,3,5.11,3.71
+2026-01-04,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 01,12,3.34,2.66
+2026-01-04,Santiago,Com. Ferreiro,CL0005,Comercio,Conservas,Conservas — Ref. 08,26,5.98,3.96
+2026-01-04,A Coruña,Com. Rodríguez,CL0012,Hostelería,Lácteos,Lácteos — Ref. 03,7,2.93,2.55
+2026-01-04,Lugo,Com. Doval,CL0160,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,8,5.93,4.61
+2026-01-04,A Coruña,Com. Rey,CL0026,Hostelería,Cervezas,Cervezas — Ref. 01,6,3.34,2.66
+2026-01-04,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 02,4,1.23,0.91
+2026-01-04,Lugo,Com. Doval,CL0105,Hostelería,Cervezas,Cervezas — Ref. 05,3,2.38,1.85
+2026-01-04,Santiago,Com. Paz,CL0054,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,4,"4,76",3.59
+2026-01-04,A Coruña,Com. Freire,CL0117,Comercio,Aperitivos,Aperitivos — Ref. 05,2,1.08,0.75
+2026-01-04,A Coruña,Com. Rey,CL0020,Comercio,Aperitivos,Aperitivos — Ref. 01,13,2.16,1.68
+2026-01-04,A Coruña,Com. García,CL0016,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,5,3.87,2.86
+2026-01-04,A Coruña,Com. Souto,CL0128,Comercio,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-04,A Coruña,Com. Rodríguez,CL0066,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,21,0.75,0.61
+2026-01-04,A Coruña,Com. Vázquez,CL0064,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-04,Lugo,Com. Corral,CL0055,Hostelería,Cervezas,Cervezas — Ref. 01,7,3.34,2.66
+2026-01-04,A Coruña,Com. Freire,CL0060,Hostelería,Aperitivos,Aperitivos — Ref. 05,25,1.08,0.75
+2026-01-04,A Coruña,Com. Rey,CL0026,Hostelería,Conservas,Conservas — Ref. 02,17,2.81,2.10
+2026-01-04,A Coruña,Com. Rodríguez,CL0066,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-04,Lugo,Com. Piñeiro,CL0113,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,1,1.26,0.88
+2026-01-04,Santiago,Com. Ferreiro,CL0031,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,3,4.76,3.59
+2026-01-04,Santiago,Com. Barreiro,CL0080,Comercio,Conservas,Conservas — Ref. 03,2,4.98,3.54
+2026-01-04,A Coruña,Com. Fernández,CL0110,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,4,4.76,3.59
+2026-01-04,A Coruña,Com. Rodríguez,CL0024,Comercio,Conservas,Conservas — Ref. 02,22,2.81,2.10
+2026-01-04,Santiago,Com. Novo,CL0042,Hostelería,Conservas,Conservas — Ref. 07,2,5.99,4.58
+2026-01-04,CORUÑA,Com. Ferreiro,CL0005,Comercio,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-04,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 08,8,3.06,2.21
+2026-01-04,Santiago,Com. Novo,CL0111,Hostelería,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-04,Santiago,Com. Novo,CL0111,Hostelería,Lácteos,Lácteos — Ref. 04,14,1.34,1.06
+2026-01-04,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 03,4,1.53,1.18
+2026-01-04,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 08,4,3.06,2.21
+2026-01-04,Lugo,Com. Doval,CL0105,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,7,1.46,1.12
+2026-01-04,Santiago,Com. Novo,CL0084,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,10,0.75,0.61
+2026-01-04,Lugo,Com. Corral,CL0167,Hostelería,Lácteos,Lácteos — Ref. 06,41,1.02,0.86
+2026-01-04,Lugo,Com. Requeixo,CL0087,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,17,4.34,3.27
+2026-01-04,A Coruña,Com. García,CL0056,Hostelería,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-04,A Coruña,Com. Castro,CL0143,Comercio,Lácteos,Lácteos — Ref. 06,1,1.02,0.86
+2026-01-04,Lugo,Com. Doval,CL0160,Comercio,Bebidas frías,Bebidas frías — Ref. 05,4,0.84,0.61
+2026-01-04,Santiago,Com. Iglesias,CL0041,Hostelería,Congelados,Congelados — Ref. 02,6,5.18,3.75
+2026-01-04,Lugo,Com. Doval,CL0132,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-04,Santiago,Com. Iglesias,CL0041,Hostelería,Congelados,Congelados — Ref. 01,1,8.94,7.12
+2026-01-04,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,7,1.26,0.88
+2026-01-04,Lugo,Com. Requeixo,CL0179,Comercio,Bebidas frías,Bebidas frías — Ref. 04,13,0.97,0.71
+2026-01-06,Lugo,Com. Piñeiro,CL0142,Hostelería,Conservas,Conservas — Ref. 02,6,2.81,2.10
+2026-01-06,A Coruña,Com. Rodríguez,CL0009,Hostelería,Cervezas,Cervezas — Ref. 02,2,1.34,1.08
+2026-01-06,Santiago,Com. Paz,CL0038,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,3,3.64,2.43
+2026-01-06,Lugo,Com. Doval,CL0105,Hostelería,Lácteos,Lácteos — Ref. 05,5,2.68,2.17
+2026-01-06,A Coruña,Com. Souto,CL0170,Comercio,Congelados,Congelados — Ref. 08,5,7.98,6.09
+2026-01-06,A Coruña,Com. Freire,CL0063,Comercio,Congelados,Congelados — Ref. 08,3,7.98,6.09
+2026-01-06,A Coruña,Com. Rodríguez,CL0090,Comercio,Vinos y licores,Vinos y licores — Ref. 03,10,7.59,4.98
+2026-01-06,Santiago,Com. Novo,CL0044,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,8,4.76,3.59
+2026-01-06,A Coruña,Com. Seoane,CL0171,Hostelería,Lácteos,Lácteos — Ref. 01,20,1.71,1.47
+2026-01-06,A Coruña,Com. Freire,CL0117,Comercio,Vinos y licores,Vinos y licores — Ref. 02,9,21.24,14.50
+2026-01-06,A Coruña,Com. Seoane,CL0025,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,4,6.78,5.45
+2026-01-06,Lugo,Com. Corral,CL0151,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-06,A Coruña,Com. Seoane,CL0100,Hostelería,Congelados,Congelados — Ref. 05,21,2.69,1.89
+2026-01-06,A Coruña,Com. Rey,CL0026,Hostelería,Conservas,Conservas — Ref. 08,6,5.98,3.96
+2026-01-06,Lugo,Com. Requeixo,CL0081,Comercio,Lácteos,Lácteos — Ref. 07,8,3.70,3.02
+2026-01-06,A Coruña,Com. Fernández,CL0098,Hostelería,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-06,A Coruña,Com. Rodríguez,CL0024,Comercio,Congelados,Congelados — Ref. 07,14,4.35,3.19
+2026-01-06,Santiago,Com. Novo,CL0042,Hostelería,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-06,A Coruña,Com. Freire,CL0163,Hostelería,Cervezas,Cervezas — Ref. 08,3,3.06,2.21
+2026-01-06,A Coruña,Com. Rodríguez,CL0024,Comercio,Aperitivos,Aperitivos — Ref. 06,3,1.64,1.23
+2026-01-06,A Coruña,Com. Castro,CL0091,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,4,16.46,12.52
+2026-01-06,A Coruña,Com. Fernández,CL0110,Comercio,Lácteos,Lácteos — Ref. 02,3,2.76,2.28
+2026-01-06,Lugo,Com. Doval,CL0102,Comercio,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-06,A Coruña,Com. López,CL0149,Hostelería,Aperitivos,Aperitivos — Ref. 05,2,1.08,0.75
+2026-01-06,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 09,17,0.75,0.61
+2026-01-06,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 01,7,8.94,7.12
+2026-01-06,Santiago,Com. Ferreiro,CL0043,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,8,3.64,2.43
+2026-01-06,A Coruña,Com. López,CL0116,Hostelería,Aperitivos,Aperitivos — Ref. 01,17,2.16,1.68
+2026-01-06,A Coruña,Com. García,CL0033,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-06,A Coruña,Com. Freire,CL0060,Hostelería,Congelados,Congelados — Ref. 04,10,5.93,4.78
+2026-01-06,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 08,24,7.98,6.09
+2026-01-06,A Coruña,Com. Rey,CL0022,Comercio,Vinos y licores,Vinos y licores — Ref. 02,10,21.24,14.50
+2026-01-06,A Coruña,Com. Rodríguez,CL0037,Hostelería,Conservas,Conservas — Ref. 08,5,5.98,3.96
+2026-01-06,A Coruña,Com. García,CL0013,Comercio,Cervezas,Cervezas — Ref. 08,3,3.06,2.21
+2026-01-06,Santiago,Com. Novo,CL0134,Comercio,Aperitivos,Aperitivos — Ref. 01,15,2.16,1.68
+2026-01-06,A Coruña,Com. García,CL0013,Comercio,Conservas,Conservas — Ref. 08,18,5.98,3.96
+2026-01-06,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 08,5,7.98,6.09
+2026-01-06,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 02,7,2.25,1.67
+2026-01-06,A Coruña,Com. Seoane,CL0089,Comercio,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-06,Lugo,Com. Piñeiro,CL0113,Hostelería,Congelados,Congelados — Ref. 03,13,5.11,3.71
+2026-01-06,A Coruña,Com. Castro,CL0091,Hostelería,Aperitivos,Aperitivos — Ref. 06,5,1.64,1.23
+2026-01-06,Lugo,Com. Doval,CL0132,Comercio,Conservas,Conservas — Ref. 06,6,5.50,3.65
+2026-01-06,Santiago,Com. Barreiro,CL0083,Comercio,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-06,Lugo,Com. Piñeiro,CL0153,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,8,7.59,4.98
+2026-01-06,A Coruña,Com. Fernández,CL0098,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,-12,21.24,14.50
+2026-01-07,Lugo,Com. Requeixo,CL0146,Hostelería,Congelados,Congelados — Ref. 02,23,5.18,3.75
+2026-01-07,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 08,1,1.26,0.88
+2026-01-07,A Coruña,Com. Freire,CL0063,Comercio,Cervezas,Cervezas — Ref. 08,4,3.06,2.21
+2026-01-07,A Coruña,Com. Seoane,CL0100,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,10,4.34,3.27
+2026-01-07,Lugo,Com. Doval,CL0160,Comercio,Aperitivos,Aperitivos — Ref. 06,12,1.64,1.23
+2026-01-07,A Coruña,Com. Vázquez,CL0137,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-07,A Coruña,Com. Fernández,CL0079,Hostelería,Congelados,Congelados — Ref. 01,4,8.94,7.12
+2026-01-07,Santiago,Com. Paz,CL0129,Comercio,Congelados,Congelados — Ref. 01,3,8.94,7.12
+2026-01-07,A Coruña,Com. Seoane,CL0035,Comercio,Aperitivos,Aperitivos — Ref. 04,5,1.35,0.89
+2026-01-07,A Coruña,Com. Rodríguez,CL0037,Hostelería,Conservas,Conservas — Ref. 07,21,5.99,4.58
+2026-01-07,A Coruña,Com. Souto,CL0172,Comercio,Aperitivos,Aperitivos — Ref. 06,10,1.64,1.23
+2026-01-07,A Coruña,Com. Rodríguez,CL0066,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,2,16.46,12.52
+2026-01-07,A Coruña,Com. Fernández,CL0082,Hostelería,Aperitivos,Aperitivos — Ref. 02,7,2.25,1.67
+2026-01-07,A Coruña,Com. Souto,CL0006,Comercio,Aperitivos,Aperitivos — Ref. 04,3,1.35,0.89
+2026-01-07,A Coruña,Com. Seoane,CL0125,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,7,18.33,14.02
+2026-01-07,Santiago,Com. Baamonde,CL0072,Comercio,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-07,Santiago,Com. Novo,CL0044,Comercio,Bebidas frías,Bebidas frías — Ref. 01,5,0.62,0.50
+2026-01-07,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 05,4,2.69,1.89
+2026-01-07,A Coruña,Com. Seoane,CL0025,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,1,16.58,10.77
+2026-01-07,Santiago,Com. Barreiro,CL0074,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,3,1.26,0.88
+2026-01-07,A Coruña,Com. Souto,CL0128,Comercio,Cervezas,Cervezas — Ref. 08,11,3.06,2.21
+2026-01-07,Lugo,Com. Requeixo,CL0157,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,11,7.05,5.58
+2026-01-07,Lugo,Com. Piñeiro,CL0141,Hostelería,Conservas,Conservas — Ref. 07,4,5.99,4.58
+2026-01-07,A Coruña,Com. Rodríguez,CL0009,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-07,Santiago,Com. Novo,CL0017,Hostelería,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-07,A Coruña,Com. Rodríguez,CL0053,Comercio,Congelados,Congelados — Ref. 05,8,2.69,1.89
+2026-01-07,Lugo,Com. Requeixo,CL0146,Hostelería,Conservas,Conservas — Ref. 03,5,4.98,3.54
+2026-01-07,Santiago,Com. Ferreiro,CL0005,Comercio,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-07,A Coruña,Com. Seoane,CL0150,Hostelería,Lácteos,Lácteos — Ref. 05,5,2.68,2.17
+2026-01-07,A Coruña,Com. Freire,CL0173,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,31,1.23,0.91
+2026-01-07,A Coruña,Com. Rey,CL0026,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,15,5.93,4.61
+2026-01-07,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-07,Santiago,Com. Novo,CL0017,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,15,21.24,14.50
+2026-01-07,A Coruña,Com. García,CL0169,Hostelería,Congelados,Congelados — Ref. 04,7,5.93,4.78
+2026-01-07,A Coruña,Com. Seoane,CL0025,Hostelería,Lácteos,Lácteos — Ref. 07,9,3.70,3.02
+2026-01-07,Santiago,Com. Baamonde,CL0069,Hostelería,Lácteos,Lácteos — Ref. 01,4,1.71,1.47
+2026-01-07,A Coruña,Com. Freire,CL0063,Comercio,Congelados,Congelados — Ref. 03,3,5.11,3.71
+2026-01-07,A Coruña,Com. Rodríguez,CL0012,Hostelería,Cervezas,Cervezas — Ref. 07,13,1.76,1.45
+2026-01-07,A Coruña,Com. Rey,CL0022,Comercio,Lácteos,Lácteos — Ref. 05,9,2.68,2.17
+2026-01-07,Lugo,Com. Piñeiro,CL0047,Hostelería,Cervezas,Cervezas — Ref. 03,43,1.79,1.30
+2026-01-07,Lugo,Com. Piñeiro,CL0067,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,3,16.46,12.52
+2026-01-07,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-07,A Coruña,Com. Freire,CL0096,Comercio,Bebidas frías,Bebidas frías — Ref. 03,17,0.82,0.66
+2026-01-07,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 06,10,5.50,3.65
+2026-01-07,A Coruña,Com. García,CL0057,Hostelería,Congelados,Congelados — Ref. 06,11,2.84,2.26
+2026-01-07,Santiago,Com. Ferreiro,CL0031,Comercio,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-07,A Coruña,Com. Fernández,CL0079,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-07,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 03,17,2.93,2.55
+2026-01-07,A Coruña,Com. García,CL0013,Comercio,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-07,A Coruña,Com. Seoane,CL0171,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,3,1.46,1.12
+2026-01-07,A Coruña,Com. Freire,CL0063,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,5,5.93,4.61
+2026-01-07,A Coruña,Com. Souto,CL0048,Hostelería,Lácteos,Lácteos — Ref. 07,20,3.70,3.02
+2026-01-07,Santiago,Com. Paz,CL0038,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,10,4.34,3.27
+2026-01-07,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 08,6,5.98,3.96
+2026-01-07,Lugo,Com. Doval,CL0050,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,2,5.93,4.61
+2026-01-07,A Coruña,Com. Souto,CL0170,Comercio,Vinos y licores,Vinos y licores — Ref. 08,3,16.58,10.77
+2026-01-07,A Coruña,Com. Castro,CL0143,Comercio,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-07,A Coruña,Com. Pérez,CL0136,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,18,0.84,0.61
+2026-01-07,A Coruña,Com. Pérez,CL0112,Comercio,Lácteos,Lácteos — Ref. 02,2,2.76,2.28
+2026-01-07,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-07,Lugo,Com. Doval,CL0132,Comercio,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-07,Santiago,Com. Barreiro,CL0080,Comercio,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-07,Lugo,Com. Requeixo,CL0146,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-07,Lugo,Com. Piñeiro,CL0159,Hostelería,Congelados,Congelados — Ref. 03,23,5.11,3.71
+2026-01-07,A Coruña,Com. Freire,CL0117,Comercio,Bebidas frías,Bebidas frías — Ref. 04,8,0.97,0.71
+2026-01-07,A Coruña,Com. Otero,CL0008,Hostelería,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-07,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-07,A Coruña,Com. Pérez,CL0136,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,8,10.02,7.30
+2026-01-08,Santiago,Com. Paz,CL0038,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,9,1.46,1.12
+2026-01-08,Lugo,Com. Requeixo,CL0179,Comercio,Cervezas,Cervezas — Ref. 05,3,2.38,1.85
+2026-01-08,Santiago,Com. Ferreiro,CL0168,Hostelería,Aperitivos,Aperitivos — Ref. 04,18,1.35,0.89
+2026-01-08,A Coruña,Com. García,CL0013,Comercio,Conservas,Conservas — Ref. 04,6,1.25,0.98
+2026-01-08,Santiago,Com. Novo,CL0017,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,11,18.33,14.02
+2026-01-08,A Coruña,Com. Otero,CL0095,Comercio,Conservas,Conservas — Ref. 04,4,1.25,0.98
+2026-01-08,Santiago,Com. Ferreiro,CL0031,Comercio,Cervezas,Cervezas — Ref. 05,10,2.38,1.85
+2026-01-08,Santiago,Com. Paz,CL0038,Hostelería,Conservas,Conservas — Ref. 05,5,1.90,1.33
+2026-01-08,A Coruña,Com. Seoane,CL0121,Comercio,Conservas,Conservas — Ref. 03,-1,4.98,3.54
+2026-01-08,A Coruña,Com. Castro,CL0143,Comercio,Aperitivos,Aperitivos — Ref. 05,2,1.08,0.75
+2026-01-08,Lugo,Com. Mosquera,CL0021,Comercio,Cervezas,Cervezas — Ref. 07,1,1.76,1.45
+2026-01-08,A Coruña,Com. Castro,CL0143,Comercio,Lácteos,Lácteos — Ref. 01,3,1.71,1.47
+2026-01-08,A Coruña,Com. Castro,CL0091,Hostelería,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-08,A Coruña,Com. Otero,CL0070,Comercio,Bebidas frías,Bebidas frías — Ref. 03,8,0.82,0.66
+2026-01-08,Lugo,Com. Corral,CL0078,Hostelería,Aperitivos,Aperitivos — Ref. 03,23,1.53,1.18
+2026-01-08,Santiago,Com. Paz,CL0054,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,4,7.59,4.98
+2026-01-08,Lugo,Com. Requeixo,CL0166,Hostelería,Aperitivos,Aperitivos — Ref. 05,15,1.08,0.75
+2026-01-08,Lugo,Com. Piñeiro,CL0029,Comercio,Congelados,Congelados — Ref. 05,8,2.69,1.89
+2026-01-08,Lugo,Com. Doval,CL0160,Comercio,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-08,A Coruña,Com. García,CL0057,Hostelería,Conservas,Conservas — Ref. 04,20,1.25,0.98
+2026-01-08,A Coruña,Com. García,CL0056,Hostelería,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-08,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,7,21.24,14.50
+2026-01-08,Lugo,Com. Corral,CL0167,Hostelería,Lácteos,Lácteos — Ref. 03,19,2.93,2.55
+2026-01-08,A Coruña,Com. Fernández,CL0023,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-08,A Coruña,Com. García,CL0016,Hostelería,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-08,A Coruña,Com. López,CL0051,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-08,Lugo,Com. Requeixo,CL0118,Comercio,Cervezas,Cervezas — Ref. 03,-4,1.79,1.30
+2026-01-08,A Coruña,Com. Freire,CL0109,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,4,0.84,0.61
+2026-01-08,Santiago,Com. Paz,CL0014,Hostelería,Conservas,Conservas — Ref. 06,4,5.50,3.65
+2026-01-08,A Coruña,Com. García,CL0018,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,20,2.45,1.92
+2026-01-08,A Coruña,Com. Fernández,CL0052,Hostelería,Cervezas,Cervezas — Ref. 05,13,2.38,1.85
+2026-01-08,Santiago,Com. Ferreiro,CL0031,Comercio,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-08,A Coruña,Com. López,CL0045,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-08,A Coruña,Com. Freire,CL0109,Hostelería,Aperitivos,Aperitivos — Ref. 03,2,1.53,1.18
+2026-01-08,Santiago,Com. Ferreiro,CL0049,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-08,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-08,Santiago,Com. Ferreiro,CL0168,Hostelería,Lácteos,Lácteos — Ref. 05,24,2.68,2.17
+2026-01-08,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-08,A Coruña,Com. Souto,CL0048,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,13,1.46,1.12
+2026-01-08,Santiago,Com. Paz,CL0038,Hostelería,Cervezas,Cervezas — Ref. 06,4,3.38,2.50
+2026-01-08,Lugo,Com. Requeixo,CL0166,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,13,1.26,0.88
+2026-01-08,Santiago,Com. Iglesias,CL0108,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,21,4.34,3.27
+2026-01-08,Santiago,Com. Ferreiro,CL0005,Comercio,Vinos y licores,Vinos y licores — Ref. 10,15,23.86,15.70
+2026-01-08,A Coruña,Com. Seoane,CL0171,Hostelería,Cervezas,Cervezas — Ref. 07,4,1.76,1.45
+2026-01-08,Lugo,Com. Piñeiro,CL0047,Hostelería,Congelados,Congelados — Ref. 07,5,4.35,3.19
+2026-01-08,A Coruña,Com. García,CL0033,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-08,A Coruña,Com. Seoane,CL0171,Hostelería,Aperitivos,Aperitivos — Ref. 03,15,1.53,1.18
+2026-01-08,Lugo,Com. Doval,CL0132,Comercio,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-08,A Coruña,Com. Otero,CL0075,Comercio,Cervezas,Cervezas — Ref. 07,7,1.76,1.45
+2026-01-08,A Coruña,Com. Pérez,CL0136,Hostelería,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-08,A Coruña,Com. Castro,CL0091,Hostelería,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-08,Lugo,Com. Corral,CL0151,Hostelería,Congelados,Congelados — Ref. 03,2,5.11,3.71
+2026-01-08,A Coruña,Com. Castro,CL0091,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-08,Lugo,Com. Mosquera,CL0059,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,2,16.58,10.77
+2026-01-08,Lugo,Com. Doval,CL0160,Comercio,Lácteos,Lácteos — Ref. 05,16,2.68,2.17
+2026-01-08,A Coruña,Com. García,CL0057,Hostelería,Aperitivos,Aperitivos — Ref. 02,8,2.25,1.67
+08/01/2026,A Coruña,Com. Seoane,CL0150,Hostelería,Congelados,Congelados — Ref. 01,6,8.94,7.12
+2026-01-08,A Coruña,Com. García,CL0032,Hostelería,Conservas,Conservas — Ref. 07,6,5.99,4.58
+2026-01-08,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 04,6,1.25,0.98
+2026-01-08,A Coruña,Com. Otero,CL0070,Comercio,Lácteos,Lácteos — Ref. 04,1,1.34,1.06
+2026-01-08,Santiago,Com. Ferreiro,CL0168,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,3,2.45,1.92
+2026-01-08,Santiago,Com. Paz,CL0094,Comercio,Lácteos,Lácteos — Ref. 04,1,1.34,1.06
+2026-01-08,Santiago,Com. Baamonde,CL0069,Hostelería,Congelados,Congelados — Ref. 08,6,7.98,6.09
+2026-01-08,A Coruña,Com. Pérez,CL0136,Hostelería,Cervezas,Cervezas — Ref. 03,15,1.79,1.30
+2026-01-08,A Coruña,Com. Rodríguez,CL0037,Hostelería,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-08,Santiago,Com. Paz,CL0054,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-08,Lugo,Com. Doval,CL0160,Comercio,Bebidas frías,Bebidas frías — Ref. 04,11,0.97,0.71
+2026-01-08,A Coruña,Com. Fernández,CL0052,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-08,A Coruña,Com. Fernández,CL0082,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,8,23.86,15.70
+2026-01-08,A Coruña,Com. Fernández,CL0002,Comercio,Vinos y licores,Vinos y licores — Ref. 10,3,23.86,15.70
+2026-01-08,Santiago,Com. Paz,CL0038,Hostelería,Lácteos,Lácteos — Ref. 04,8,1.34,1.06
+2026-01-08,A Coruña,Com. Rey,CL0026,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,7,0.84,0.61
+2026-01-08,A Coruña,Com. Seoane,CL0035,Comercio,Vinos y licores,Vinos y licores — Ref. 02,7,21.24,14.50
+2026-01-09,Lugo,Com. Corral,CL0055,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-09,A Coruña,Com. Fernández,CL0052,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,3,4.76,3.59
+2026-01-09,A Coruña,Com. López,CL0051,Hostelería,Congelados,Congelados — Ref. 03,5,5.11,3.71
+2026-01-09,Santiago,Com. Novo,CL0152,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,7,23.86,15.70
+2026-01-09,A Coruña,Com. Fernández,CL0079,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-09,Santiago,Com. Iglesias,CL0039,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,37,23.19,14.48
+2026-01-09,A Coruña,Com. López,CL0116,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,3,4.34,3.27
+2026-01-09,A Coruña,Com. Vázquez,CL0148,Comercio,Cervezas,Cervezas — Ref. 03,11,1.79,1.30
+2026-01-09,A Coruña,Com. Souto,CL0172,Comercio,Lácteos,Lácteos — Ref. 06,1,1.02,0.86
+2026-01-09,Santiago,Com. Novo,CL0084,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-09,Coruña,Com. García,CL0057,Hostelería,Aperitivos,Aperitivos — Ref. 04,2,1.35,0.89
+2026-01-09,Lugo,Com. Doval,CL0160,Comercio,Congelados,Congelados — Ref. 01,1,8.94,7.12
+2026-01-09,Santiago,Com. Paz,CL0093,Comercio,Vinos y licores,Vinos y licores — Ref. 03,9,7.59,4.98
+2026-01-09,Lugo,Com. Requeixo,CL0179,Comercio,Aperitivos,Aperitivos — Ref. 03,8,1.53,1.18
+2026-01-09,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 08,1,16.58,10.77
+2026-01-09,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-09,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,4,23.86,15.70
+2026-01-09,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-09,A Coruña,Com. Seoane,CL0100,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-09,Lugo,Com. Mosquera,CL0131,Hostelería,Congelados,Congelados — Ref. 01,2,8.94,7.12
+2026-01-09,Lugo,Com. Doval,CL0105,Hostelería,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-09,A Coruña,Com. Vázquez,CL0177,Hostelería,Conservas,Conservas — Ref. 02,3,2.81,2.10
+2026-01-09,A Coruña,Com. Seoane,CL0089,Comercio,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-09,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,3,2.45,1.92
+2026-01-09,A Coruña,Com. Fernández,CL0079,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,9,6.78,5.45
+2026-01-09,A Coruña,Com. Freire,CL0174,Comercio,Aperitivos,Aperitivos — Ref. 01,9,2.16,1.68
+2026-01-09,A Coruña,Com. Otero,CL0036,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,10,1.66,1.33
+2026-01-09,Lugo,Com. Doval,CL0132,Comercio,Congelados,Congelados — Ref. 04,11,5.93,4.78
+2026-01-09,A Coruña,Com. Fernández,CL0127,Hostelería,Conservas,Conservas — Ref. 07,10,5.99,4.58
+2026-01-09,Santiago,Com. Baamonde,CL0124,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,4,21.24,14.50
+2026-01-09,Santiago,Com. Ferreiro,CL0043,Hostelería,Conservas,Conservas — Ref. 05,4,1.90,1.33
+2026-01-09,A Coruña,Com. Souto,CL0058,Hostelería,Aperitivos,Aperitivos — Ref. 02,11,2.25,1.67
+2026-01-09,A Coruña,Com. Seoane,CL0121,Comercio,Congelados,Congelados — Ref. 01,1,8.94,7.12
+2026-01-09,A Coruña,Com. Otero,CL0036,Hostelería,Lácteos,Lácteos — Ref. 03,10,2.93,2.55
+2026-01-09,A Coruña,Com. Seoane,CL0171,Hostelería,Congelados,Congelados — Ref. 02,2,5.18,3.75
+2026-01-09,A Coruña,Com. Seoane,CL0100,Hostelería,Cervezas,Cervezas — Ref. 07,7,1.76,1.45
+2026-01-09,Santiago,Com. Lema,CL0065,Hostelería,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-09,Lugo,Com. Mosquera,CL0131,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-09,Lugo,Com. Mosquera,CL0156,Comercio,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-09,Lugo,Com. Doval,CL0102,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,12,6.78,5.45
+2026-01-09,Lugo,Com. Doval,CL0132,Comercio,Cervezas,Cervezas — Ref. 05,4,2.38,1.85
+2026-01-09,A Coruña,Com. Rodríguez,CL0090,Comercio,Bebidas frías,Bebidas frías — Ref. 09,2,0.75,0.61
+2026-01-09,A Coruña,Com. Seoane,CL0104,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,6,5.93,4.61
+2026-01-09,Lugo,Com. Doval,CL0050,Comercio,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-09,Lugo,Com. Corral,CL0078,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,3,"2,45",1.92
+2026-01-10,Santiago,Com. Ferreiro,CL0043,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,4,1.26,0.88
+2026-01-10,A Coruña,Com. Fernández,CL0127,Hostelería,Aperitivos,Aperitivos — Ref. 01,3,2.16,1.68
+2026-01-10,A Coruña,Com. Rodríguez,CL0053,Comercio,Vinos y licores,Vinos y licores — Ref. 08,8,16.58,10.77
+2026-01-10,Lugo,Com. Mosquera,CL0073,Hostelería,Aperitivos,Aperitivos — Ref. 05,9,1.08,0.75
+2026-01-10,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 08,2,5.98,3.96
+2026-01-10,Santiago,Com. Paz,CL0014,Hostelería,Conservas,Conservas — Ref. 06,3,5.50,3.65
+2026-01-10,Lugo,Com. Corral,CL0055,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,6,7.05,5.58
+2026-01-10,Lugo,Com. Requeixo,CL0107,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,2,21.24,14.50
+2026-01-10,Santiago,Com. Paz,CL0014,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-10,Santiago,Com. Ferreiro,CL0030,Comercio,Bebidas frías,Bebidas frías — Ref. 09,2,0.75,0.61
+2026-01-10,Santiago,Com. Barreiro,CL0080,Comercio,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-10,A Coruña,Com. López,CL0045,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,4,23.19,14.48
+2026-01-10,A Coruña,Com. Souto,CL0058,Hostelería,Aperitivos,Aperitivos — Ref. 02,19,2.25,1.67
+2026-01-10,A Coruña,Com. García,CL0057,Hostelería,Cervezas,Cervezas — Ref. 07,5,1.76,1.45
+2026-01-10,A Coruña,Com. Rey,CL0144,Hostelería,Conservas,Conservas — Ref. 07,12,5.99,4.58
+2026-01-10,A Coruña,Com. Rodríguez,CL0053,Comercio,Bebidas frías,Bebidas frías — Ref. 01,7,0.62,0.50
+2026-01-10,A Coruña,Com. Freire,CL0163,Hostelería,Lácteos,Lácteos — Ref. 03,7,2.93,2.55
+2026-01-10,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,6,1.26,0.88
+2026-01-10,Lugo,Com. Requeixo,CL0145,Comercio,Bebidas frías,Bebidas frías — Ref. 02,2,1.23,0.91
+2026-01-10,Santiago,Com. Novo,CL0044,Comercio,Lácteos,Lácteos — Ref. 02,7,2.76,2.28
+2026-01-10,Lugo,Com. Piñeiro,CL0029,Comercio,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-10,Lugo,Com. Requeixo,CL0118,Comercio,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-10,A Coruña,Com. Pérez,CL0136,Hostelería,Congelados,Congelados — Ref. 03,1,5.11,3.71
+10/01/2026,Santiago,Com. Iglesias,CL0028,Comercio,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-10,A Coruña,Com. Souto,CL0048,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,5,23.19,14.48
+2026-01-10,A Coruña,Com. Souto,CL0170,Comercio,Vinos y licores,Vinos y licores — Ref. 05,7,16.46,12.52
+2026-01-10,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 02,20,1.34,1.08
+2026-01-10,A Coruña,Com. García,CL0016,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,9,23.19,14.48
+2026-01-10,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-10,A Coruña,Com. Castro,CL0114,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,8,10.02,7.30
+2026-01-10,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-10,A Coruña,Com. García,CL0033,Hostelería,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-10,A Coruña,Com. Freire,CL0063,Comercio,Vinos y licores,Vinos y licores — Ref. 05,26,16.46,12.52
+2026-01-10,Lugo,Com. Piñeiro,CL0141,Hostelería,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-10,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-10,A Coruña,Com. Rodríguez,CL0024,Comercio,Cervezas,Cervezas — Ref. 01,6,3.34,2.66
+2026-01-10,A Coruña,Com. Seoane,CL0171,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,6,1.46,1.12
+2026-01-10,Lugo,Com. Mosquera,CL0131,Hostelería,Congelados,Congelados — Ref. 06,2,2.84,2.26
+2026-01-10,Santiago,Com. Barreiro,CL0074,Hostelería,Cervezas,Cervezas — Ref. 01,9,3.34,2.66
+2026-01-10,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,7,0.97,0.71
+2026-01-10,Lugo,Com. Doval,CL0076,Hostelería,Cervezas,Cervezas — Ref. 02,5,1.34,1.08
+2026-01-10,A Coruña,Com. Fernández,CL0082,Hostelería,Congelados,Congelados — Ref. 01,1,8.94,7.12
+2026-01-10,A Coruña,Com. Souto,CL0058,Hostelería,Aperitivos,Aperitivos — Ref. 02,4,2.25,1.67
+2026-01-10,A Coruña,Com. Rodríguez,CL0009,Hostelería,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-10,A Coruña,Com. Vázquez,CL0001,Hostelería,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-10,A Coruña,Com. Rodríguez,CL0009,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,11,4.34,3.27
+2026-01-10,Lugo,Com. Doval,CL0160,Comercio,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-10,A Coruña,Com. García,CL0057,Hostelería,Cervezas,Cervezas — Ref. 08,1,3.06,2.21
+2026-01-10,Santiago,Com. Ferreiro,CL0168,Hostelería,Cervezas,Cervezas — Ref. 06,4,3.38,2.50
+2026-01-10,Santiago,Com. Barreiro,CL0080,Comercio,Cervezas,Cervezas — Ref. 08,3,3.06,2.21
+2026-01-10,A Coruña,Com. García,CL0013,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-10,Santiago,Com. Ferreiro,CL0168,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-10,Santiago,Com. Barreiro,CL0083,Comercio,Lácteos,Lácteos — Ref. 03,5,2.93,2.55
+2026-01-10,Santiago,Com. Paz,CL0038,Hostelería,Aperitivos,Aperitivos — Ref. 03,9,1.53,1.18
+2026-01-10,A Coruña,Com. Rodríguez,CL0012,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,47,1.46,1.12
+2026-01-10,Lugo,Com. Doval,CL0132,Comercio,Bebidas frías,Bebidas frías — Ref. 02,18,1.23,0.91
+2026-01-10,Santiago,Com. Barreiro,CL0080,Comercio,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-10,A Coruña,Com. Fernández,CL0079,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-10,A Coruña,Com. Fernández,CL0098,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,3,18.33,14.02
+2026-01-10,Santiago,Com. Novo,CL0017,Hostelería,Aperitivos,Aperitivos — Ref. 03,6,1.53,1.18
+2026-01-10,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 05,15,2.69,1.89
+2026-01-10,Lugo,Com. Piñeiro,CL0153,Hostelería,Congelados,Congelados — Ref. 04,14,5.93,4.78
+2026-01-10,Santiago,Com. Novo,CL0097,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,7,2.45,1.92
+2026-01-10,Santiago,Com. Ferreiro,CL0005,Comercio,Aperitivos,Aperitivos — Ref. 05,2,1.08,0.75
+2026-01-10,A Coruña,Com. Souto,CL0128,Comercio,Lácteos,Lácteos — Ref. 03,3,2.93,2.55
+2026-01-10,A Coruña,Com. Souto,CL0170,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,9,7.05,5.58
+2026-01-10,A Coruña,Com. López,CL0045,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-10,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 02,2,2.25,1.67
+2026-01-10,A Coruña,Com. García,CL0013,Comercio,Vinos y licores,Vinos y licores — Ref. 07,7,10.02,7.30
+2026-01-10,A Coruña,Com. Freire,CL0109,Hostelería,Aperitivos,Aperitivos — Ref. 06,17,1.64,1.23
+2026-01-10,A Coruña,Com. Vázquez,CL0064,Hostelería,Lácteos,Lácteos — Ref. 07,5,3.70,3.02
+2026-01-10,Santiago,Com. Lema,CL0065,Hostelería,Congelados,Congelados — Ref. 01,7,8.94,7.12
+2026-01-10,Santiago,Com. Ferreiro,CL0030,Comercio,Lácteos,Lácteos — Ref. 02,6,2.76,2.28
+2026-01-10,Lugo,Com. Mosquera,CL0131,Hostelería,Cervezas,Cervezas — Ref. 01,3,3.34,2.66
+2026-01-11,A Coruña,Com. Otero,CL0070,Comercio,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-11,A Coruña,Com. López,CL0051,Hostelería,Cervezas,Cervezas — Ref. 02,9,1.34,1.08
+2026-01-11,Lugo,Com. Mosquera,CL0131,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,13,10.02,7.30
+2026-01-11,A Coruña,Com. Souto,CL0170,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-11,A Coruña,Com. Freire,CL0117,Comercio,Lácteos,Lácteos — Ref. 05,10,2.68,2.17
+2026-01-11,Santiago,Com. Barreiro,CL0074,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,3,0.62,0.50
+2026-01-11,A Coruña,Com. Rodríguez,CL0003,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-11,Lugo,Com. Corral,CL0055,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,1,1.26,0.88
+2026-01-11,Santiago,Com. Ferreiro,CL0176,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,2,18.33,14.02
+2026-01-11,Santiago,Com. Ferreiro,CL0005,Comercio,Cervezas,Cervezas — Ref. 05,5,2.38,1.85
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Lácteos,Lácteos — Ref. 04,10,1.34,1.06
+2026-01-11,Lugo,Com. Requeixo,CL0118,Comercio,Vinos y licores,Vinos y licores — Ref. 08,9,16.58,10.77
+2026-01-11,Santiago,Com. Paz,CL0014,Hostelería,Lácteos,Lácteos — Ref. 04,4,1.34,1.06
+2026-01-11,A Coruña,Com. García,CL0057,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-11,Santiago,Com. Lema,CL0085,Hostelería,Cervezas,Cervezas — Ref. 01,1,3.34,2.66
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 04,28,1.25,0.98
+2026-01-11,A Coruña,Com. Pérez,CL0136,Hostelería,Conservas,Conservas — Ref. 08,29,5.98,3.96
+2026-01-11,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 06,11,5.50,3.65
+2026-01-11,A Coruña,Com. Seoane,CL0025,Hostelería,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-11,Lugo,Com. Piñeiro,CL0153,Hostelería,Conservas,Conservas — Ref. 06,13,5.50,3.65
+2026-01-11,Santiago,Com. Novo,CL0042,Hostelería,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-11,Santiago,Com. Barreiro,CL0080,Comercio,Vinos y licores,Vinos y licores — Ref. 08,11,16.58,10.77
+2026-01-11,A Coruña,Com. López,CL0045,Hostelería,Cervezas,Cervezas — Ref. 05,1,"2,38",1.85
+2026-01-11,A Coruña,Com. Vázquez,CL0148,Comercio,Congelados,Congelados — Ref. 04,8,5.93,4.78
+2026-01-11,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-11,A Coruña,Com. Souto,CL0006,Comercio,Bebidas frías,Bebidas frías — Ref. 04,7,0.97,0.71
+2026-01-11,A Coruña,Com. Seoane,CL0150,Hostelería,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-11,Lugo,Com. Requeixo,CL0146,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,8,3.87,2.86
+2026-01-11,A Coruña,Com. Seoane,CL0089,Comercio,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-11,Santiago,Com. Barreiro,CL0083,Comercio,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-11,A Coruña,Com. Souto,CL0172,Comercio,Lácteos,Lácteos — Ref. 06,1,1.02,0.86
+2026-01-11,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 07,2,1.76,1.45
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-11,Lugo,Com. Piñeiro,CL0141,Hostelería,Lácteos,Lácteos — Ref. 06,10,1.02,0.86
+2026-01-11,Santiago,Com. Novo,CL0015,Hostelería,Aperitivos,Aperitivos — Ref. 02,12,2.25,1.67
+2026-01-11,Santiago,Com. Barreiro,CL0080,Comercio,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-11,Lugo,Com. Piñeiro,CL0159,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-11,Lugo,Com. Corral,CL0167,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,6,4.34,3.27
+2026-01-11,Lugo,Com. Piñeiro,CL0141,Hostelería,Cervezas,Cervezas — Ref. 07,7,1.76,1.45
+2026-01-11,Santiago,Com. Baamonde,CL0124,Hostelería,Conservas,Conservas — Ref. 03,2,4.98,3.54
+2026-01-11,Lugo,Com. Corral,CL0078,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,6,0.62,0.50
+2026-01-11,Santiago,Com. Ferreiro,CL0005,Comercio,Bebidas frías,Bebidas frías — Ref. 02,7,1.23,0.91
+2026-01-11,Lugo,Com. Corral,CL0055,Hostelería,Aperitivos,Aperitivos — Ref. 05,5,1.08,0.75
+2026-01-11,A Coruña,Com. Seoane,CL0126,Hostelería,Aperitivos,Aperitivos — Ref. 02,12,2.25,1.67
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Congelados,Congelados — Ref. 01,11,8.94,7.12
+2026-01-11,A Coruña,Com. Freire,CL0173,Hostelería,Cervezas,Cervezas — Ref. 08,8,3.06,2.21
+2026-01-11,A Coruña,Com. Vázquez,CL0148,Comercio,Vinos y licores,Vinos y licores — Ref. 10,6,23.86,15.70
+2026-01-11,A Coruña,Com. Vázquez,CL0115,Hostelería,Cervezas,Cervezas — Ref. 02,8,1.34,1.08
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Lácteos,Lácteos — Ref. 07,12,3.70,3.02
+2026-01-11,Lugo,Com. Doval,CL0050,Comercio,Bebidas frías,Bebidas frías — Ref. 04,3,0.97,0.71
+2026-01-11,Santiago,Com. Paz,CL0054,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,8,1.23,0.91
+2026-01-11,Santiago,Com. Ferreiro,CL0005,Comercio,Congelados,Congelados — Ref. 01,11,8.94,7.12
+2026-01-11,A Coruña,Com. Rodríguez,CL0037,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-11,A Coruña,Com. Souto,CL0058,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,29,0.97,0.71
+2026-01-13,Lugo,Com. Piñeiro,CL0113,Hostelería,Lácteos,Lácteos — Ref. 01,5,1.71,1.47
+2026-01-13,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 01,9,1.71,1.47
+2026-01-13,Lugo,Com. Requeixo,CL0145,Comercio,Cervezas,Cervezas — Ref. 02,16,1.34,1.08
+2026-01-13,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 01,10,3.34,2.66
+2026-01-13,Santiago,Com. Baamonde,CL0069,Hostelería,Congelados,Congelados — Ref. 08,8,7.98,6.09
+2026-01-13,Santiago,Com. Ferreiro,CL0049,Comercio,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-13,Santiago,Com. Lema,CL0065,Hostelería,Congelados,Congelados — Ref. 03,10,5.11,3.71
+2026-01-13,A Coruña,Com. Seoane,CL0171,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,2,5.93,4.61
+2026-01-13,Santiago,Com. Ferreiro,CL0049,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,1,4.76,3.59
+2026-01-13,Lugo,Com. Doval,CL0160,Comercio,Conservas,Conservas — Ref. 04,6,1.25,0.98
+2026-01-13,Lugo,Com. Piñeiro,CL0047,Hostelería,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-13,Santiago,Com. Ferreiro,CL0043,Hostelería,Aperitivos,Aperitivos — Ref. 01,14,2.16,1.68
+2026-01-13,Lugo,Com. Requeixo,CL0166,Hostelería,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-13,A Coruña,Com. Otero,CL0036,Hostelería,Lácteos,Lácteos — Ref. 05,11,2.68,2.17
+2026-01-13,Santiago,Com. Novo,CL0097,Comercio,Conservas,Conservas — Ref. 04,3,1.25,0.98
+2026-01-13,Lugo,Com. Requeixo,CL0123,Hostelería,Conservas,Conservas — Ref. 04,19,1.25,0.98
+2026-01-13,A Coruña,Com. Freire,CL0117,Comercio,Vinos y licores,Vinos y licores — Ref. 02,22,21.24,14.50
+2026-01-13,A Coruña,Com. Seoane,CL0103,Hostelería,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-13,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 08,6,5.98,3.96
+2026-01-13,Santiago,Com. Ferreiro,CL0168,Hostelería,Cervezas,Cervezas — Ref. 08,5,3.06,2.21
+2026-01-13,Lugo,Com. Mosquera,CL0156,Comercio,Bebidas frías,Bebidas frías — Ref. 06,8,1.66,1.33
+2026-01-13,Lugo,Com. Corral,CL0151,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,5,6.78,5.45
+2026-01-13,Santiago,Com. Paz,CL0038,Hostelería,Cervezas,Cervezas — Ref. 08,4,3.06,2.21
+13/01/2026,Santiago,Com. Novo,CL0134,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,9,7.05,5.58
+2026-01-13,A Coruña,Com. Seoane,CL0035,Comercio,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-13,A Coruña,Com. Castro,CL0143,Comercio,Aperitivos,Aperitivos — Ref. 03,7,1.53,1.18
+2026-01-13,A Coruña,Com. Freire,CL0163,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-13,A Coruña,Com. Freire,CL0173,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,15,23.19,14.48
+2026-01-13,Lugo,Com. Mosquera,CL0059,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,4,1.46,1.12
+2026-01-13,A Coruña,Com. Vázquez,CL0177,Hostelería,Conservas,Conservas — Ref. 07,5,5.99,4.58
+2026-01-13,A Coruña,Com. Vázquez,CL0148,Comercio,Cervezas,Cervezas — Ref. 05,2,2.38,1.85
+2026-01-13,Lugo,Com. Doval,CL0132,Comercio,Vinos y licores,Vinos y licores — Ref. 09,6,23.19,14.48
+2026-01-13,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-13,A Coruña,Com. García,CL0056,Hostelería,Congelados,Congelados — Ref. 06,12,2.84,2.26
+2026-01-13,santiago ,Com. Fernández,CL0110,Comercio,Vinos y licores,Vinos y licores — Ref. 04,11,18.33,14.02
+2026-01-13,Santiago,Com. Baamonde,CL0069,Hostelería,Cervezas,Cervezas — Ref. 08,9,3.06,2.21
+2026-01-13,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 04,4,5.93,4.78
+2026-01-13,A Coruña,Com. Freire,CL0138,Comercio,Cervezas,Cervezas — Ref. 07,4,1.76,1.45
+2026-01-13,Lugo,Com. Piñeiro,CL0113,Hostelería,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-13,A Coruña,Com. Vázquez,CL0148,Comercio,Conservas,Conservas — Ref. 03,15,4.98,3.54
+2026-01-13,Lugo,Com. Doval,CL0076,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,17,0.62,0.50
+2026-01-13,Lugo,Com. Requeixo,CL0146,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-13,Santiago,Com. Novo,CL0152,Hostelería,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-13,Lugo,Com. Piñeiro,CL0153,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,2,10.02,7.30
+2026-01-13,A Coruña,Com. Fernández,CL0110,Comercio,Bebidas frías,Bebidas frías — Ref. 04,5,0.97,0.71
+2026-01-13,Lugo,Com. Doval,CL0160,Comercio,Cervezas,Cervezas — Ref. 06,1,3.38,2.50
+2026-01-13,Santiago,Com. Ferreiro,CL0005,Comercio,Lácteos,Lácteos — Ref. 06,1,1.02,0.86
+2026-01-13,Santiago,Com. Paz,CL0014,Hostelería,Conservas,Conservas — Ref. 01,7,4.24,2.92
+2026-01-13,Santiago,Com. Iglesias,CL0039,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,3,0.62,0.50
+2026-01-13,Lugo,Com. Doval,CL0160,Comercio,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-13,Lugo,Com. Requeixo,CL0118,Comercio,Cervezas,Cervezas — Ref. 04,2,1.37,1.13
+2026-01-13,A Coruña,Com. Seoane,CL0150,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,16,6.78,5.45
+2026-01-13,Santiago,Com. Paz,CL0014,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,18,16.58,10.77
+2026-01-13,Lugo,Com. Requeixo,CL0166,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,28,18.33,14.02
+2026-01-13,Santiago,Com. Barreiro,CL0080,Comercio,Lácteos,Lácteos — Ref. 05,26,2.68,2.17
+2026-01-14,A Coruña,Com. Vázquez,CL0115,Hostelería,Conservas,Conservas — Ref. 05,21,1.90,1.33
+2026-01-14,Lugo,Com. Corral,CL0151,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,17,0.97,0.71
+2026-01-14,A Coruña,Com. Freire,CL0139,Hostelería,Lácteos,Lácteos — Ref. 05,8,2.68,2.17
+2026-01-14,A Coruña,Com. Freire,CL0077,Hostelería,Cervezas,Cervezas — Ref. 07,1,1.76,1.45
+2026-01-14,Lugo,Com. Piñeiro,CL0047,Hostelería,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-14,Lugo,Com. Piñeiro,CL0046,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,12,3.87,2.86
+2026-01-14,Lugo,Com. Requeixo,CL0179,Comercio,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-14,A Coruña,Com. Fernández,CL0082,Hostelería,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-14,A Coruña,Com. Freire,CL0117,Comercio,Cervezas,Cervezas — Ref. 02,3,1.34,1.08
+2026-01-14,Santiago,Com. Ferreiro,CL0005,Comercio,Aperitivos,Aperitivos — Ref. 04,6,1.35,0.89
+2026-01-14,A Coruña,Com. Seoane,CL0104,Comercio,Lácteos,Lácteos — Ref. 03,27,2.93,2.55
+2026-01-14,A Coruña,Com. García,CL0062,Hostelería,Congelados,Congelados — Ref. 08,19,7.98,6.09
+2026-01-14,A Coruña,Com. Fernández,CL0110,Comercio,Cervezas,Cervezas — Ref. 04,9,1.37,1.13
+2026-01-14,Lugo,Com. Doval,CL0160,Comercio,Vinos y licores,Vinos y licores — Ref. 10,16,23.86,15.70
+2026-01-14,A Coruña,Com. Pérez,CL0011,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-14,Santiago,Com. Ferreiro,CL0043,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,8,23.19,14.48
+2026-01-14,Santiago,Com. Barreiro,CL0074,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,15,0.62,0.50
+2026-01-14,A Coruña,Com. Souto,CL0170,Comercio,Bebidas frías,Bebidas frías — Ref. 07,19,1.46,1.12
+2026-01-14,Santiago,Com. Paz,CL0093,Comercio,Aperitivos,Aperitivos — Ref. 02,6,2.25,1.67
+2026-01-14,Santiago,Com. Barreiro,CL0080,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-14,A Coruña,Com. Pérez,CL0010,Comercio,Cervezas,Cervezas — Ref. 01,4,3.34,2.66
+2026-01-14,A Coruña,Com. Seoane,CL0150,Hostelería,Lácteos,Lácteos — Ref. 07,6,3.70,3.02
+2026-01-14,A Coruña,Com. Pérez,CL0010,Comercio,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-14,A Coruña,Com. Souto,CL0058,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,2,7.59,4.98
+2026-01-14,Lugo,Com. Corral,CL0078,Hostelería,Lácteos,Lácteos — Ref. 03,-8,2.93,2.55
+2026-01-14,A Coruña,Com. Freire,CL0063,Comercio,Lácteos,Lácteos — Ref. 02,2,2.76,2.28
+2026-01-14,A Coruña,Com. Rey,CL0022,Comercio,Aperitivos,Aperitivos — Ref. 05,6,1.08,0.75
+2026-01-14,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,3,16.46,12.52
+2026-01-14,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-14,A Coruña,Com. Freire,CL0173,Hostelería,Cervezas,Cervezas — Ref. 04,5,1.37,1.13
+2026-01-14,A Coruña,Com. Souto,CL0170,Comercio,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-14,A Coruña,Com. Vázquez,CL0177,Hostelería,Lácteos,Lácteos — Ref. 02,45,2.76,2.28
+2026-01-14,A Coruña,Com. Pérez,CL0136,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-14,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 07,18,1.46,1.12
+2026-01-14,Santiago,Com. Ferreiro,CL0030,Comercio,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-14,A Coruña,Com. Seoane,CL0100,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,16,2.45,1.92
+2026-01-14,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+14/01/2026,Santiago,Com. Novo,CL0061,Hostelería,Cervezas,Cervezas — Ref. 01,1,3.34,2.66
+2026-01-14,Santiago,Com. Ferreiro,CL0005,Comercio,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-14,A Coruña,Com. Fernández,CL0079,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,3,0.75,0.61
+2026-01-14,A Coruña,Com. Castro,CL0143,Comercio,Lácteos,Lácteos — Ref. 06,2,1.02,0.86
+2026-01-14,A Coruña,Com. Seoane,CL0035,Comercio,Congelados,Congelados — Ref. 05,7,2.69,1.89
+2026-01-14,A Coruña,Com. Freire,CL0174,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-14,A Coruña,Com. Seoane,CL0126,Hostelería,Aperitivos,Aperitivos — Ref. 02,2,2.25,1.67
+2026-01-14,Lugo,Com. Requeixo,CL0118,Comercio,Conservas,Conservas — Ref. 02,2,2.81,2.10
+2026-01-14,A Coruña,Com. Fernández,CL0158,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-14,A Coruña,Com. Pérez,CL0136,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,2,21.24,14.50
+2026-01-14,A Coruña,Com. Vázquez,CL0177,Hostelería,Conservas,Conservas — Ref. 03,7,4.98,3.54
+2026-01-14,Lugo,Com. Doval,CL0135,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,4,18.33,14.02
+2026-01-14,A Coruña,Com. Seoane,CL0125,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,4,5.93,4.61
+2026-01-14,Santiago,Com. Paz,CL0038,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,9,7.05,5.58
+2026-01-14,Santiago,Com. Paz,CL0147,Comercio,Vinos y licores,Vinos y licores — Ref. 02,25,21.24,14.50
+2026-01-14,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-14,Santiago,Com. Novo,CL0134,Comercio,Lácteos,Lácteos — Ref. 03,2,2.93,2.55
+2026-01-15,A Coruña,Com. Vázquez,CL0001,Hostelería,Lácteos,Lácteos — Ref. 02,8,2.76,2.28
+15/01/2026,A Coruña,Com. García,CL0018,Hostelería,Congelados,Congelados — Ref. 04,1,5.93,4.78
+2026-01-15,Lugo,Com. Requeixo,CL0107,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-15,A Coruña,Com. García,CL0062,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-15,A Coruña,Com. García,CL0057,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-15,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 01,2,1.71,1.47
+2026-01-15,A Coruña,Com. Castro,CL0091,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,11,0.82,0.66
+2026-01-15,Lugo,Com. Corral,CL0055,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,45,1.66,1.33
+2026-01-15,A Coruña,Com. Vázquez,CL0064,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,17,1.23,0.91
+2026-01-15,A Coruña,Com. Freire,CL0109,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,5,23.19,14.48
+2026-01-15,Lugo,Com. Doval,CL0050,Comercio,Lácteos,Lácteos — Ref. 05,3,2.68,2.17
+2026-01-15,A Coruña,Com. García,CL0018,Hostelería,Lácteos,Lácteos — Ref. 02,23,2.76,2.28
+2026-01-15,Santiago,Com. Iglesias,CL0039,Hostelería,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-15,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 04,3,1.34,1.06
+2026-01-15,Lugo,Com. Corral,CL0040,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,3,4.34,3.27
+2026-01-15,A Coruña,Com. Freire,CL0096,Comercio,Cervezas,Cervezas — Ref. 02,12,1.34,1.08
+2026-01-15,Santiago,Com. Novo,CL0044,Comercio,Lácteos,Lácteos — Ref. 05,3,2.68,2.17
+2026-01-15,A Coruña,Com. García,CL0016,Hostelería,Aperitivos,Aperitivos — Ref. 03,3,1.53,1.18
+2026-01-15,A Coruña,Com. Fernández,CL0098,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,3,3.64,2.43
+2026-01-15,A Coruña,Com. Seoane,CL0126,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,7,6.78,5.45
+2026-01-15,A Coruña,Com. Castro,CL0143,Comercio,Congelados,Congelados — Ref. 03,3,5.11,3.71
+2026-01-15,A Coruña,Com. García,CL0165,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-15,Santiago,Com. Ferreiro,CL0049,Comercio,Cervezas,Cervezas — Ref. 01,9,3.34,2.66
+2026-01-15,Lugo,Com. Piñeiro,CL0153,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,7,4.76,3.59
+2026-01-15,Lugo,Com. Piñeiro,CL0029,Comercio,Conservas,Conservas — Ref. 01,2,4.24,2.92
+2026-01-15,Lugo,Com. Requeixo,CL0123,Hostelería,Congelados,Congelados — Ref. 08,3,7.98,6.09
+2026-01-15,Lugo,Com. Corral,CL0055,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-15,Lugo,Com. Requeixo,CL0087,Comercio,Cervezas,Cervezas — Ref. 03,3,1.79,1.30
+2026-01-15,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 05,3,16.46,12.52
+2026-01-15,Santiago,Com. Paz,CL0054,Hostelería,Congelados,Congelados — Ref. 08,4,7.98,6.09
+2026-01-15,A Coruña,Com. Pérez,CL0136,Hostelería,Congelados,Congelados — Ref. 06,8,2.84,2.26
+2026-01-15,Santiago,Com. Paz,CL0094,Comercio,Cervezas,Cervezas — Ref. 07,5,1.76,1.45
+2026-01-15,Santiago,Com. Novo,CL0134,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,2,6.78,5.45
+2026-01-15,Santiago,Com. Novo,CL0178,Hostelería,Aperitivos,Aperitivos — Ref. 05,6,1.08,0.75
+2026-01-15,Santiago,Com. Paz,CL0093,Comercio,Lácteos,Lácteos — Ref. 07,2,3.70,3.02
+2026-01-15,Santiago,Com. Paz,CL0014,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,8,4.76,3.59
+2026-01-15,Lugo,Com. Piñeiro,CL0159,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-15,A Coruña,Com. Castro,CL0091,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,9,6.78,5.45
+2026-01-15,Lugo,Com. Piñeiro,CL0067,Hostelería,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-15,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 02,10,2.25,1.67
+2026-01-15,Lugo,Com. Requeixo,CL0107,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,16,3.87,2.86
+2026-01-15,A Coruña,Com. Freire,CL0096,Comercio,Congelados,Congelados — Ref. 08,,7.98,6.09
+2026-01-15,Lugo,Com. Requeixo,CL0118,Comercio,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-15,Lugo,Com. Piñeiro,CL0159,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,3,16.58,10.77
+2026-01-15,Santiago,Com. Paz,CL0054,Hostelería,Cervezas,Cervezas — Ref. 05,5,2.38,1.85
+2026-01-15,Santiago,Com. Novo,CL0017,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,10,23.86,15.70
+2026-01-15,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 01,-5,1.71,1.47
+2026-01-15,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-15,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-15,A Coruña,Com. Pérez,CL0136,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,3,21.24,14.50
+2026-01-15,Lugo,Com. Corral,CL0040,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,12,6.78,5.45
+2026-01-15,A Coruña,Com. López,CL0149,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,8,23.19,14.48
+2026-01-15,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,4,0.82,0.66
+2026-01-15,Lugo,Com. Requeixo,CL0118,Comercio,Cervezas,Cervezas — Ref. 07,2,1.76,1.45
+2026-01-15,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 05,12,1.90,1.33
+2026-01-15,Santiago,Com. Lema,CL0071,Hostelería,Lácteos,Lácteos — Ref. 01,4,1.71,1.47
+2026-01-15,Santiago,Com. Iglesias,CL0028,Comercio,Cervezas,Cervezas — Ref. 04,3,1.37,1.13
+2026-01-15,Santiago,Com. Barreiro,CL0083,Comercio,Congelados,Congelados — Ref. 07,3,4.35,3.19
+2026-01-15,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 10,9,23.86,15.70
+2026-01-15,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 03,4,0.82,0.66
+2026-01-15,Lugo,Com. Doval,CL0135,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,22,23.86,15.70
+2026-01-15,Lugo,Com. Mosquera,CL0156,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,7,7.05,5.58
+2026-01-15,A Coruña,Com. Pérez,CL0011,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,6,6.78,5.45
+2026-01-16,A Coruña,Com. Fernández,CL0098,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-16,Santiago,Com. Lema,CL0085,Hostelería,Lácteos,Lácteos — Ref. 02,48,2.76,2.28
+2026-01-16,Lugo,Com. Corral,CL0151,Hostelería,Cervezas,Cervezas — Ref. 05,27,2.38,1.85
+2026-01-16,A Coruña,Com. Otero,CL0075,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-16,A Coruña,Com. Vázquez,CL0148,Comercio,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-16,A Coruña,Com. Freire,CL0019,Comercio,Aperitivos,Aperitivos — Ref. 04,4,1.35,0.89
+2026-01-16,Lugo,Com. Mosquera,CL0156,Comercio,Congelados,Congelados — Ref. 06,23,2.84,2.26
+2026-01-16,A Coruña,Com. Fernández,CL0155,Comercio,Congelados,Congelados — Ref. 08,10,7.98,6.09
+2026-01-16,Lugo,Com. Requeixo,CL0145,Comercio,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-16,Santiago,Com. Ferreiro,CL0031,Comercio,Vinos y licores,Vinos y licores — Ref. 06,4,3.87,2.86
+2026-01-16,Santiago,Com. Novo,CL0162,Hostelería,Congelados,Congelados — Ref. 03,2,5.11,3.71
+2026-01-16,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 02,4,21.24,14.50
+2026-01-16,Santiago,Com. Iglesias,CL0004,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,11,21.24,14.50
+2026-01-16,Santiago,Com. Barreiro,CL0080,Comercio,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-16,Lugo,Com. Piñeiro,CL0029,Comercio,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-16,A Coruña,Com. García,CL0169,Hostelería,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-16,A Coruña,Com. Rey,CL0020,Comercio,Bebidas frías,Bebidas frías — Ref. 09,19,0.75,0.61
+2026-01-16,Santiago,Com. Paz,CL0094,Comercio,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-16,A Coruña,Com. Pérez,CL0112,Comercio,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-16,Santiago,Com. Paz,CL0154,Comercio,Conservas,Conservas — Ref. 03,6,4.98,3.54
+2026-01-16,Lugo,Com. Requeixo,CL0157,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,1,4.76,3.59
+16/01/2026,A Coruña,Com. Seoane,CL0126,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,21,1.23,0.91
+2026-01-16,Lugo,Com. Requeixo,CL0123,Hostelería,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-16,Lugo,Com. Mosquera,CL0073,Hostelería,Aperitivos,Aperitivos — Ref. 03,4,1.53,1.18
+2026-01-16,A Coruña,Com. Vázquez,CL0001,Hostelería,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-16,Santiago,Com. Baamonde,CL0069,Hostelería,Cervezas,Cervezas — Ref. 07,3,1.76,1.45
+2026-01-16,A Coruña,Com. Vázquez,CL0064,Hostelería,Congelados,Congelados — Ref. 04,3,5.93,4.78
+2026-01-16,A Coruña,Com. Rodríguez,CL0024,Comercio,Vinos y licores,Vinos y licores — Ref. 03,14,7.59,4.98
+2026-01-16,Lugo,Com. Requeixo,CL0118,Comercio,Lácteos,Lácteos — Ref. 01,1,1.71,1.47
+2026-01-16,A Coruña,Com. García,CL0057,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,13,1.23,0.91
+2026-01-16,A Coruña,Com. Seoane,CL0171,Hostelería,Congelados,Congelados — Ref. 06,14,2.84,2.26
+2026-01-16,A Coruña,Com. Otero,CL0075,Comercio,Congelados,Congelados — Ref. 01,8,8.94,7.12
+2026-01-16,Santiago,Com. Paz,CL0147,Comercio,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-16,Santiago,Com. Paz,CL0014,Hostelería,Lácteos,Lácteos — Ref. 05,8,2.68,2.17
+2026-01-16,A Coruña,Com. Souto,CL0170,Comercio,Aperitivos,Aperitivos — Ref. 03,3,1.53,1.18
+2026-01-16,A Coruña,Com. Rey,CL0020,Comercio,Cervezas,Cervezas — Ref. 02,7,1.34,1.08
+2026-01-16,A Coruña,Com. García,CL0033,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,20,0.84,0.61
+2026-01-16,A Coruña,Com. Vázquez,CL0001,Hostelería,Aperitivos,Aperitivos — Ref. 03,7,1.53,1.18
+2026-01-16,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 03,3,1.53,1.18
+2026-01-16,A Coruña,Com. Otero,CL0075,Comercio,Lácteos,Lácteos — Ref. 04,1,1.34,1.06
+2026-01-16,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 08,16,16.58,10.77
+2026-01-16,Santiago,Com. Barreiro,CL0083,Comercio,Congelados,Congelados — Ref. 03,1,5.11,3.71
+2026-01-16,Santiago,Com. Ferreiro,CL0133,Comercio,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-16,A Coruña,Com. Seoane,CL0121,Comercio,Cervezas,Cervezas — Ref. 04,6,1.37,1.13
+2026-01-16,Santiago,Com. Novo,CL0152,Hostelería,Conservas,Conservas — Ref. 07,4,5.99,4.58
+2026-01-16,A Coruña,Com. Vázquez,CL0001,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,8,16.58,10.77
+2026-01-16,A Coruña,Com. Fernández,CL0052,Hostelería,Congelados,Congelados — Ref. 08,8,7.98,6.09
+2026-01-16,A Coruña,Com. López,CL0161,Hostelería,Cervezas,Cervezas — Ref. 04,10,1.37,1.13
+2026-01-16,Santiago,Com. Baamonde,CL0069,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-16,A Coruña,Com. Vázquez,CL0001,Hostelería,Congelados,Congelados — Ref. 05,5,2.69,1.89
+2026-01-16,A Coruña,Com. Freire,CL0173,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,3,0.82,0.66
+2026-01-16,Santiago,Com. Novo,CL0134,Comercio,Lácteos,Lácteos — Ref. 01,1,1.71,1.47
+2026-01-16,A Coruña,Com. García,CL0033,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,12,3.87,2.86
+2026-01-16,Lugo,Com. Doval,CL0105,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,4,4.34,3.27
+2026-01-16,A Coruña,Com. Souto,CL0164,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-16,Santiago,Com. Novo,CL0134,Comercio,Lácteos,Lácteos — Ref. 07,27,3.70,3.02
+2026-01-16,A Coruña,Com. Fernández,CL0098,Hostelería,Cervezas,Cervezas — Ref. 01,2,3.34,2.66
+2026-01-16,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 05,7,2.69,1.89
+2026-01-16,A Coruña,Com. Freire,CL0063,Comercio,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-16,A Coruña,Com. Rey,CL0144,Hostelería,Lácteos,Lácteos — Ref. 03,2,2.93,2.55
+2026-01-16,Santiago,Com. Barreiro,CL0083,Comercio,Vinos y licores,Vinos y licores — Ref. 02,5,21.24,14.50
+2026-01-16,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,4,0.82,0.66
+2026-01-16,Santiago,Com. Ferreiro,CL0005,Comercio,Congelados,Congelados — Ref. 07,3,4.35,3.19
+2026-01-16,Lugo,Com. Piñeiro,CL0141,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,8,2.45,1.92
+2026-01-16,A Coruña,Com. Fernández,CL0079,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-16,A Coruña,Com. Vázquez,CL0064,Hostelería,Conservas,Conservas — Ref. 05,2,1.90,1.33
+2026-01-16,A Coruña,Com. Fernández,CL0002,Comercio,Lácteos,Lácteos — Ref. 02,3,2.76,2.28
+2026-01-16,Lugo,Com. Piñeiro,CL0159,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,39,7.59,4.98
+2026-01-16,A Coruña,Com. Vázquez,CL0177,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,4,2.45,1.92
+2026-01-17,santiago ,Com. Requeixo,CL0118,Comercio,Bebidas frías,Bebidas frías — Ref. 07,-3,1.46,1.12
+2026-01-17,A Coruña,Com. Fernández,CL0082,Hostelería,Aperitivos,Aperitivos — Ref. 01,5,2.16,1.68
+2026-01-17,Lugo,Com. Doval,CL0007,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-17,A Coruña,Com. García,CL0018,Hostelería,Conservas,Conservas — Ref. 08,3,5.98,3.96
+2026-01-17,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,25,23.86,15.70
+2026-01-17,Lugo,Com. Requeixo,CL0123,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,4,0.62,0.50
+2026-01-17,A Coruña,Com. Freire,CL0060,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,-12,5.93,4.61
+2026-01-17,Santiago,Com. Paz,CL0129,Comercio,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-17,Santiago,Com. Paz,CL0147,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,-9,5.93,4.61
+2026-01-17,Santiago,Com. Paz,CL0154,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-17,A Coruña,Com. Rey,CL0020,Comercio,Vinos y licores,Vinos y licores — Ref. 07,2,10.02,7.30
+2026-01-17,A Coruña,Com. Vázquez,CL0001,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,3,0.62,0.50
+2026-01-17,Santiago,Com. Barreiro,CL0080,Comercio,Cervezas,Cervezas — Ref. 03,4,1.79,1.30
+2026-01-17,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-17,Santiago,Com. Paz,CL0014,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,5,16.46,12.52
+2026-01-17,A Coruña,Com. García,CL0120,Comercio,Cervezas,Cervezas — Ref. 02,2,1.34,1.08
+2026-01-17,Santiago,Com. Paz,CL0038,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,6,21.24,14.50
+2026-01-17,A Coruña,Com. Rodríguez,CL0066,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-17,A Coruña,Com. Souto,CL0172,Comercio,Cervezas,Cervezas — Ref. 01,10,3.34,2.66
+2026-01-17,Lugo,Com. Requeixo,CL0118,Comercio,Bebidas frías,Bebidas frías — Ref. 09,4,0.75,0.61
+2026-01-17,A Coruña,Com. Otero,CL0075,Comercio,Bebidas frías,Bebidas frías — Ref. 08,5,1.26,0.88
+2026-01-17,A Coruña,Com. García,CL0169,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-17,A Coruña,Com. Freire,CL0174,Comercio,Bebidas frías,Bebidas frías — Ref. 03,2,0.82,0.66
+2026-01-17,A Coruña,Com. Freire,CL0109,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,28,2.45,1.92
+2026-01-17,Lugo,Com. Corral,CL0167,Hostelería,Conservas,Conservas — Ref. 01,31,4.24,2.92
+2026-01-17,A Coruña,Com. Vázquez,CL0001,Hostelería,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-17,Santiago,Com. Ferreiro,CL0168,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,30,7.05,5.58
+2026-01-17,Lugo,Com. Doval,CL0076,Hostelería,Conservas,Conservas — Ref. 04,7,1.25,0.98
+2026-01-17,A Coruña,Com. Rey,CL0022,Comercio,Aperitivos,Aperitivos — Ref. 02,2,2.25,1.67
+2026-01-17,A Coruña,Com. Seoane,CL0121,Comercio,Lácteos,Lácteos — Ref. 01,17,1.71,1.47
+2026-01-17,A Coruña,Com. Seoane,CL0089,Comercio,Cervezas,Cervezas — Ref. 02,7,1.34,1.08
+2026-01-17,A Coruña,Com. Vázquez,CL0177,Hostelería,Cervezas,Cervezas — Ref. 01,34,3.34,2.66
+2026-01-17,Lugo,Com. Piñeiro,CL0153,Hostelería,Congelados,Congelados — Ref. 01,25,8.94,7.12
+2026-01-17,A Coruña,Com. Freire,CL0117,Comercio,Congelados,Congelados — Ref. 03,4,5.11,3.71
+2026-01-17,A Coruña,Com. Seoane,CL0125,Hostelería,Cervezas,Cervezas — Ref. 06,11,3.38,2.50
+2026-01-17,Santiago,Com. Ferreiro,CL0030,Comercio,Lácteos,Lácteos — Ref. 05,2,2.68,2.17
+2026-01-17,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 03,16,0.82,0.66
+2026-01-17,Lugo,Com. Piñeiro,CL0029,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,7,6.78,5.45
+2026-01-17,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,2,7.59,4.98
+2026-01-17,A Coruña,Com. Freire,CL0109,Hostelería,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-17,A Coruña,Com. Vázquez,CL0148,Comercio,Congelados,Congelados — Ref. 08,17,7.98,6.09
+2026-01-17,Lugo,Com. Doval,CL0132,Comercio,Congelados,Congelados — Ref. 02,5,5.18,3.75
+2026-01-17,A Coruña,Com. Seoane,CL0089,Comercio,Cervezas,Cervezas — Ref. 04,4,"1,37",1.13
+2026-01-17,A Coruña,Com. García,CL0016,Hostelería,Congelados,Congelados — Ref. 02,21,5.18,3.75
+2026-01-17,Lugo,Com. Corral,CL0167,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,10,21.24,14.50
+2026-01-17,Lugo,Com. Mosquera,CL0156,Comercio,Cervezas,Cervezas — Ref. 06,17,3.38,2.50
+2026-01-17,Santiago,Com. Ferreiro,CL0168,Hostelería,Congelados,Congelados — Ref. 02,13,5.18,3.75
+2026-01-17,Lugo,Com. Piñeiro,CL0029,Comercio,Congelados,Congelados — Ref. 07,6,4.35,3.19
+2026-01-17,A Coruña,Com. Otero,CL0122,Hostelería,Lácteos,Lácteos — Ref. 07,30,3.70,3.02
+2026-01-17,A Coruña,Com. Souto,CL0048,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,3,0.75,0.61
+2026-01-17,Santiago,Com. Ferreiro,CL0005,Comercio,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-17,Lugo,Com. Corral,CL0078,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,5,1.23,0.91
+2026-01-17,A Coruña,Com. Fernández,CL0023,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,10,16.58,10.77
+2026-01-17,A Coruña,Com. Seoane,CL0025,Hostelería,Aperitivos,Aperitivos — Ref. 01,2,2.16,1.68
+2026-01-17,Santiago,Com. Ferreiro,CL0049,Comercio,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-17,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 08,1,3.06,2.21
+2026-01-17,Lugo,Com. Requeixo,CL0145,Comercio,Congelados,Congelados — Ref. 01,29,8.94,7.12
+2026-01-17,Lugo,Com. Piñeiro,CL0141,Hostelería,Congelados,Congelados — Ref. 02,11,5.18,3.75
+2026-01-17,A Coruña,Com. Seoane,CL0171,Hostelería,Aperitivos,Aperitivos — Ref. 05,22,1.08,0.75
+2026-01-17,Santiago,Com. Paz,CL0038,Hostelería,Conservas,Conservas — Ref. 02,7,"2,81",2.10
+2026-01-17,Santiago,Com. Iglesias,CL0039,Hostelería,Aperitivos,Aperitivos — Ref. 04,10,1.35,0.89
+2026-01-17,A Coruña,Com. Rodríguez,CL0037,Hostelería,Cervezas,Cervezas — Ref. 07,6,1.76,1.45
+2026-01-17,Santiago,Com. Novo,CL0061,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,10,5.93,4.61
+2026-01-17,Santiago,Com. Novo,CL0061,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,2,2.45,1.92
+2026-01-17,Lugo,Com. Requeixo,CL0118,Comercio,Congelados,Congelados — Ref. 06,20,2.84,2.26
+2026-01-17,A Coruña,Com. Seoane,CL0171,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,8,3.64,2.43
+2026-01-17,Lugo,Com. Doval,CL0132,Comercio,Congelados,Congelados — Ref. 05,4,2.69,1.89
+2026-01-17,Santiago,Com. Ferreiro,CL0168,Hostelería,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-17,A Coruña,Com. García,CL0057,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,3,4.76,3.59
+2026-01-17,Santiago,Com. Lema,CL0071,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,7,1.26,0.88
+2026-01-17,A Coruña,Com. Seoane,CL0121,Comercio,Lácteos,Lácteos — Ref. 02,2,2.76,2.28
+2026-01-17,A Coruña,Com. Rey,CL0022,Comercio,Cervezas,Cervezas — Ref. 06,3,3.38,2.50
+2026-01-17,Santiago,Com. Paz,CL0014,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,2,0.84,0.61
+2026-01-17,Lugo,Com. Doval,CL0007,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,11,0.84,0.61
+2026-01-17,A Coruña,Com. Rodríguez,CL0037,Hostelería,Cervezas,Cervezas — Ref. 04,4,1.37,1.13
+2026-01-17,Lugo,Com. Requeixo,CL0146,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-18,Lugo,Com. Piñeiro,CL0153,Hostelería,Cervezas,Cervezas — Ref. 01,1,3.34,2.66
+2026-01-18,Lugo,Com. Piñeiro,CL0153,Hostelería,Conservas,Conservas — Ref. 02,3,2.81,2.10
+2026-01-18,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,6,1.66,1.33
+2026-01-18,A Coruña,Com. Vázquez,CL0064,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,25,2.45,1.92
+2026-01-18,A Coruña,Com. García,CL0018,Hostelería,Lácteos,Lácteos — Ref. 06,4,1.02,0.86
+2026-01-18,Lugo,Com. Corral,CL0055,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-18,Lugo,Com. Requeixo,CL0087,Comercio,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-18,A Coruña,Com. García,CL0057,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,5,2.45,1.92
+2026-01-18,Santiago,Com. Baamonde,CL0072,Comercio,Bebidas frías,Bebidas frías — Ref. 08,44,1.26,0.88
+2026-01-18,A Coruña,Com. López,CL0130,Hostelería,Cervezas,Cervezas — Ref. 03,3,1.79,1.30
+2026-01-18,Santiago,Com. Novo,CL0111,Hostelería,Congelados,Congelados — Ref. 04,4,5.93,4.78
+2026-01-18,Santiago,Com. Ferreiro,CL0030,Comercio,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-18,Lugo,Com. Piñeiro,CL0159,Hostelería,Congelados,Congelados — Ref. 04,1,5.93,4.78
+2026-01-18,A Coruña,Com. Fernández,CL0127,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,6,4.34,3.27
+2026-01-18,A Coruña,Com. Rey,CL0020,Comercio,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-18,Lugo,Com. Requeixo,CL0118,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-18,Santiago,Com. Lema,CL0071,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-18,Santiago,Com. Novo,CL0044,Comercio,Bebidas frías,Bebidas frías — Ref. 04,3,0.97,0.71
+2026-01-18,A Coruña,Com. Souto,CL0170,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,5,4.76,3.59
+2026-01-18,Lugo,Com. Mosquera,CL0156,Comercio,Conservas,Conservas — Ref. 02,6,2.81,2.10
+2026-01-18,A Coruña,Com. Seoane,CL0100,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,3,16.46,12.52
+2026-01-18,A Coruña,Com. García,CL0120,Comercio,Lácteos,Lácteos — Ref. 06,13,1.02,0.86
+2026-01-18,A Coruña,Com. Fernández,CL0127,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-18,A Coruña,Com. García,CL0032,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-18,Santiago,Com. Novo,CL0084,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,5,7.59,4.98
+2026-01-18,Lugo,Com. Piñeiro,CL0141,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,5,16.58,10.77
+2026-01-18,A Coruña,Com. López,CL0149,Hostelería,Lácteos,Lácteos — Ref. 03,34,2.93,2.55
+2026-01-18,A Coruña,Com. Freire,CL0060,Hostelería,Congelados,Congelados — Ref. 03,7,5.11,3.71
+2026-01-18,A Coruña,Com. Freire,CL0173,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,37,23.19,14.48
+2026-01-18,A Coruña,Com. Freire,CL0063,Comercio,Bebidas frías,Bebidas frías — Ref. 08,2,1.26,0.88
+2026-01-18,Santiago,Com. Paz,CL0054,Hostelería,Lácteos,Lácteos — Ref. 05,2,2.68,2.17
+2026-01-18,A Coruña,Com. Freire,CL0063,Comercio,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-18,Santiago,Com. Novo,CL0044,Comercio,Cervezas,Cervezas — Ref. 07,4,1.76,1.45
+2026-01-18,A Coruña,Com. Seoane,CL0121,Comercio,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-18,Santiago,Com. Baamonde,CL0072,Comercio,Cervezas,Cervezas — Ref. 03,6,1.79,1.30
+2026-01-18,Santiago,Com. Baamonde,CL0124,Hostelería,Congelados,Congelados — Ref. 06,11,2.84,2.26
+2026-01-18,Santiago,Com. Barreiro,CL0083,Comercio,Bebidas frías,Bebidas frías — Ref. 06,13,1.66,1.33
+2026-01-18,Lugo,Com. Corral,CL0040,Comercio,Vinos y licores,Vinos y licores — Ref. 07,29,10.02,7.30
+2026-01-18,A Coruña,Com. Souto,CL0048,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,26,1.26,0.88
+2026-01-18,Lugo,Com. Piñeiro,CL0141,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,3,0.62,0.50
+2026-01-18,Santiago,Com. Lema,CL0085,Hostelería,Lácteos,Lácteos — Ref. 02,9,2.76,2.28
+2026-01-18,Santiago,Com. Paz,CL0093,Comercio,Cervezas,Cervezas — Ref. 06,16,3.38,2.50
+2026-01-18,A Coruña,Com. Freire,CL0138,Comercio,Conservas,Conservas — Ref. 07,8,5.99,4.58
+2026-01-18,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 08,6,5.98,3.96
+2026-01-18,A Coruña,Com. Fernández,CL0082,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-18,A Coruña,Com. Vázquez,CL0177,Hostelería,Lácteos,Lácteos — Ref. 04,19,1.34,1.06
+2026-01-18,A Coruña,Com. Seoane,CL0171,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-18,Santiago,Com. Barreiro,CL0080,Comercio,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-18,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,34,3.87,2.86
+2026-01-18,A Coruña,Com. Castro,CL0114,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,12,4.34,3.27
+2026-01-18,Lugo,Com. Requeixo,CL0107,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,6,23.86,15.70
+2026-01-18,Santiago,Com. Novo,CL0017,Hostelería,Aperitivos,Aperitivos — Ref. 05,16,1.08,0.75
+2026-01-18,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,7,0.97,0.71
+2026-01-18,A Coruña,Com. Otero,CL0070,Comercio,Congelados,Congelados — Ref. 08,3,7.98,6.09
+2026-01-18,A Coruña,Com. Freire,CL0063,Comercio,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-18,A Coruña,Com. Otero,CL0095,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,2,4.76,3.59
+2026-01-18,Santiago,Com. Ferreiro,CL0031,Comercio,Lácteos,Lácteos — Ref. 01,3,1.71,1.47
+2026-01-18,Santiago,Com. Iglesias,CL0108,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,10,0.62,0.50
+2026-01-18,Lugo,Com. Doval,CL0135,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,16,6.78,5.45
+2026-01-18,Santiago,Com. Barreiro,CL0080,Comercio,Aperitivos,Aperitivos — Ref. 03,11,1.53,1.18
+2026-01-18,A Coruña,Com. Freire,CL0117,Comercio,Aperitivos,Aperitivos — Ref. 02,12,2.25,1.67
+2026-01-18,A Coruña,Com. Seoane,CL0104,Comercio,Lácteos,Lácteos — Ref. 07,2,3.70,3.02
+2026-01-18,A Coruña,Com. Seoane,CL0025,Hostelería,Cervezas,Cervezas — Ref. 05,16,2.38,1.85
+2026-01-18,Santiago,Com. Lema,CL0085,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-18,A Coruña,Com. Seoane,CL0121,Comercio,Conservas,Conservas — Ref. 01,7,4.24,2.92
+2026-01-18,A Coruña,Com. Freire,CL0139,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,22,0.84,0.61
+2026-01-18,Santiago,Com. Novo,CL0134,Comercio,Bebidas frías,Bebidas frías — Ref. 04,2,0.97,0.71
+18/01/2026,Santiago,Com. Paz,CL0014,Hostelería,Aperitivos,Aperitivos — Ref. 06,13,1.64,1.23
+2026-01-18,A Coruña,Com. Seoane,CL0126,Hostelería,Congelados,Congelados — Ref. 02,1,"5,18",3.75
+2026-01-18,A Coruña,Com. Freire,CL0063,Comercio,Vinos y licores,Vinos y licores — Ref. 10,4,23.86,15.70
+2026-01-18,A Coruña,Com. Pérez,CL0010,Comercio,Aperitivos,Aperitivos — Ref. 02,13,2.25,1.67
+2026-01-20,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,13,4.34,3.27
+2026-01-20,A Coruña,Com. García,CL0033,Hostelería,Lácteos,Lácteos — Ref. 04,13,1.34,1.06
+2026-01-20,A Coruña,Com. Seoane,CL0150,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,6,7.05,5.58
+2026-01-20,A Coruña,Com. Freire,CL0077,Hostelería,Aperitivos,Aperitivos — Ref. 06,4,1.64,1.23
+2026-01-20,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 08,5,1.26,0.88
+2026-01-20,Lugo,Com. Requeixo,CL0146,Hostelería,Congelados,Congelados — Ref. 06,2,2.84,2.26
+2026-01-20,A Coruña,Com. Otero,CL0095,Comercio,Conservas,Conservas — Ref. 02,7,2.81,2.10
+2026-01-20,A Coruña,Com. Rodríguez,CL0037,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-20,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,4,0.82,0.66
+2026-01-20,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 01,7,2.16,1.68
+2026-01-20,Lugo,Com. Corral,CL0040,Comercio,Aperitivos,Aperitivos — Ref. 01,12,2.16,1.68
+2026-01-20,A Coruña,Com. Fernández,CL0079,Hostelería,Aperitivos,Aperitivos — Ref. 01,3,2.16,1.68
+2026-01-20,A Coruña,Com. Souto,CL0170,Comercio,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-20,Lugo,Com. Piñeiro,CL0067,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,10,0.97,0.71
+2026-01-20,A Coruña,Com. Pérez,CL0112,Comercio,Conservas,Conservas — Ref. 05,3,1.90,1.33
+2026-01-20,A Coruña,Com. Fernández,CL0127,Hostelería,Conservas,Conservas — Ref. 07,19,5.99,4.58
+2026-01-20,A Coruña,Com. Freire,CL0063,Comercio,Aperitivos,Aperitivos — Ref. 02,1,2.25,1.67
+2026-01-20,Santiago,Com. Paz,CL0147,Comercio,Congelados,Congelados — Ref. 04,1,5.93,4.78
+2026-01-20,Santiago,Com. Novo,CL0044,Comercio,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-20,A Coruña,Com. Vázquez,CL0148,Comercio,Bebidas frías,Bebidas frías — Ref. 01,2,0.62,0.50
+2026-01-20,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 05,21,1.90,1.33
+2026-01-20, lugo,Com. Corral,CL0078,Hostelería,Cervezas,Cervezas — Ref. 03,2,1.79,1.30
+2026-01-20,Lugo,Com. Piñeiro,CL0159,Hostelería,Congelados,Congelados — Ref. 05,20,2.69,1.89
+2026-01-20,Santiago,Com. Ferreiro,CL0049,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-20,A Coruña,Com. López,CL0116,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,31,3.64,2.43
+2026-01-20,A Coruña,Com. Souto,CL0170,Comercio,Bebidas frías,Bebidas frías — Ref. 08,20,1.26,0.88
+2026-01-20,Santiago,Com. Novo,CL0061,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-20,Santiago,Com. Paz,CL0038,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,3,4.76,3.59
+2026-01-20,A Coruña,Com. Rodríguez,CL0009,Hostelería,Lácteos,Lácteos — Ref. 03,6,2.93,2.55
+2026-01-20,Santiago,Com. Paz,CL0054,Hostelería,Congelados,Congelados — Ref. 07,1,4.35,3.19
+2026-01-20,Santiago,Com. Novo,CL0044,Comercio,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-20,A Coruña,Com. Rey,CL0026,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-20,Santiago,Com. Ferreiro,CL0168,Hostelería,Conservas,Conservas — Ref. 04,5,1.25,0.98
+2026-01-20,A Coruña,Com. Rodríguez,CL0090,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,19,4.34,3.27
+2026-01-20,Lugo,Com. Piñeiro,CL0159,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,6,5.93,4.61
+2026-01-20,Lugo,Com. Corral,CL0167,Hostelería,Lácteos,Lácteos — Ref. 07,1,3.70,3.02
+2026-01-20,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 04,14,1.37,1.13
+2026-01-20,A Coruña,Com. Souto,CL0058,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,16,4.76,3.59
+2026-01-20,Lugo,Com. Mosquera,CL0059,Hostelería,Conservas,Conservas — Ref. 07,6,5.99,4.58
+2026-01-20,A Coruña,Com. Seoane,CL0171,Hostelería,Lácteos,Lácteos — Ref. 01,6,1.71,1.47
+2026-01-20,santiago ,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 01,11,3.64,2.43
+2026-01-20,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 05,1,2.69,1.89
+2026-01-20,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 03,22,2.93,2.55
+2026-01-20,A Coruña,Com. Pérez,CL0112,Comercio,Conservas,Conservas — Ref. 03,,4.98,3.54
+2026-01-20,Santiago,Com. Lema,CL0071,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,8,7.05,5.58
+2026-01-20,Santiago,Com. Paz,CL0054,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-20,Lugo,Com. Piñeiro,CL0159,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,4,7.05,5.58
+2026-01-20,A Coruña,Com. Fernández,CL0079,Hostelería,Cervezas,Cervezas — Ref. 04,1,1.37,1.13
+2026-01-20,Lugo,Com. Mosquera,CL0059,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,11,7.59,4.98
+2026-01-20,A Coruña,Com. Castro,CL0091,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-20,A Coruña,Com. Seoane,CL0025,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,6,1.66,1.33
+2026-01-20,Santiago,Com. Ferreiro,CL0168,Hostelería,Congelados,Congelados — Ref. 04,4,5.93,4.78
+2026-01-21,A Coruña,Com. Rodríguez,CL0009,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-21,A Coruña,Com. Pérez,CL0092,Comercio,Lácteos,Lácteos — Ref. 02,9,2.76,2.28
+2026-01-21,A Coruña,Com. Souto,CL0128,Comercio,Congelados,Congelados — Ref. 05,3,2.69,1.89
+2026-01-21,Santiago,Com. Paz,CL0093,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,10,2.45,1.92
+2026-01-21,Lugo,Com. Requeixo,CL0087,Comercio,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-21,Lugo,Com. Piñeiro,CL0029,Comercio,Vinos y licores,Vinos y licores — Ref. 04,20,18.33,14.02
+2026-01-21,A Coruña,Com. Seoane,CL0027,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,13,7.05,5.58
+2026-01-21,A Coruña,Com. Otero,CL0122,Hostelería,Lácteos,Lácteos — Ref. 06,36,1.02,0.86
+2026-01-21,Santiago,Com. Ferreiro,CL0176,Hostelería,Aperitivos,Aperitivos — Ref. 01,25,2.16,1.68
+2026-01-21,A Coruña,Com. Freire,CL0138,Comercio,Congelados,Congelados — Ref. 02,6,5.18,3.75
+2026-01-21,Lugo,Com. Mosquera,CL0156,Comercio,Bebidas frías,Bebidas frías — Ref. 03,7,0.82,0.66
+2026-01-21,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-21,A Coruña,Com. Freire,CL0140,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,2,0.84,0.61
+2026-01-21,Lugo,Com. Piñeiro,CL0153,Hostelería,Aperitivos,Aperitivos — Ref. 04,10,1.35,0.89
+2026-01-21,Santiago,Com. Paz,CL0147,Comercio,Lácteos,Lácteos — Ref. 02,11,2.76,2.28
+2026-01-21,Lugo,Com. Requeixo,CL0146,Hostelería,Conservas,Conservas — Ref. 05,28,1.90,1.33
+2026-01-21,A Coruña,Com. Otero,CL0122,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,9,7.05,5.58
+2026-01-21,A Coruña,Com. Seoane,CL0027,Hostelería,Conservas,Conservas — Ref. 02,10,2.81,2.10
+2026-01-21,A Coruña,Com. Freire,CL0063,Comercio,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-21,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 07,25,3.70,3.02
+2026-01-21,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,6,23.86,15.70
+2026-01-21,Santiago,Com. Ferreiro,CL0005,Comercio,Bebidas frías,Bebidas frías — Ref. 02,2,1.23,0.91
+2026-01-21,A Coruña,Com. García,CL0032,Hostelería,Conservas,Conservas — Ref. 05,25,1.90,1.33
+2026-01-21,A Coruña,Com. Fernández,CL0098,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,3,4.34,3.27
+2026-01-21,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-21,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 03,22,2.93,2.55
+2026-01-21,A Coruña,Com. Seoane,CL0126,Hostelería,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-21,A Coruña,Com. Freire,CL0140,Hostelería,Conservas,Conservas — Ref. 08,2,5.98,3.96
+2026-01-21,Santiago,Com. Novo,CL0097,Comercio,Cervezas,Cervezas — Ref. 06,9,3.38,2.50
+2026-01-21,Lugo,Com. Doval,CL0102,Comercio,Bebidas frías,Bebidas frías — Ref. 01,5,0.62,0.50
+2026-01-21,Lugo,Com. Requeixo,CL0146,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,7,0.75,0.61
+2026-01-21,Lugo,Com. Corral,CL0040,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,5,4.34,3.27
+2026-01-21,Santiago,Com. Barreiro,CL0080,Comercio,Aperitivos,Aperitivos — Ref. 06,3,1.64,1.23
+2026-01-21,A Coruña,Com. García,CL0057,Hostelería,Aperitivos,Aperitivos — Ref. 01,4,2.16,1.68
+2026-01-21,A Coruña,Com. Fernández,CL0023,Hostelería,Vinos y licores,Vinos y licores — Ref. 08,1,16.58,10.77
+2026-01-21,Lugo,Com. Doval,CL0132,Comercio,Vinos y licores,Vinos y licores — Ref. 08,15,16.58,10.77
+2026-01-21,A Coruña,Com. Vázquez,CL0177,Hostelería,Cervezas,Cervezas — Ref. 05,17,2.38,1.85
+2026-01-21,Lugo,Com. Mosquera,CL0156,Comercio,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-21,A Coruña,Com. García,CL0016,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-21,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 03,1,5.11,3.71
+2026-01-21,Santiago,Com. Paz,CL0154,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,2,7.05,5.58
+2026-01-21,A Coruña,Com. Freire,CL0173,Hostelería,Congelados,Congelados — Ref. 01,2,8.94,7.12
+2026-01-21,A Coruña,Com. Rodríguez,CL0009,Hostelería,Lácteos,Lácteos — Ref. 02,4,2.76,2.28
+2026-01-21,A Coruña,Com. Seoane,CL0104,Comercio,Conservas,Conservas — Ref. 06,2,5.50,3.65
+2026-01-21,A Coruña,Com. Seoane,CL0121,Comercio,Lácteos,Lácteos — Ref. 02,8,2.76,2.28
+2026-01-21,Santiago,Com. Iglesias,CL0039,Hostelería,Cervezas,Cervezas — Ref. 08,11,3.06,2.21
+2026-01-21,Lugo,Com. Piñeiro,CL0141,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,8,2.45,1.92
+2026-01-21,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-21,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,19,18.33,14.02
+2026-01-21,Santiago,Com. Iglesias,CL0028,Comercio,Bebidas frías,Bebidas frías — Ref. 09,3,0.75,0.61
+2026-01-21,A Coruña,Com. López,CL0130,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,2,7.05,5.58
+2026-01-21,Santiago,Com. Iglesias,CL0004,Hostelería,Lácteos,Lácteos — Ref. 01,1,1.71,1.47
+2026-01-21,Lugo,Com. Piñeiro,CL0141,Hostelería,Conservas,Conservas — Ref. 08,4,5.98,3.96
+2026-01-21,Santiago,Com. Ferreiro,CL0049,Comercio,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-21,Lugo,Com. Doval,CL0132,Comercio,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-21,Santiago,Com. Barreiro,CL0080,Comercio,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-21,A Coruña,Com. López,CL0051,Hostelería,Cervezas,Cervezas — Ref. 07,17,1.76,1.45
+2026-01-21,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-21,Lugo,Com. Mosquera,CL0131,Hostelería,Cervezas,Cervezas — Ref. 02,19,1.34,1.08
+2026-01-21,Santiago,Com. Novo,CL0015,Hostelería,Aperitivos,Aperitivos — Ref. 01,6,2.16,1.68
+2026-01-21,A Coruña,Com. Fernández,CL0023,Hostelería,Congelados,Congelados — Ref. 02,15,5.18,3.75
+2026-01-21,A Coruña,Com. Vázquez,CL0001,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,4,"23,86",15.70
+2026-01-21,Santiago,Com. Lema,CL0071,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-21,A Coruña,Com. Rodríguez,CL0037,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,13,21.24,14.50
+2026-01-21,Santiago,Com. Novo,CL0044,Comercio,Congelados,Congelados — Ref. 08,6,7.98,6.09
+2026-01-21,A Coruña,Com. Rey,CL0022,Comercio,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-21,A Coruña,Com. Fernández,CL0023,Hostelería,Lácteos,Lácteos — Ref. 03,3,2.93,2.55
+2026-01-22,A Coruña,Com. Rodríguez,CL0090,Comercio,Cervezas,Cervezas — Ref. 07,2,1.76,1.45
+2026-01-22,A Coruña,Com. Seoane,CL0126,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-22,A Coruña,Com. Pérez,CL0136,Hostelería,Lácteos,Lácteos — Ref. 03,11,2.93,2.55
+2026-01-22,Santiago,Com. Paz,CL0038,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,8,23.86,15.70
+2026-01-22,A Coruña,Com. Seoane,CL0025,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-22,Santiago,Com. Paz,CL0014,Hostelería,Aperitivos,Aperitivos — Ref. 02,9,2.25,1.67
+2026-01-22,Santiago,Com. Lema,CL0071,Hostelería,Aperitivos,Aperitivos — Ref. 05,20,1.08,0.75
+2026-01-22,A Coruña,Com. Otero,CL0075,Comercio,Congelados,Congelados — Ref. 06,15,2.84,2.26
+2026-01-22,A Coruña,Com. Rey,CL0020,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-22,Santiago,Com. Lema,CL0065,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,20,3.87,2.86
+2026-01-22,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 04,34,0.97,0.71
+2026-01-22,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-22,CORUÑA,Com. Seoane,CL0126,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,16,7.59,4.98
+2026-01-22,A Coruña,Com. García,CL0033,Hostelería,Congelados,Congelados — Ref. 03,5,5.11,3.71
+2026-01-22,A Coruña,Com. Seoane,CL0025,Hostelería,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-22,Santiago,Com. Paz,CL0038,Hostelería,Lácteos,Lácteos — Ref. 02,17,2.76,2.28
+2026-01-22,Santiago,Com. Novo,CL0134,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-22,Santiago,Com. Barreiro,CL0074,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,3,4.34,3.27
+2026-01-22,A Coruña,Com. Fernández,CL0158,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,8,7.05,5.58
+2026-01-22,Lugo,Com. Piñeiro,CL0029,Comercio,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-22,A Coruña,Com. Seoane,CL0171,Hostelería,Aperitivos,Aperitivos — Ref. 05,10,1.08,0.75
+2026-01-22,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 05,13,2.38,1.85
+2026-01-22,A Coruña,Com. Rodríguez,CL0066,Hostelería,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-22,A Coruña,Com. Pérez,CL0136,Hostelería,Aperitivos,Aperitivos — Ref. 02,8,2.25,1.67
+2026-01-22,Santiago,Com. Iglesias,CL0108,Hostelería,Congelados,Congelados — Ref. 04,11,5.93,4.78
+2026-01-22,Lugo,Com. Doval,CL0050,Comercio,Vinos y licores,Vinos y licores — Ref. 03,2,7.59,4.98
+2026-01-22,A Coruña,Com. Souto,CL0170,Comercio,Cervezas,Cervezas — Ref. 04,2,1.37,1.13
+2026-01-22,Lugo,Com. Piñeiro,CL0153,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,10,21.24,14.50
+2026-01-22,Santiago,Com. Paz,CL0038,Hostelería,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-22,Santiago,Com. Ferreiro,CL0031,Comercio,Vinos y licores,Vinos y licores — Ref. 01,14,3.64,2.43
+2026-01-22,A Coruña,Com. García,CL0057,Hostelería,Congelados,Congelados — Ref. 06,6,2.84,2.26
+2026-01-22,A Coruña,Com. Fernández,CL0082,Hostelería,Cervezas,Cervezas — Ref. 08,18,3.06,2.21
+2026-01-22,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 02,2,2.81,2.10
+2026-01-22,A Coruña,Com. Fernández,CL0110,Comercio,Vinos y licores,Vinos y licores — Ref. 02,10,21.24,14.50
+2026-01-22,A Coruña,Com. López,CL0116,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,9,0.84,0.61
+2026-01-22,A Coruña,Com. Rodríguez,CL0012,Hostelería,Lácteos,Lácteos — Ref. 02,7,2.76,2.28
+2026-01-22,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-22,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 03,12,4.98,3.54
+2026-01-22,A Coruña,Com. Freire,CL0174,Comercio,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-22,Lugo,Com. Piñeiro,CL0046,Hostelería,Aperitivos,Aperitivos — Ref. 02,6,2.25,1.67
+2026-01-22,A Coruña,Com. Vázquez,CL0177,Hostelería,Aperitivos,Aperitivos — Ref. 04,16,1.35,0.89
+2026-01-22,A Coruña,Com. Freire,CL0109,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,6,1.46,1.12
+2026-01-22,Lugo,Com. Doval,CL0050,Comercio,Vinos y licores,Vinos y licores — Ref. 04,10,18.33,14.02
+2026-01-22,Santiago,Com. Novo,CL0044,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,5,4.76,3.59
+2026-01-22,Santiago,Com. Novo,CL0088,Hostelería,Conservas,Conservas — Ref. 05,11,1.90,1.33
+2026-01-22,A Coruña,Com. López,CL0116,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,7,"16,46",12.52
+2026-01-22,Santiago,Com. Paz,CL0093,Comercio,Lácteos,Lácteos — Ref. 06,13,1.02,0.86
+2026-01-22,A Coruña,Com. Otero,CL0075,Comercio,Conservas,Conservas — Ref. 01,3,4.24,2.92
+2026-01-22,A Coruña,Com. Freire,CL0117,Comercio,Aperitivos,Aperitivos — Ref. 06,13,1.64,1.23
+2026-01-22,A Coruña,Com. Pérez,CL0112,Comercio,Cervezas,Cervezas — Ref. 05,2,2.38,1.85
+2026-01-22,A Coruña,Com. Souto,CL0164,Hostelería,Lácteos,Lácteos — Ref. 05,10,2.68,2.17
+2026-01-22,A Coruña,Com. García,CL0013,Comercio,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-22,A Coruña,Com. Seoane,CL0089,Comercio,Aperitivos,Aperitivos — Ref. 01,19,2.16,1.68
+2026-01-22,Lugo,Com. Corral,CL0055,Hostelería,Cervezas,Cervezas — Ref. 06,11,3.38,2.50
+2026-01-22,Lugo,Com. Corral,CL0167,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,11,0.62,0.50
+2026-01-22,A Coruña,Com. Rodríguez,CL0066,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-22,A Coruña,Com. Seoane,CL0089,Comercio,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-22,A Coruña,Com. Pérez,CL0092,Comercio,Conservas,Conservas — Ref. 04,7,1.25,0.98
+2026-01-22,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,21,7.05,5.58
+2026-01-23,A Coruña,Com. Souto,CL0172,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,7,5.93,4.61
+2026-01-23,Lugo,Com. Piñeiro,CL0067,Hostelería,Congelados,Congelados — Ref. 07,1,4.35,3.19
+2026-01-23,Lugo,Com. Requeixo,CL0107,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,5,0.75,0.61
+2026-01-23,Santiago,Com. Lema,CL0071,Hostelería,Conservas,Conservas — Ref. 03,3,4.98,3.54
+2026-01-23,A Coruña,Com. Souto,CL0172,Comercio,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-23,Lugo,Com. Mosquera,CL0156,Comercio,Bebidas frías,Bebidas frías — Ref. 04,4,0.97,0.71
+2026-01-23,Lugo,Com. Corral,CL0167,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,1,23.19,14.48
+2026-01-23,Santiago,Com. Iglesias,CL0041,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,2,1.46,1.12
+2026-01-23,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-23,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 01,16,4.24,2.92
+2026-01-23,A Coruña,Com. Souto,CL0058,Hostelería,Lácteos,Lácteos — Ref. 02,7,2.76,2.28
+2026-01-23,Santiago,Com. Paz,CL0093,Comercio,Vinos y licores,Vinos y licores — Ref. 05,7,16.46,12.52
+2026-01-23,Lugo,Com. Mosquera,CL0059,Hostelería,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-23,A Coruña,Com. Vázquez,CL0177,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,7,21.24,14.50
+2026-01-23,A Coruña,Com. García,CL0016,Hostelería,Lácteos,Lácteos — Ref. 01,3,1.71,1.47
+2026-01-23,Santiago,Com. Paz,CL0093,Comercio,Cervezas,Cervezas — Ref. 03,2,"1,79",1.30
+2026-01-23,Lugo,Com. Requeixo,CL0118,Comercio,Aperitivos,Aperitivos — Ref. 02,2,2.25,1.67
+2026-01-23,Santiago,Com. Ferreiro,CL0031,Comercio,Vinos y licores,Vinos y licores — Ref. 05,5,16.46,12.52
+2026-01-23,A Coruña,Com. López,CL0116,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-23,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 02,4,21.24,14.50
+2026-01-23,A Coruña,Com. Rey,CL0022,Comercio,Cervezas,Cervezas — Ref. 04,2,1.37,1.13
+2026-01-23,Lugo,Com. Requeixo,CL0081,Comercio,Vinos y licores,Vinos y licores — Ref. 02,15,21.24,14.50
+2026-01-23,A Coruña,Com. Freire,CL0077,Hostelería,Cervezas,Cervezas — Ref. 01,4,3.34,2.66
+2026-01-23,Santiago,Com. Ferreiro,CL0043,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-23,A Coruña,Com. Otero,CL0122,Hostelería,Lácteos,Lácteos — Ref. 04,4,1.34,1.06
+2026-01-23,Lugo,Com. Requeixo,CL0166,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,2,10.02,7.30
+2026-01-23,Lugo,Com. Corral,CL0055,Hostelería,Congelados,Congelados — Ref. 05,2,2.69,1.89
+2026-01-23,A Coruña,Com. Fernández,CL0127,Hostelería,Congelados,Congelados — Ref. 05,15,2.69,1.89
+2026-01-23,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 03,24,1.53,1.18
+2026-01-23,A Coruña,Com. Seoane,CL0121,Comercio,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-23,A Coruña,Com. Pérez,CL0092,Comercio,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-23,A Coruña,Com. Freire,CL0060,Hostelería,Lácteos,Lácteos — Ref. 01,4,1.71,1.47
+2026-01-23,A Coruña,Com. García,CL0018,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-23,A Coruña,Com. García,CL0062,Hostelería,Congelados,Congelados — Ref. 07,1,4.35,3.19
+2026-01-23,Santiago,Com. Ferreiro,CL0133,Comercio,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-23,A Coruña,Com. Freire,CL0117,Comercio,Cervezas,Cervezas — Ref. 08,3,3.06,2.21
+2026-01-23,Santiago,Com. Paz,CL0054,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-23,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 02,2,2.81,2.10
+2026-01-23,A Coruña,Com. Seoane,CL0100,Hostelería,Conservas,Conservas — Ref. 04,1,1.25,0.98
+2026-01-23,Santiago,Com. Novo,CL0061,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,15,0.84,0.61
+2026-01-23,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-23,Santiago,Com. Iglesias,CL0039,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-23,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 01,16,3.34,2.66
+2026-01-23,Santiago,Com. Paz,CL0014,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,21,6.78,5.45
+2026-01-23, lugo,Com. García,CL0032,Hostelería,Aperitivos,Aperitivos — Ref. 01,6,2.16,1.68
+2026-01-23,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,27,0.62,0.50
+2026-01-23,Santiago,Com. Ferreiro,CL0005,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,4,6.78,5.45
+2026-01-23,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 03,20,2.93,2.55
+2026-01-23,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 03,10,7.59,4.98
+2026-01-23,A Coruña,Com. Vázquez,CL0177,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,2,4.34,3.27
+2026-01-23,A Coruña,Com. Seoane,CL0104,Comercio,Conservas,Conservas — Ref. 03,2,4.98,3.54
+2026-01-23,A Coruña,Com. Souto,CL0058,Hostelería,Cervezas,Cervezas — Ref. 07,6,1.76,1.45
+2026-01-23,A Coruña,Com. Fernández,CL0079,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,16,0.84,0.61
+2026-01-23,A Coruña,Com. Freire,CL0138,Comercio,Vinos y licores,Vinos y licores — Ref. 08,3,16.58,10.77
+2026-01-23,Santiago,Com. Paz,CL0054,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,16,16.46,12.52
+2026-01-23,Lugo,Com. Corral,CL0151,Hostelería,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-24,A Coruña,Com. Souto,CL0006,Comercio,Cervezas,Cervezas — Ref. 04,16,1.37,1.13
+2026-01-24,A Coruña,Com. Vázquez,CL0001,Hostelería,Aperitivos,Aperitivos — Ref. 03,9,1.53,1.18
+2026-01-24,A Coruña,Com. Freire,CL0019,Comercio,Bebidas frías,Bebidas frías — Ref. 05,13,0.84,0.61
+2026-01-24,A Coruña,Com. Freire,CL0096,Comercio,Conservas,Conservas — Ref. 07,4,5.99,4.58
+2026-01-24,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 01,9,4.24,2.92
+2026-01-24,A Coruña,Com. García,CL0013,Comercio,Aperitivos,Aperitivos — Ref. 01,6,2.16,1.68
+2026-01-24,A Coruña,Com. Freire,CL0109,Hostelería,Conservas,Conservas — Ref. 08,20,5.98,3.96
+2026-01-24,Santiago,Com. Ferreiro,CL0168,Hostelería,Lácteos,Lácteos — Ref. 06,11,1.02,0.86
+2026-01-24,Santiago,Com. Paz,CL0054,Hostelería,Lácteos,Lácteos — Ref. 07,2,3.70,3.02
+2026-01-24,Santiago,Com. Lema,CL0085,Hostelería,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-24,Lugo,Com. Corral,CL0055,Hostelería,Aperitivos,Aperitivos — Ref. 01,6,2.16,1.68
+2026-01-24,Lugo,Com. Corral,CL0055,Hostelería,Congelados,Congelados — Ref. 08,5,7.98,6.09
+2026-01-24,Lugo,Com. Requeixo,CL0123,Hostelería,Cervezas,Cervezas — Ref. 02,10,1.34,1.08
+2026-01-24,Santiago,Com. Iglesias,CL0039,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,2,21.24,14.50
+2026-01-24,A Coruña,Com. Freire,CL0173,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,3,21.24,14.50
+2026-01-24,A Coruña,Com. Rodríguez,CL0090,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,"0,97",0.71
+2026-01-24,Lugo,Com. Doval,CL0050,Comercio,Congelados,Congelados — Ref. 07,12,4.35,3.19
+2026-01-24,A Coruña,Com. Freire,CL0117,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-24,Santiago,Com. Paz,CL0054,Hostelería,Congelados,Congelados — Ref. 07,3,4.35,3.19
+2026-01-24,A Coruña,Com. Freire,CL0173,Hostelería,Cervezas,Cervezas — Ref. 07,2,1.76,1.45
+2026-01-24,Lugo,Com. Requeixo,CL0081,Comercio,Cervezas,Cervezas — Ref. 05,4,2.38,1.85
+2026-01-24,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 06,18,3.38,2.50
+2026-01-24,Santiago,Com. Paz,CL0054,Hostelería,Conservas,Conservas — Ref. 02,1,2.81,2.10
+2026-01-24,Santiago,Com. Novo,CL0134,Comercio,Bebidas frías,Bebidas frías — Ref. 06,11,1.66,1.33
+2026-01-24,Santiago,Com. Iglesias,CL0041,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,3,1.46,1.12
+2026-01-24,Santiago,Com. Paz,CL0129,Comercio,Lácteos,Lácteos — Ref. 03,8,2.93,2.55
+2026-01-24,A Coruña,Com. Freire,CL0138,Comercio,Congelados,Congelados — Ref. 03,3,5.11,3.71
+2026-01-24,A Coruña,Com. Rodríguez,CL0009,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,7,18.33,14.02
+2026-01-24,Santiago,Com. Paz,CL0094,Comercio,Cervezas,Cervezas — Ref. 05,1,2.38,1.85
+2026-01-24,A Coruña,Com. Fernández,CL0098,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,9,21.24,14.50
+2026-01-24,santiago ,Com. Novo,CL0101,Comercio,Aperitivos,Aperitivos — Ref. 03,14,1.53,1.18
+2026-01-24,A Coruña,Com. Castro,CL0143,Comercio,Vinos y licores,Vinos y licores — Ref. 02,2,21.24,14.50
+2026-01-24,Santiago,Com. Novo,CL0044,Comercio,Vinos y licores,Vinos y licores — Ref. 08,6,16.58,10.77
+2026-01-24,A Coruña,Com. López,CL0149,Hostelería,Lácteos,Lácteos — Ref. 04,1,1.34,1.06
+2026-01-24,Santiago,Com. Iglesias,CL0041,Hostelería,Aperitivos,Aperitivos — Ref. 03,6,1.53,1.18
+2026-01-24,Santiago,Com. Paz,CL0038,Hostelería,Congelados,Congelados — Ref. 03,4,5.11,3.71
+2026-01-24,Lugo,Com. Requeixo,CL0087,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,2,4.76,3.59
+2026-01-24,A Coruña,Com. Seoane,CL0150,Hostelería,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-24,Lugo,Com. Piñeiro,CL0029,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-24,A Coruña,Com. Rey,CL0022,Comercio,Vinos y licores,Vinos y licores — Ref. 09,2,23.19,14.48
+2026-01-24,A Coruña,Com. Fernández,CL0127,Hostelería,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-24,Lugo,Com. Corral,CL0167,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,2,6.78,5.45
+2026-01-24,A Coruña,Com. Fernández,CL0127,Hostelería,Conservas,Conservas — Ref. 01,3,4.24,2.92
+2026-01-24,Santiago,Com. Iglesias,CL0041,Hostelería,Conservas,Conservas — Ref. 04,25,1.25,0.98
+2026-01-24,A Coruña,Com. Seoane,CL0150,Hostelería,Lácteos,Lácteos — Ref. 05,6,2.68,2.17
+2026-01-24,Lugo,Com. Corral,CL0055,Hostelería,Cervezas,Cervezas — Ref. 07,7,1.76,1.45
+2026-01-24,Lugo,Com. Corral,CL0055,Hostelería,Cervezas,Cervezas — Ref. 07,11,1.76,1.45
+2026-01-24,Lugo,Com. Mosquera,CL0131,Hostelería,Cervezas,Cervezas — Ref. 04,3,1.37,1.13
+2026-01-24,Lugo,Com. Requeixo,CL0107,Hostelería,Aperitivos,Aperitivos — Ref. 02,11,2.25,1.67
+2026-01-24,A Coruña,Com. Vázquez,CL0177,Hostelería,Lácteos,Lácteos — Ref. 05,6,2.68,2.17
+2026-01-24,A Coruña,Com. García,CL0018,Hostelería,Aperitivos,Aperitivos — Ref. 04,8,1.35,0.89
+2026-01-24,Santiago,Com. Novo,CL0111,Hostelería,Cervezas,Cervezas — Ref. 05,8,2.38,1.85
+2026-01-24,Lugo,Com. Requeixo,CL0081,Comercio,Conservas,Conservas — Ref. 06,4,5.50,3.65
+2026-01-24,Lugo,Com. Requeixo,CL0146,Hostelería,Conservas,Conservas — Ref. 08,18,5.98,3.96
+2026-01-24,Santiago,Com. Novo,CL0044,Comercio,Vinos y licores,Vinos y licores — Ref. 03,9,7.59,4.98
+2026-01-24,A Coruña,Com. Freire,CL0138,Comercio,Lácteos,Lácteos — Ref. 03,6,2.93,2.55
+2026-01-24,A Coruña,Com. Fernández,CL0079,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,15,1.23,0.91
+2026-01-24,A Coruña,Com. Fernández,CL0082,Hostelería,Conservas,Conservas — Ref. 02,8,2.81,2.10
+2026-01-24,A Coruña,Com. Freire,CL0109,Hostelería,Congelados,Congelados — Ref. 08,17,7.98,6.09
+2026-01-24,A Coruña,Com. Souto,CL0164,Hostelería,Conservas,Conservas — Ref. 01,4,4.24,2.92
+2026-01-24,Lugo,Com. Piñeiro,CL0047,Hostelería,Congelados,Congelados — Ref. 07,1,4.35,3.19
+2026-01-24,A Coruña,Com. García,CL0057,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,9,2.45,1.92
+2026-01-24,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 03,11,1.79,1.30
+2026-01-24,A Coruña,Com. Rodríguez,CL0053,Comercio,Cervezas,Cervezas — Ref. 08,2,3.06,2.21
+31/02/2026,Santiago,Com. Ferreiro,CL0005,Comercio,Vinos y licores,Vinos y licores — Ref. 06,6,3.87,2.86
+2026-01-24,Lugo,Com. Requeixo,CL0146,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,4,1.23,0.91
+2026-01-24,Lugo,Com. Doval,CL0132,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-24,Lugo,Com. Doval,CL0135,Hostelería,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-24,Lugo,Com. Corral,CL0055,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,6,2.45,1.92
+2026-01-24,Santiago,Com. Novo,CL0134,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-24,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 02,-12,2.76,2.28
+2026-01-24,A Coruña,Com. Fernández,CL0079,Hostelería,Conservas,Conservas — Ref. 08,7,5.98,3.96
+2026-01-24,Santiago,Com. Novo,CL0134,Comercio,Aperitivos,Aperitivos — Ref. 06,1,1.64,1.23
+2026-01-25,A Coruña,Com. Souto,CL0172,Comercio,Conservas,Conservas — Ref. 04,15,1.25,0.98
+2026-01-25,A Coruña,Com. Seoane,CL0121,Comercio,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-25,A Coruña,Com. Fernández,CL0023,Hostelería,Congelados,Congelados — Ref. 03,12,5.11,3.71
+2026-01-25,A Coruña,Com. García,CL0169,Hostelería,Cervezas,Cervezas — Ref. 03,3,1.79,1.30
+2026-01-25,Santiago,Com. Novo,CL0162,Hostelería,Lácteos,Lácteos — Ref. 07,15,3.70,3.02
+2026-01-25,Santiago,Com. Novo,CL0134,Comercio,Aperitivos,Aperitivos — Ref. 01,13,2.16,1.68
+2026-01-25,A Coruña,Com. Freire,CL0060,Hostelería,Congelados,Congelados — Ref. 03,4,5.11,3.71
+2026-01-25,A Coruña,Com. Freire,CL0063,Comercio,Cervezas,Cervezas — Ref. 07,5,1.76,1.45
+2026-01-25,A Coruña,Com. Souto,CL0006,Comercio,Conservas,Conservas — Ref. 01,3,4.24,2.92
+2026-01-25,Lugo,Com. Piñeiro,CL0153,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,11,18.33,14.02
+2026-01-25,CORUÑA,Com. Lema,CL0065,Hostelería,Congelados,Congelados — Ref. 03,1,5.11,3.71
+2026-01-25,Lugo,Com. Doval,CL0160,Comercio,Vinos y licores,Vinos y licores — Ref. 04,5,18.33,14.02
+2026-01-25,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 04,1,0.97,0.71
+2026-01-25,A Coruña,Com. García,CL0057,Hostelería,Conservas,Conservas — Ref. 04,-2,1.25,0.98
+2026-01-25,Santiago,Com. Novo,CL0162,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,10,5.93,4.61
+2026-01-25,Santiago,Com. Barreiro,CL0074,Hostelería,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-25,Lugo,Com. Requeixo,CL0179,Comercio,Vinos y licores,Vinos y licores — Ref. 08,5,16.58,10.77
+2026-01-25,A Coruña,Com. Freire,CL0096,Comercio,Vinos y licores,Vinos y licores — Ref. 05,7,16.46,12.52
+2026-01-25,A Coruña,Com. López,CL0051,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-25,A Coruña,Com. Rey,CL0026,Hostelería,Cervezas,Cervezas — Ref. 04,1,1.37,1.13
+2026-01-25,Santiago,Com. Iglesias,CL0041,Hostelería,Aperitivos,Aperitivos — Ref. 02,27,2.25,1.67
+2026-01-25,A Coruña,Com. Rodríguez,CL0003,Hostelería,Lácteos,Lácteos — Ref. 04,6,1.34,1.06
+2026-01-25,A Coruña,Com. Seoane,CL0121,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-25,Santiago,Com. Ferreiro,CL0043,Hostelería,Cervezas,Cervezas — Ref. 04,19,1.37,1.13
+2026-01-25,Lugo,Com. Requeixo,CL0081,Comercio,Congelados,Congelados — Ref. 07,2,4.35,3.19
+2026-01-25,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 07,2,1.46,1.12
+2026-01-25,A Coruña,Com. Freire,CL0138,Comercio,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-25,Santiago,Com. Ferreiro,CL0168,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-25,A Coruña,Com. García,CL0016,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,1,0.84,0.61
+2026-01-25,Santiago,Com. Lema,CL0071,Hostelería,Bebidas frías,Bebidas frías — Ref. 02,2,1.23,0.91
+2026-01-25,A Coruña,Com. Rodríguez,CL0003,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,6,3.87,2.86
+2026-01-25,Santiago,Com. Novo,CL0097,Comercio,Lácteos,Lácteos — Ref. 06,6,1.02,0.86
+2026-01-25,Lugo,Com. Mosquera,CL0131,Hostelería,Cervezas,Cervezas — Ref. 07,11,1.76,1.45
+2026-01-25,A Coruña,Com. Fernández,CL0158,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,3,1.26,0.88
+2026-01-25,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 08,1,5.98,3.96
+2026-01-25,Santiago,Com. Iglesias,CL0039,Hostelería,Congelados,Congelados — Ref. 04,9,5.93,4.78
+2026-01-25,A Coruña,Com. Freire,CL0173,Hostelería,Congelados,Congelados — Ref. 04,2,5.93,4.78
+2026-01-25,Santiago,Com. Barreiro,CL0080,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,11,2.45,1.92
+2026-01-25,A Coruña,Com. García,CL0120,Comercio,Vinos y licores,Vinos y licores — Ref. 10,1,23.86,15.70
+2026-01-25,A Coruña,Com. Freire,CL0138,Comercio,Congelados,Congelados — Ref. 07,10,4.35,3.19
+2026-01-25,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 06,14,3.38,2.50
+2026-01-25,A Coruña,Com. Seoane,CL0150,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,5,7.59,4.98
+2026-01-25,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 02,15,2.25,1.67
+2026-01-25,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 01,44,1.71,1.47
+2026-01-25,Lugo,Com. Piñeiro,CL0029,Comercio,Vinos y licores,Vinos y licores — Ref. 08,5,16.58,10.77
+2026-01-25,A Coruña,Com. Seoane,CL0150,Hostelería,Lácteos,Lácteos — Ref. 05,17,2.68,2.17
+2026-01-25,A Coruña,Com. Freire,CL0060,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,4,6.78,5.45
+2026-01-25,A Coruña,Com. Souto,CL0006,Comercio,Congelados,Congelados — Ref. 04,8,5.93,4.78
+2026-01-25,A Coruña,Com. Rodríguez,CL0066,Hostelería,Cervezas,Cervezas — Ref. 02,3,1.34,1.08
+2026-01-25,Santiago,Com. Paz,CL0014,Hostelería,Conservas,Conservas — Ref. 04,2,1.25,0.98
+2026-01-25,Lugo,Com. Corral,CL0055,Hostelería,Lácteos,Lácteos — Ref. 07,8,3.70,3.02
+2026-01-25,Santiago,Com. Novo,CL0178,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,1,10.02,7.30
+2026-01-25,A Coruña,Com. Pérez,CL0010,Comercio,Conservas,Conservas — Ref. 08,3,5.98,3.96
+2026-01-25,Lugo,Com. Corral,CL0055,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,11,3.64,2.43
+2026-01-25,Santiago,Com. Ferreiro,CL0168,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,10,1.26,0.88
+2026-01-25,Santiago,Com. Novo,CL0097,Comercio,Bebidas frías,Bebidas frías — Ref. 04,13,0.97,0.71
+2026-01-27,A Coruña,Com. Castro,CL0143,Comercio,Congelados,Congelados — Ref. 04,2,5.93,4.78
+2026-01-27,Santiago,Com. Lema,CL0071,Hostelería,Cervezas,Cervezas — Ref. 08,24,3.06,2.21
+2026-01-27,A Coruña,Com. Castro,CL0114,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,20,4.76,3.59
+2026-01-27,Santiago,Com. Paz,CL0054,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,4,23.19,14.48
+2026-01-27,A Coruña,Com. Fernández,CL0082,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,10,23.19,14.48
+2026-01-27,Santiago,Com. Iglesias,CL0108,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-27,A Coruña,Com. Rey,CL0020,Comercio,Vinos y licores,Vinos y licores — Ref. 03,1,7.59,4.98
+2026-01-27,Lugo,Com. Piñeiro,CL0029,Comercio,Aperitivos,Aperitivos — Ref. 03,3,1.53,1.18
+2026-01-27,Santiago,Com. Lema,CL0071,Hostelería,Aperitivos,Aperitivos — Ref. 02,11,2.25,1.67
+2026-01-27,A Coruña,Com. Freire,CL0163,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,4,0.62,0.50
+2026-01-27,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 04,1,1.37,1.13
+2026-01-27,Santiago,Com. Iglesias,CL0028,Comercio,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-27,A Coruña,Com. Vázquez,CL0177,Hostelería,Conservas,Conservas — Ref. 07,10,5.99,4.58
+2026-01-27,Santiago,Com. Baamonde,CL0069,Hostelería,Congelados,Congelados — Ref. 07,19,4.35,3.19
+2026-01-27,A Coruña,Com. Freire,CL0173,Hostelería,Conservas,Conservas — Ref. 06,3,5.50,3.65
+2026-01-27,Santiago,Com. Paz,CL0093,Comercio,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-27,Santiago,Com. Iglesias,CL0039,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,12,2.45,1.92
+2026-01-27,A Coruña,Com. Fernández,CL0082,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,9,23.86,15.70
+2026-01-27,A Coruña,Com. Seoane,CL0089,Comercio,Bebidas frías,Bebidas frías — Ref. 09,3,0.75,0.61
+2026-01-27,Lugo,Com. Corral,CL0055,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,4,5.93,4.61
+27/01/2026,A Coruña,Com. Fernández,CL0079,Hostelería,Congelados,Congelados — Ref. 02,22,5.18,3.75
+2026-01-27,A Coruña,Com. Freire,CL0117,Comercio,Lácteos,Lácteos — Ref. 04,16,1.34,1.06
+2026-01-27,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 03,4,2.93,2.55
+2026-01-27,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,4,16.46,12.52
+2026-01-27,Santiago,Com. Iglesias,CL0041,Hostelería,Aperitivos,Aperitivos — Ref. 01,3,2.16,1.68
+2026-01-27,Lugo,Com. Piñeiro,CL0153,Hostelería,Congelados,Congelados — Ref. 03,12,5.11,3.71
+2026-01-27,Lugo,Com. Requeixo,CL0166,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,16,0.62,0.50
+2026-01-27,A Coruña,Com. Fernández,CL0082,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,6,0.84,0.61
+2026-01-27,Santiago,Com. Novo,CL0134,Comercio,Vinos y licores,Vinos y licores — Ref. 10,6,23.86,15.70
+2026-01-27,A Coruña,Com. Seoane,CL0121,Comercio,Congelados,Congelados — Ref. 06,9,2.84,2.26
+2026-01-27,A Coruña,Com. Fernández,CL0110,Comercio,Bebidas frías,Bebidas frías — Ref. 01,12,0.62,0.50
+2026-01-27,Lugo,Com. Requeixo,CL0179,Comercio,Lácteos,Lácteos — Ref. 02,18,2.76,2.28
+2026-01-27,Lugo,Com. Requeixo,CL0107,Hostelería,Cervezas,Cervezas — Ref. 02,4,"1,34",1.08
+2026-01-27,A Coruña,Com. García,CL0013,Comercio,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-27,Lugo,Com. Piñeiro,CL0113,Hostelería,Conservas,Conservas — Ref. 01,1,4.24,2.92
+2026-01-27,A Coruña,Com. Souto,CL0058,Hostelería,Lácteos,Lácteos — Ref. 07,2,3.70,3.02
+2026-01-27,A Coruña,Com. Freire,CL0117,Comercio,Aperitivos,Aperitivos — Ref. 04,2,1.35,0.89
+2026-01-27,Santiago,Com. Novo,CL0162,Hostelería,Lácteos,Lácteos — Ref. 01,1,1.71,1.47
+2026-01-27,Lugo,Com. Requeixo,CL0146,Hostelería,Cervezas,Cervezas — Ref. 07,2,1.76,1.45
+2026-01-27,Lugo,Com. Requeixo,CL0146,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,9,23.86,15.70
+2026-01-27,A Coruña,Com. Rodríguez,CL0066,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,3,0.75,0.61
+2026-01-27,A Coruña,Com. López,CL0180,Hostelería,Conservas,Conservas — Ref. 02,20,2.81,2.10
+2026-01-27,Lugo,Com. Mosquera,CL0131,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,18,6.78,5.45
+2026-01-27,A Coruña,Com. Freire,CL0173,Hostelería,Aperitivos,Aperitivos — Ref. 02,1,2.25,1.67
+2026-01-27,A Coruña,Com. López,CL0180,Hostelería,Cervezas,Cervezas — Ref. 07,13,1.76,1.45
+2026-01-27,A Coruña,Com. Castro,CL0143,Comercio,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-27,Santiago,Com. Ferreiro,CL0043,Hostelería,Lácteos,Lácteos — Ref. 01,19,1.71,1.47
+2026-01-27,A Coruña,Com. Rey,CL0026,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,9,4.76,3.59
+2026-01-27,Lugo,Com. Doval,CL0132,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-27,Lugo,Com. Requeixo,CL0157,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,1,2.45,1.92
+2026-01-27,A Coruña,Com. Freire,CL0109,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,8,21.24,14.50
+2026-01-27,A Coruña,Com. Souto,CL0170,Comercio,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-27,Santiago,Com. Lema,CL0065,Hostelería,Aperitivos,Aperitivos — Ref. 02,4,2.25,1.67
+2026-01-27,Lugo,Com. Piñeiro,CL0113,Hostelería,Congelados,Congelados — Ref. 08,3,7.98,6.09
+2026-01-27,Santiago,Com. Novo,CL0017,Hostelería,Conservas,Conservas — Ref. 05,14,1.90,1.33
+2026-01-27,A Coruña,Com. Seoane,CL0089,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,7,4.34,3.27
+2026-01-27,A Coruña,Com. Souto,CL0058,Hostelería,Congelados,Congelados — Ref. 07,6,4.35,3.19
+2026-01-28,Lugo,Com. Corral,CL0055,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-28,A Coruña,Com. Freire,CL0117,Comercio,Aperitivos,Aperitivos — Ref. 03,1,1.53,1.18
+2026-01-28,Santiago,Com. Baamonde,CL0069,Hostelería,Lácteos,Lácteos — Ref. 05,3,2.68,2.17
+2026-01-28,A Coruña,Com. Rey,CL0026,Hostelería,Lácteos,Lácteos — Ref. 03,9,2.93,2.55
+2026-01-28,A Coruña,Com. Castro,CL0175,Hostelería,Cervezas,Cervezas — Ref. 06,6,3.38,2.50
+2026-01-28,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 02,5,2.76,2.28
+2026-01-28,A Coruña,Com. Rodríguez,CL0053,Comercio,Vinos y licores,Vinos y licores — Ref. 09,8,23.19,14.48
+2026-01-28,Lugo,Com. Piñeiro,CL0159,Hostelería,Lácteos,Lácteos — Ref. 01,8,1.71,1.47
+2026-01-28,A Coruña,Com. Seoane,CL0171,Hostelería,Conservas,Conservas — Ref. 01,11,4.24,2.92
+2026-01-28,A Coruña,Com. Rey,CL0022,Comercio,Cervezas,Cervezas — Ref. 03,27,1.79,1.30
+2026-01-28,Santiago,Com. Iglesias,CL0039,Hostelería,Cervezas,Cervezas — Ref. 05,2,2.38,1.85
+2026-01-28,A Coruña,Com. Pérez,CL0011,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-28,Lugo,Com. Piñeiro,CL0141,Hostelería,Cervezas,Cervezas — Ref. 06,3,3.38,2.50
+2026-01-28,Santiago,Com. Ferreiro,CL0133,Comercio,Cervezas,Cervezas — Ref. 07,1,1.76,1.45
+2026-01-28,Santiago,Com. Baamonde,CL0069,Hostelería,Lácteos,Lácteos — Ref. 02,2,2.76,2.28
+2026-01-28,A Coruña,Com. Freire,CL0117,Comercio,Vinos y licores,Vinos y licores — Ref. 02,4,21.24,14.50
+2026-01-28,Lugo,Com. Corral,CL0040,Comercio,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-28,A Coruña,Com. Fernández,CL0023,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-28,Santiago,Com. Ferreiro,CL0049,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,4,4.76,3.59
+2026-01-28,A Coruña,Com. Castro,CL0091,Hostelería,Aperitivos,Aperitivos — Ref. 06,3,1.64,1.23
+2026-01-28,Lugo,Com. Doval,CL0007,Hostelería,Conservas,Conservas — Ref. 07,29,5.99,4.58
+2026-01-28,Santiago,Com. Paz,CL0093,Comercio,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-28,Lugo,Com. Doval,CL0132,Comercio,Vinos y licores,Vinos y licores — Ref. 07,2,10.02,7.30
+2026-01-28,Santiago,Com. Novo,CL0088,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-28,Santiago,Com. Novo,CL0044,Comercio,Vinos y licores,Vinos y licores — Ref. 04,4,18.33,14.02
+2026-01-28,Lugo,Com. Doval,CL0132,Comercio,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-28,Santiago,Com. Novo,CL0178,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,5,0.84,0.61
+2026-01-28,A Coruña,Com. Rey,CL0026,Hostelería,Lácteos,Lácteos — Ref. 07,2,3.70,3.02
+2026-01-28,Santiago,Com. Lema,CL0071,Hostelería,Congelados,Congelados — Ref. 07,4,4.35,3.19
+2026-01-28,Lugo,Com. Doval,CL0160,Comercio,Cervezas,Cervezas — Ref. 04,3,1.37,1.13
+2026-01-28,A Coruña,Com. Vázquez,CL0177,Hostelería,Aperitivos,Aperitivos — Ref. 01,3,2.16,1.68
+2026-01-28,A Coruña,Com. Seoane,CL0171,Hostelería,Cervezas,Cervezas — Ref. 05,7,2.38,1.85
+2026-01-28,Santiago,Com. Ferreiro,CL0049,Comercio,Bebidas frías,Bebidas frías — Ref. 05,3,0.84,0.61
+2026-01-28,Santiago,Com. Ferreiro,CL0043,Hostelería,Cervezas,Cervezas — Ref. 01,3,3.34,2.66
+2026-01-28,A Coruña,Com. Seoane,CL0150,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,3,2.45,1.92
+2026-01-28,Lugo,Com. Mosquera,CL0156,Comercio,Cervezas,Cervezas — Ref. 04,8,1.37,1.13
+2026-01-28,A Coruña,Com. Seoane,CL0150,Hostelería,Cervezas,Cervezas — Ref. 08,13,3.06,2.21
+2026-01-28,Lugo,Com. Piñeiro,CL0047,Hostelería,Conservas,Conservas — Ref. 01,6,4.24,2.92
+2026-01-28,Lugo,Com. Corral,CL0167,Hostelería,Conservas,Conservas — Ref. 05,5,1.90,1.33
+2026-01-28,Lugo,Com. Requeixo,CL0123,Hostelería,Conservas,Conservas — Ref. 05,1,1.90,1.33
+2026-01-28,A Coruña,Com. Castro,CL0175,Hostelería,Congelados,Congelados — Ref. 04,9,5.93,4.78
+2026-01-28,Santiago,Com. Novo,CL0084,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,16,18.33,14.02
+2026-01-28,Santiago,Com. Barreiro,CL0083,Comercio,Cervezas,Cervezas — Ref. 07,3,1.76,1.45
+2026-01-28,A Coruña,Com. Rey,CL0026,Hostelería,Congelados,Congelados — Ref. 04,12,5.93,4.78
+2026-01-28,A Coruña,Com. López,CL0149,Hostelería,Aperitivos,Aperitivos — Ref. 06,6,1.64,1.23
+2026-01-29,Santiago,Com. Ferreiro,CL0133,Comercio,Bebidas frías,Bebidas frías — Ref. 03,6,0.82,0.66
+2026-01-29,Santiago,Com. Ferreiro,CL0133,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,5,4.76,3.59
+2026-01-29,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-29,Santiago,Com. Paz,CL0038,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,2,1.26,0.88
+2026-01-29,A Coruña,Com. Vázquez,CL0177,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-29,Lugo,Com. Requeixo,CL0146,Hostelería,Cervezas,Cervezas — Ref. 01,1,3.34,2.66
+2026-01-29,A Coruña,Com. Pérez,CL0136,Hostelería,Lácteos,Lácteos — Ref. 03,7,2.93,2.55
+2026-01-29,Ourense,Com. Otero,CL0070,Comercio,Aperitivos,Aperitivos — Ref. 06,8,1.64,1.23
+2026-01-29,A Coruña,Com. Vázquez,CL0177,Hostelería,Conservas,Conservas — Ref. 05,6,1.90,1.33
+2026-01-29,A Coruña,Com. Seoane,CL0100,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,7,0.84,0.61
+2026-01-29,Santiago,Com. Paz,CL0038,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,18,7.59,4.98
+2026-01-29,A Coruña,Com. Otero,CL0075,Comercio,Vinos y licores,Vinos y licores — Ref. 08,13,16.58,10.77
+2026-01-29,A Coruña,Com. García,CL0016,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-29,Lugo,Com. Corral,CL0055,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,2,0.75,0.61
+2026-01-29,A Coruña,Com. García,CL0018,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,11,5.93,4.61
+2026-01-29,A Coruña,Com. García,CL0013,Comercio,Congelados,Congelados — Ref. 04,1,5.93,4.78
+2026-01-29,Lugo,Com. Doval,CL0160,Comercio,Cervezas,Cervezas — Ref. 02,6,1.34,1.08
+2026-01-29,A Coruña,Com. Freire,CL0138,Comercio,Lácteos,Lácteos — Ref. 01,15,1.71,1.47
+2026-01-29,Lugo,Com. Doval,CL0050,Comercio,Cervezas,Cervezas — Ref. 07,6,1.76,1.45
+2026-01-29,A Coruña,Com. Castro,CL0143,Comercio,Bebidas frías,Bebidas frías — Ref. 09,15,0.75,0.61
+2026-01-29,Lugo,Com. Piñeiro,CL0159,Hostelería,Aperitivos,Aperitivos — Ref. 04,15,1.35,0.89
+2026-01-29,A Coruña,Com. Otero,CL0122,Hostelería,Cervezas,Cervezas — Ref. 04,30,1.37,1.13
+2026-01-29,Lugo,Com. Piñeiro,CL0141,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,46,4.34,3.27
+2026-01-29,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 05,11,"0,84",0.61
+2026-01-29,Santiago,Com. Iglesias,CL0028,Comercio,Bebidas frías,Bebidas frías — Ref. 02,1,1.23,0.91
+2026-01-29,Lugo,Com. Piñeiro,CL0141,Hostelería,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-29,Santiago,Com. Ferreiro,CL0043,Hostelería,Congelados,Congelados — Ref. 05,3,2.69,1.89
+2026-01-29,Santiago,Com. Lema,CL0071,Hostelería,Congelados,Congelados — Ref. 03,22,5.11,3.71
+2026-01-29,A Coruña,Com. López,CL0051,Hostelería,Congelados,Congelados — Ref. 03,7,5.11,3.71
+2026-01-29,Santiago,Com. Paz,CL0014,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,17,21.24,14.50
+2026-01-29,A Coruña,Com. Rey,CL0022,Comercio,Vinos y licores,Vinos y licores — Ref. 02,1,21.24,14.50
+2026-01-29,Santiago,Com. Novo,CL0015,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,14,1.46,1.12
+2026-01-29,A Coruña,Com. Seoane,CL0126,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,2,7.59,4.98
+2026-01-29,Santiago,Com. Ferreiro,CL0030,Comercio,Bebidas frías,Bebidas frías — Ref. 01,4,0.62,0.50
+2026-01-29,Lugo,Com. Piñeiro,CL0047,Hostelería,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-29,A Coruña,Com. Castro,CL0091,Hostelería,Congelados,Congelados — Ref. 03,2,5.11,3.71
+2026-01-29,Santiago,Com. Novo,CL0162,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,3,6.78,5.45
+2026-01-29,Santiago,Com. Barreiro,CL0080,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,1,4.34,3.27
+2026-01-29,Santiago,Com. Iglesias,CL0041,Hostelería,Congelados,Congelados — Ref. 08,2,7.98,6.09
+2026-01-29,A Coruña,Com. Seoane,CL0104,Comercio,Cervezas,Cervezas — Ref. 06,6,3.38,2.50
+2026-01-29,Santiago,Com. Paz,CL0014,Hostelería,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-29,A Coruña,Com. Vázquez,CL0137,Comercio,Aperitivos,Aperitivos — Ref. 02,6,2.25,1.67
+2026-01-29,A Coruña,Com. Pérez,CL0136,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,3,21.24,14.50
+2026-01-29,A Coruña,Com. Souto,CL0170,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,8,4.34,3.27
+2026-01-29,A Coruña,Com. Castro,CL0114,Hostelería,Cervezas,Cervezas — Ref. 06,34,3.38,2.50
+2026-01-29,Lugo,Com. Doval,CL0076,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,2,3.64,2.43
+2026-01-29,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 01,2,3.34,2.66
+2026-01-29,A Coruña,Com. Freire,CL0086,Hostelería,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-29,A Coruña,Com. Fernández,CL0098,Hostelería,Cervezas,Cervezas — Ref. 07,1,1.76,1.45
+2026-01-29,Lugo,Com. Mosquera,CL0131,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,1,1.46,1.12
+2026-01-29,Lugo,Com. Requeixo,CL0179,Comercio,Cervezas,Cervezas — Ref. 05,4,2.38,1.85
+2026-01-29,A Coruña,Com. Souto,CL0170,Comercio,Cervezas,Cervezas — Ref. 08,11,3.06,2.21
+2026-01-29,Lugo,Com. Corral,CL0078,Hostelería,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-30,A Coruña,Com. Freire,CL0173,Hostelería,Lácteos,Lácteos — Ref. 07,16,3.70,3.02
+2026-01-30,A Coruña,Com. Freire,CL0109,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,,16.46,12.52
+2026-01-30,A Coruña,Com. Fernández,CL0158,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,13,0.62,0.50
+2026-01-30,Lugo,Com. Corral,CL0151,Hostelería,Cervezas,Cervezas — Ref. 05,15,2.38,1.85
+2026-01-30,Lugo,Com. Requeixo,CL0166,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,1,0.82,0.66
+2026-01-30,Santiago,Com. Paz,CL0093,Comercio,Vinos y licores,Vinos y licores — Ref. 06,-12,3.87,2.86
+2026-01-30,Santiago,Com. Paz,CL0154,Comercio,Aperitivos,Aperitivos — Ref. 04,16,1.35,0.89
+2026-01-30,A Coruña,Com. Souto,CL0058,Hostelería,Congelados,Congelados — Ref. 02,13,5.18,3.75
+2026-01-30,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 06,4,3.38,2.50
+2026-01-30,A Coruña,Com. Rodríguez,CL0009,Hostelería,Congelados,Congelados — Ref. 08,42,7.98,6.09
+2026-01-30,A Coruña,Com. Castro,CL0143,Comercio,Cervezas,Cervezas — Ref. 07,6,1.76,1.45
+2026-01-30,Lugo,Com. Requeixo,CL0081,Comercio,Bebidas frías,Bebidas frías — Ref. 01,8,0.62,0.50
+2026-01-30,A Coruña,Com. Rey,CL0020,Comercio,Lácteos,Lácteos — Ref. 03,1,"2,93",2.55
+2026-01-30,Santiago,Com. Novo,CL0134,Comercio,Cervezas,Cervezas — Ref. 01,10,3.34,2.66
+2026-01-30,A Coruña,Com. Castro,CL0143,Comercio,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-30,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,6,23.86,15.70
+2026-01-30,Santiago,Com. Ferreiro,CL0043,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 05,1,4.76,3.59
+2026-01-30,A Coruña,Com. García,CL0032,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-30,Lugo,Com. Corral,CL0151,Hostelería,Bebidas frías,Bebidas frías — Ref. 04,3,0.97,0.71
+2026-01-30,A Coruña,Com. Pérez,CL0112,Comercio,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-30,A Coruña,Com. Souto,CL0170,Comercio,Cervezas,Cervezas — Ref. 01,3,3.34,2.66
+2026-01-30,Santiago,Com. Novo,CL0134,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,9,4.34,3.27
+2026-01-30,Santiago,Com. Novo,CL0134,Comercio,Lácteos,Lácteos — Ref. 05,21,2.68,2.17
+2026-01-30,A Coruña,Com. Rodríguez,CL0037,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 04,2,7.05,5.58
+2026-01-30,Santiago,Com. Lema,CL0071,Hostelería,Conservas,Conservas — Ref. 04,19,1.25,0.98
+2026-01-30,Lugo,Com. Corral,CL0040,Comercio,Bebidas frías,Bebidas frías — Ref. 08,19,1.26,0.88
+2026-01-30,Lugo,Com. Piñeiro,CL0141,Hostelería,Vinos y licores,Vinos y licores — Ref. 02,8,21.24,14.50
+2026-01-30,Lugo,Com. Requeixo,CL0123,Hostelería,Lácteos,Lácteos — Ref. 01,4,1.71,1.47
+2026-01-30,A Coruña,Com. Otero,CL0075,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 02,5,2.45,1.92
+2026-01-30,A Coruña,Com. Rodríguez,CL0066,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,2,1.46,1.12
+2026-01-30,A Coruña,Com. Rey,CL0022,Comercio,Bebidas frías,Bebidas frías — Ref. 07,17,1.46,1.12
+2026-01-30,Lugo,Com. Requeixo,CL0081,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-30,Lugo,Com. Requeixo,CL0123,Hostelería,Aperitivos,Aperitivos — Ref. 01,1,2.16,1.68
+2026-01-30,Santiago,Com. Ferreiro,CL0043,Hostelería,Cervezas,Cervezas — Ref. 03,1,1.79,1.30
+2026-01-30,A Coruña,Com. Vázquez,CL0064,Hostelería,Congelados,Congelados — Ref. 05,20,2.69,1.89
+2026-01-30,Santiago,Com. Baamonde,CL0069,Hostelería,Vinos y licores,Vinos y licores — Ref. 03,12,7.59,4.98
+2026-01-30,Santiago,Com. Barreiro,CL0083,Comercio,Cervezas,Cervezas — Ref. 07,8,1.76,1.45
+2026-01-30,Santiago,Com. Ferreiro,CL0030,Comercio,Congelados,Congelados — Ref. 02,13,5.18,3.75
+2026-01-30,Lugo,Com. Piñeiro,CL0067,Hostelería,Congelados,Congelados — Ref. 01,1,8.94,7.12
+2026-01-30,Santiago,Com. Novo,CL0017,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,1,16.46,12.52
+2026-01-30,A Coruña,Com. Otero,CL0075,Comercio,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-30,A Coruña,Com. Freire,CL0109,Hostelería,Bebidas frías,Bebidas frías — Ref. 07,7,1.46,1.12
+2026-01-30,A Coruña,Com. Seoane,CL0103,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,3,0.62,0.50
+2026-01-30,Santiago,Com. Ferreiro,CL0005,Comercio,Congelados,Congelados — Ref. 02,6,5.18,3.75
+2026-01-30,A Coruña,Com. García,CL0120,Comercio,Conservas,Conservas — Ref. 07,7,5.99,4.58
+2026-01-30,A Coruña,Com. Seoane,CL0121,Comercio,Bebidas frías,Bebidas frías — Ref. 08,3,1.26,0.88
+2026-01-30,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 03,1,5.11,3.71
+2026-01-30,A Coruña,Com. Souto,CL0170,Comercio,Congelados,Congelados — Ref. 05,6,"2,69",1.89
+2026-01-30,A Coruña,Com. Seoane,CL0126,Hostelería,Lácteos,Lácteos — Ref. 03,1,2.93,2.55
+2026-01-30,A Coruña,Com. Seoane,CL0100,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,25,23.86,15.70
+2026-01-30,Santiago,Com. Ferreiro,CL0168,Hostelería,Vinos y licores,Vinos y licores — Ref. 04,2,18.33,14.02
+2026-01-30,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 06,4,1.66,1.33
+2026-01-30,Santiago,Com. Ferreiro,CL0030,Comercio,Vinos y licores,Vinos y licores — Ref. 04,1,18.33,14.02
+2026-01-30,A Coruña,Com. Seoane,CL0103,Hostelería,Congelados,Congelados — Ref. 03,8,5.11,3.71
+2026-01-30,A Coruña,Com. Rodríguez,CL0009,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,1,0.75,0.61
+2026-01-30,Lugo,Com. Corral,CL0040,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,2,4.76,3.59
+2026-01-30,Santiago,Com. Ferreiro,CL0043,Hostelería,Cervezas,Cervezas — Ref. 05,5,2.38,1.85
+2026-01-30,A Coruña,Com. Seoane,CL0126,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 01,18,"6,78",5.45
+2026-01-30,A Coruña,Com. Rodríguez,CL0009,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,23,0.75,0.61
+2026-01-30,Lugo,Com. Mosquera,CL0156,Comercio,Aperitivos,Aperitivos — Ref. 04,1,1.35,0.89
+2026-01-30,A Coruña,Com. Fernández,CL0158,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 06,12,4.34,3.27
+2026-01-30,A Coruña,Com. Freire,CL0063,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,1,7.05,5.58
+2026-01-30,A Coruña,Com. Vázquez,CL0177,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,2,3.64,2.43
+2026-01-30,A Coruña,Com. García,CL0120,Comercio,Congelados,Congelados — Ref. 02,1,5.18,3.75
+2026-01-30,Santiago,Com. Novo,CL0099,Hostelería,Congelados,Congelados — Ref. 02,19,"5,18",3.75
+2026-01-30,A Coruña,Com. Fernández,CL0082,Hostelería,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-30,Santiago,Com. Novo,CL0017,Hostelería,Aperitivos,Aperitivos — Ref. 05,3,1.08,0.75
+2026-01-30,A Coruña,Com. Seoane,CL0025,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,14,23.19,14.48
+2026-01-30,A Coruña,Com. Seoane,CL0171,Hostelería,Congelados,Congelados — Ref. 04,3,5.93,4.78
+2026-01-30,A Coruña,Com. Seoane,CL0121,Comercio,Vinos y licores,Vinos y licores — Ref. 07,19,10.02,7.30
+2026-01-30,A Coruña,Com. Castro,CL0143,Comercio,Congelados,Congelados — Ref. 02,3,5.18,3.75
+2026-01-30,Santiago,Com. Ferreiro,CL0031,Comercio,Congelados,Congelados — Ref. 02,4,5.18,3.75
+2026-01-30,A Coruña,Com. Freire,CL0173,Hostelería,Cervezas,Cervezas — Ref. 03,6,1.79,1.30
+2026-01-30,A Coruña,Com. Vázquez,CL0148,Comercio,Vinos y licores,Vinos y licores — Ref. 06,-6,3.87,2.86
+2026-01-30,Santiago,Com. Lema,CL0071,Hostelería,Lácteos,Lácteos — Ref. 06,14,1.02,0.86
+2026-01-30,Santiago,Com. Ferreiro,CL0031,Comercio,Bebidas frías,Bebidas frías — Ref. 09,12,0.75,0.61
+2026-01-30,A Coruña,Com. Freire,CL0138,Comercio,Bebidas frías,Bebidas frías — Ref. 05,7,0.84,0.61
+2026-01-30,Lugo,Com. Requeixo,CL0107,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,11,16.46,12.52
+2026-01-30,Coruña,Com. Rodríguez,CL0066,Hostelería,Conservas,Conservas — Ref. 07,4,5.99,4.58
+2026-01-30,Santiago,Com. Lema,CL0071,Hostelería,Aperitivos,Aperitivos — Ref. 03,2,1.53,1.18
+2026-01-31,Santiago,Com. Baamonde,CL0072,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,2,7.05,5.58
+2026-01-31,A Coruña,Com. Fernández,CL0127,Hostelería,Congelados,Congelados — Ref. 01,6,8.94,7.12
+2026-01-31,Lugo,Com. Corral,CL0151,Hostelería,Vinos y licores,Vinos y licores — Ref. 01,5,3.64,2.43
+2026-01-31,A Coruña,Com. Fernández,CL0098,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,1,5.93,4.61
+2026-01-31,A Coruña,Com. López,CL0051,Hostelería,Conservas,Conservas — Ref. 08,9,5.98,3.96
+2026-01-31,Lugo,Com. Piñeiro,CL0153,Hostelería,Aperitivos,Aperitivos — Ref. 03,12,1.53,1.18
+2026-01-31,Lugo,Com. Doval,CL0132,Comercio,Vinos y licores,Vinos y licores — Ref. 02,3,21.24,14.50
+2026-01-31,Santiago,Com. Barreiro,CL0080,Comercio,Lácteos,Lácteos — Ref. 02,2,2.76,2.28
+2026-01-31,Lugo,Com. Requeixo,CL0145,Comercio,Cervezas,Cervezas — Ref. 05,3,2.38,1.85
+2026-01-31,Santiago,Com. Novo,CL0134,Comercio,Conservas,Conservas — Ref. 06,1,5.50,3.65
+2026-01-31,A Coruña,Com. Seoane,CL0150,Hostelería,Aperitivos,Aperitivos — Ref. 05,3,1.08,0.75
+2026-01-31,A Coruña,Com. García,CL0018,Hostelería,Bebidas frías,Bebidas frías — Ref. 09,13,0.75,0.61
+2026-01-31,A Coruña,Com. Freire,CL0174,Comercio,Aperitivos,Aperitivos — Ref. 01,2,2.16,1.68
+2026-01-31,Santiago,Com. Novo,CL0134,Comercio,Congelados,Congelados — Ref. 04,3,5.93,4.78
+2026-01-31,A Coruña,Com. Seoane,CL0150,Hostelería,Bebidas frías,Bebidas frías — Ref. 08,1,1.26,0.88
+2026-01-31,Santiago,Com. Lema,CL0085,Hostelería,Vinos y licores,Vinos y licores — Ref. 09,20,23.19,14.48
+2026-01-31,Santiago,Com. Ferreiro,CL0005,Comercio,Bebidas frías,Bebidas frías — Ref. 06,1,1.66,1.33
+2026-01-31,Santiago,Com. Ferreiro,CL0005,Comercio,Vinos y licores,Vinos y licores — Ref. 06,2,3.87,2.86
+2026-01-31,Santiago,Com. Lema,CL0071,Hostelería,Vinos y licores,Vinos y licores — Ref. 05,18,16.46,12.52
+2026-01-31,Santiago,Com. Baamonde,CL0124,Hostelería,Aperitivos,Aperitivos — Ref. 03,2,1.53,1.18
+2026-01-31,Santiago,Com. Baamonde,CL0072,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 05,17,4.76,3.59
+2026-01-31,Santiago,Com. Paz,CL0093,Comercio,Lácteos,Lácteos — Ref. 02,1,2.76,2.28
+2026-01-31,A Coruña,Com. Freire,CL0019,Comercio,Cervezas,Cervezas — Ref. 04,11,1.37,1.13
+2026-01-31,Santiago,Com. Paz,CL0054,Hostelería,Aperitivos,Aperitivos — Ref. 01,10,2.16,1.68
+2026-01-31,Santiago,Com. Barreiro,CL0080,Comercio,Conservas,Conservas — Ref. 06,3,5.50,3.65
+2026-01-31,A Coruña,Com. Otero,CL0008,Hostelería,Aperitivos,Aperitivos — Ref. 05,1,1.08,0.75
+2026-01-31,Lugo,Com. Piñeiro,CL0113,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,1,0.62,0.50
+2026-01-31,A Coruña,Com. López,CL0051,Hostelería,Congelados,Congelados — Ref. 07,7,4.35,3.19
+2026-01-31,Lugo,Com. Doval,CL0050,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 01,1,6.78,5.45
+2026-01-31,A Coruña,Com. Seoane,CL0150,Hostelería,Aperitivos,Aperitivos — Ref. 01,6,2.16,1.68
+2026-01-31,A Coruña,Com. Seoane,CL0121,Comercio,Congelados,Congelados — Ref. 05,4,2.69,1.89
+2026-01-31,A Coruña,Com. Castro,CL0143,Comercio,Conservas,Conservas — Ref. 05,4,1.90,1.33
+2026-01-31,A Coruña,Com. Seoane,CL0171,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,7,0.62,0.50
+2026-01-31,Lugo,Com. Corral,CL0055,Hostelería,Cervezas,Cervezas — Ref. 01,5,3.34,2.66
+2026-01-31,Lugo,Com. Mosquera,CL0059,Hostelería,Vinos y licores,Vinos y licores — Ref. 07,3,10.02,7.30
+2026-01-31,A Coruña,Com. Pérez,CL0010,Comercio,Aperitivos,Aperitivos — Ref. 05,6,1.08,0.75
+2026-01-31,Santiago,Com. Novo,CL0044,Comercio,Congelados,Congelados — Ref. 04,8,5.93,4.78
+2026-01-31,Santiago,Com. Ferreiro,CL0168,Hostelería,Cervezas,Cervezas — Ref. 05,12,2.38,1.85
+2026-01-31,A Coruña,Com. Freire,CL0077,Hostelería,Congelados,Congelados — Ref. 06,3,2.84,2.26
+2026-01-31,Lugo,Com. Piñeiro,CL0047,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-31,A Coruña,Com. Rodríguez,CL0066,Hostelería,Bebidas frías,Bebidas frías — Ref. 03,23,0.82,0.66
+2026-01-31,Lugo,Com. Piñeiro,CL0113,Hostelería,Aperitivos,Aperitivos — Ref. 01,4,2.16,1.68
+2026-01-31,Lugo,Com. Doval,CL0050,Comercio,Cervezas,Cervezas — Ref. 04,1,1.37,1.13
+2026-01-31,A Coruña,Com. Freire,CL0117,Comercio,Vinos y licores,Vinos y licores — Ref. 01,1,3.64,2.43
+2026-01-31,Lugo,Com. Piñeiro,CL0142,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,9,0.62,0.50
+2026-01-31,A Coruña,Com. Souto,CL0170,Comercio,Cervezas,Cervezas — Ref. 01,6,3.34,2.66
+2026-01-31,A Coruña,Com. García,CL0033,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 02,5,2.45,1.92
+2026-01-31,Lugo,Com. Doval,CL0050,Comercio,Congelados,Congelados — Ref. 06,1,2.84,2.26
+2026-01-31,Santiago,Com. Paz,CL0014,Hostelería,Cervezas,Cervezas — Ref. 02,1,1.34,1.08
+2026-01-31,Lugo,Com. Doval,CL0160,Comercio,Congelados,Congelados — Ref. 08,1,7.98,6.09
+2026-01-31,Santiago,Com. Paz,CL0093,Comercio,Congelados,Congelados — Ref. 06,18,2.84,2.26
+2026-01-31,Santiago,Com. Novo,CL0017,Hostelería,Conservas,Conservas — Ref. 04,10,1.25,0.98
+2026-01-31,A Coruña,Com. Souto,CL0128,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,16,4.34,3.27
+2026-01-31,Santiago,Com. Paz,CL0038,Hostelería,Lácteos,Lácteos — Ref. 01,1,1.71,1.47
+2026-01-31,A Coruña,Com. Freire,CL0138,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 04,14,7.05,5.58
+2026-01-31,Lugo,Com. Requeixo,CL0123,Hostelería,Aperitivos,Aperitivos — Ref. 05,-12,1.08,0.75
+2026-01-31,Lugo,Com. Requeixo,CL0118,Comercio,Limpieza e higiene,Limpieza e higiene — Ref. 06,5,4.34,3.27
+2026-01-31,A Coruña,Com. López,CL0051,Hostelería,Aperitivos,Aperitivos — Ref. 02,1,2.25,1.67
+2026-01-31,A Coruña,Com. Seoane,CL0150,Hostelería,Vinos y licores,Vinos y licores — Ref. 10,8,23.86,15.70
+2026-01-31,A Coruña,Com. García,CL0120,Comercio,Vinos y licores,Vinos y licores — Ref. 08,1,16.58,10.77
+2026-01-31,Lugo,Com. Requeixo,CL0118,Comercio,Cervezas,Cervezas — Ref. 08,3,3.06,2.21
+2026-01-31,Santiago,Com. Iglesias,CL0028,Comercio,Aperitivos,Aperitivos — Ref. 04,5,1.35,0.89
+2026-01-31,Santiago,Com. Novo,CL0042,Hostelería,Aperitivos,Aperitivos — Ref. 03,17,1.53,1.18
+2026-01-31,Santiago,Com. Paz,CL0054,Hostelería,Limpieza e higiene,Limpieza e higiene — Ref. 03,3,5.93,4.61
+2026-01-31,A Coruña,Com. Otero,CL0075,Comercio,Cervezas,Cervezas — Ref. 02,11,1.34,1.08
+2026-01-31,Santiago,Com. Lema,CL0071,Hostelería,Bebidas frías,Bebidas frías — Ref. 01,7,0.62,0.50
+2026-01-31,A Coruña,Com. Vázquez,CL0001,Hostelería,Vinos y licores,Vinos y licores — Ref. 06,1,3.87,2.86
+2026-01-31,A Coruña,Com. Seoane,CL0121,Comercio,Conservas,Conservas — Ref. 07,1,5.99,4.58
+2026-01-31,A Coruña,Com. Rey,CL0020,Comercio,Conservas,Conservas — Ref. 05,4,1.90,1.33
