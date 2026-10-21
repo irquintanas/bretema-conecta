@@ -26,19 +26,41 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: ETL del cuadro de mando (equipo de datos)
-        run: |
-          python bi/etl.py
-          python bi/cuadro.py
+          cache: pip
+      - name: Instalar dependencias (dbt y DuckDB)
+        run: pip install -r requirements.txt
+      - name: Construir y probar el lakehouse (dbt build)
+        run: dbt build --project-dir dbt --profiles-dir dbt
+      - name: Cifras del cuadro de mando (lee el oro)
+        run: python bi/cuadro.py
       - name: Comprobar páginas, menú y que portal y BI cuadran
         run: python web/build.py --check
       - name: Construir la web
         run: python web/build.py
+      - name: Documentación del lakehouse (dbt docs, con el linaje)
+        if: github.event_name != 'pull_request'
+        run: |
+          dbt docs generate --static --project-dir dbt --profiles-dir dbt
+          mkdir -p _site/dbt-docs
+          cp dbt/target/static_index.html _site/dbt-docs/index.html
       - name: Guardar la web para publicarla
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      # Los dos pasos siguientes se ejecutan también cuando un test falla: dejan el lakehouse a la vista
+      - name: Resumen del lakehouse
+        if: always()
+        run: python bi/resumen.py >> "$GITHUB_STEP_SUMMARY"
+      - name: Guardar el lakehouse de esta ejecución
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lakehouse-${{ github.event.pull_request.number || github.ref_name }}
+          path: |
+            lakehouse/plata/
+            lakehouse/oro/
+          if-no-files-found: warn
 
   publicar:
     if: github.event_name != 'pull_request'

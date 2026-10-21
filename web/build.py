@@ -10,10 +10,10 @@ Comprueba el contenido y genera la web en la carpeta _site/.
 Solo usa la biblioteca estándar de Python: no hay que instalar nada.
 
 Las páginas (paginas/familias/*.md y paginas/delegaciones/*.md) llevan el texto que escribe
-cada persona del equipo. Las cifras las calcula este script a partir de datos/ventas.csv,
-el extracto del ERP: nadie las teclea.
+cada persona del equipo. Las cifras las calcula este script a partir de lakehouse/bronce/erp_ventas/,
+lo que entrega el ERP: nadie las teclea.
 
-Si existe bi/cuadro.json (lo genera el equipo de datos con bi/etl.py y bi/cuadro.py), genera también
+Si existe bi/cuadro.json (lo genera el equipo de datos con dbt build y bi/cuadro.py), genera también
 el área interna _site/interno/ y comprueba que portal y cuadro de mando dan las mismas ventas.
 """
 import csv
@@ -30,10 +30,10 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 PAGINAS = RAIZ / "paginas"
-DATOS = RAIZ / "datos" / "ventas.csv"
+BRONCE = RAIZ / "lakehouse" / "bronce" / "erp_ventas"   # lo que entrega el ERP: una carpeta por fecha de carga
 PLAN = RAIZ / "web" / "plan.csv"
 SECCIONES = RAIZ / "secciones.csv"
-CUADRO = RAIZ / "bi" / "cuadro.json"     # lo genera el equipo de datos (bi/etl.py + bi/cuadro.py)
+CUADRO = RAIZ / "bi" / "cuadro.json"     # lo genera el equipo de datos (dbt build + bi/cuadro.py)
 SALIDA = RAIZ / "_site"
 CABECERA_SECCIONES = ["orden", "tarea", "titulo"]
 CARPETA = {"familia": "familias", "delegacion": "delegaciones"}
@@ -83,10 +83,38 @@ def paginas():
 
 
 # ─────────────────────────── datos (la pieza de datos del proyecto) ───────────────────────────
+def ventas_erp():
+    """Líneas de venta del ERP, con la misma regla que la capa plata del lakehouse (dbt).
+
+    Del bronce se queda, de cada fichero, con la entrega más reciente (el ERP reenvía los ficheros
+    corregidos); acepta fechas dd/mm/aaaa y precios con coma, unifica las formas de escribir la delegación
+    y descarta las líneas ilegibles (en el lakehouse van a la cuarentena de plata).
+    """
+    entregas = {}
+    for ruta in sorted(BRONCE.glob("fecha_carga=*/*.csv")):
+        entregas[ruta.name] = ruta                    # el orden alfabético de las fechas deja la última
+    delegaciones = {"a coruña": "A Coruña", "coruña": "A Coruña", "santiago": "Santiago", "lugo": "Lugo"}
+    filas = []
+    for ruta in entregas.values():
+        with open(ruta, encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                try:
+                    texto = r["fecha"].strip()
+                    fecha = (datetime.strptime(texto, "%d/%m/%Y") if "/" in texto else datetime.strptime(texto, "%Y-%m-%d"))
+                    unidades = int(r["unidades"])
+                    precio = float(r["precio_unitario"].replace(",", "."))
+                except ValueError:
+                    continue
+                filas.append({**{k: v.strip() for k, v in r.items()}, "fecha": fecha.strftime("%Y-%m-%d"),
+                              "delegacion": delegaciones.get(r["delegacion"].strip().lower(), r["delegacion"].strip()),
+                              "cliente_id": r["cliente_id"].strip().upper(),
+                              "unidades": str(unidades), "precio_unitario": str(precio)})
+    return filas
+
+
 def cifras():
     """Calcula las cifras de la web a partir del extracto del ERP."""
-    with open(DATOS, encoding="utf-8", newline="") as f:
-        filas = list(csv.DictReader(f))
+    filas = ventas_erp()
     anio = max(r["fecha"][:4] for r in filas)
     fam = defaultdict(lambda: {"productos": set(), "precio_min": None, "unidades": defaultdict(int), "ventas": 0.0})
     dele = defaultdict(lambda: {"clientes": set(), "comerciales": set(), "ventas": 0.0, "hosteleria": 0.0,
@@ -157,7 +185,7 @@ def comprobar():
         if clave != t["nombre"]:
             errores.append(f"{sitio}: «{tipo}: {clave}» debe ser exactamente «{t['nombre']}», como en los datos.")
         elif clave not in datos["familias" if tipo == "familia" else "delegaciones"]:
-            errores.append(f"{sitio}: «{clave}» no aparece en datos/ventas.csv.")
+            errores.append(f"{sitio}: «{clave}» no aparece en los datos del ERP (lakehouse/bronce/erp_ventas/).")
         if not re.match(r"^[a-z0-9._-]+$", d.get("autor", "")) or d.get("autor") == "tu.alias":
             errores.append(f"{sitio}: «autor» debe ser tu alias en minúsculas, sin espacios (ej.: ana.r).")
         if not d.get("lema") or d.get("lema", "").startswith("Una frase corta"):
@@ -303,7 +331,7 @@ def interno():
     """Área interna: cuadro de mando con los datos de bi/cuadro.json."""
     if not CUADRO.exists():
         return ('<section class="pulso"><h1>Brétema <b>Pulso</b></h1><p class="vacio">El cuadro de mando aún no se ha '
-                'generado. Lo prepara el equipo de datos: <code>python bi/etl.py</code> y <code>python bi/cuadro.py</code>.</p></section>')
+                'generado. Lo prepara el equipo de datos: <code>dbt build</code> y <code>python bi/cuadro.py</code>.</p></section>')
     datos = CUADRO.read_text(encoding="utf-8").replace("</", "<\\/")
     return (RAIZ / "web" / "interno.html").read_text(encoding="utf-8").replace("/*CUADRO*/null", datos)
 
@@ -353,7 +381,7 @@ def generar():
     cuerpo = f"""
 <section class="hero"><h1>Todo lo que tu local necesita, en un solo distribuidor</h1>
 <p>Bebidas, alimentación y limpieza para hostelería y comercio en A Coruña, Santiago y Lugo.</p></section>
-<section><h2>Brétema en cifras <span class="fuente">calculado a partir de datos/ventas.csv</span></h2>
+<section><h2>Brétema en cifras <span class="fuente">calculado a partir del ERP</span></h2>
 <div class="datos">{dato(len(c['familias']), 'familias de producto')}{dato(c['n_productos'], 'productos')}
 {dato(c['n_clientes'], 'clientes')}{dato(len(c['delegaciones']), 'delegaciones')}{dato(euros(c['total']), f"ventas netas {c['anio']}")}</div></section>
 <section><h2>Nuestras familias de producto</h2><div class="rejilla">{''.join(tarjetas['familia'])}</div></section>
@@ -387,7 +415,7 @@ def generar():
         cuerpo = f"""<p class="volver"><a href="../index.html">← Volver al inicio</a></p>
 <article class="ficha"><span class="num">{tarea} · {'Familia' if t['tipo'] == 'familia' else 'Delegación'}</span><h1>{e(t['nombre'])}</h1>
 <p class="lema">{e(d['lema'])}</p>
-<div class="panel"><span class="fuente">cifras calculadas a partir de datos/ventas.csv</span>{panel}</div>
+<div class="panel"><span class="fuente">cifras calculadas a partir del ERP</span>{panel}</div>
 {md_a_html(texto)}
 <p class="autor">Página de <strong>{e(d['autor'])}</strong></p></article>"""
         (SALIDA / CARPETA[t["tipo"]] / f"{t['archivo']}.html").write_text(

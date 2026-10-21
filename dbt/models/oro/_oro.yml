@@ -1,0 +1,53 @@
+version: 2
+models:
+  - name: dim_fecha
+    description: "Un día por fila. Clave: fecha_id (AAAAMMDD)."
+    columns:
+      - name: fecha_id
+        data_tests: [unique, not_null]
+  - name: dim_delegacion
+    description: "Las delegaciones de Brétema."
+    columns:
+      - name: delegacion_id
+        data_tests: [unique, not_null]
+      - name: delegacion
+        data_tests: [unique, not_null]
+  - name: dim_producto
+    description: "Un producto por fila, con su familia."
+    columns:
+      - name: producto_id
+        data_tests: [unique, not_null]
+      - name: producto
+        data_tests: [unique, not_null]
+  - name: dim_cliente
+    description: "Un cliente por fila, con su canal y su delegación."
+    columns:
+      - name: cliente_id
+        data_tests: [unique, not_null]
+  - name: dim_comercial
+    description: "Un comercial por fila, con su delegación."
+    columns:
+      - name: comercial_id
+        data_tests: [unique, not_null]
+      - name: comercial
+        data_tests: [unique, not_null]
+  - name: fact_ventas
+    description: "Una fila por línea de venta válida. Ventas netas = suma de importe (unidades × precio); las devoluciones restan."
+    columns:
+      - name: fecha_id
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_fecha'), field: fecha_id}}
+      - name: delegacion_id
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_delegacion'), field: delegacion_id}}
+      - name: producto_id
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_producto'), field: producto_id}}
+      - name: cliente_id
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_cliente'), field: cliente_id}}
+      - name: comercial_id
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_comercial'), field: comercial_id}}
+  - name: ventas_mes
+    description: "Ventas netas y margen por delegación y mes. Es el agregado que resume el cuadro de mando."

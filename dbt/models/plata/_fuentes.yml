@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: bronce
+    description: "Lo que llega, tal cual. Nunca se modifica: si algo viene mal, se pide otra entrega."
+    meta:
+      external_location: "read_csv('lakehouse/bronce/{name}/fecha_carga=*/*.csv', all_varchar = true, hive_partitioning = true, filename = true)"
+    tables:
+      - name: erp_ventas
+        description: "Extractos de ventas del ERP: una carpeta fecha_carga=AAAA-MM-DD por entrega."

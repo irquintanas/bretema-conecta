@@ -1,0 +1,23 @@
+version: 2
+models:
+  - name: stg_ventas_tipado
+    description: "Todas las líneas de la última entrega de cada fichero del ERP, con tipos y texto normalizados. Las que no valen llevan motivo_rechazo."
+  - name: stg_ventas
+    description: "Líneas de venta válidas, con importe (unidades × precio) y coste calculados. Las devoluciones (unidades < 0) restan."
+    columns:
+      - name: delegacion
+        description: "Delegación normalizada. Contrato: solo A Coruña, Santiago o Lugo."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["A Coruña", "Santiago", "Lugo"]
+      - name: cliente_id
+        data_tests: [not_null]
+      - name: canal
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Hostelería", "Comercio"]
+  - name: stg_ventas_cuarentena
+    description: "Líneas rechazadas, con el motivo. No se tiran: se revisan con quien las envió."
