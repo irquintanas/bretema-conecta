@@ -1,6 +1,12 @@
 _site/
 __pycache__/
 .DS_Store
-# resultados del ETL (se generan con python bi/etl.py y python bi/cuadro.py)
-bi/bretema.db
+# resultados del lakehouse (se generan con dbt build y python bi/cuadro.py)
 bi/cuadro.json
+lakehouse/plata/*
+lakehouse/oro/*
+!lakehouse/plata/.gitkeep
+!lakehouse/oro/.gitkeep
+lakehouse/pulso.duckdb*
+dbt/target/
+dbt/logs/

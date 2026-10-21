@@ -1,0 +1,7 @@
+pulso:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: lakehouse/pulso.duckdb   # relativo a donde se ejecuta dbt: la raíz del repositorio
+      threads: 1
