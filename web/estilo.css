@@ -1,4 +1,4 @@
-:root { --navy:#1E2761; --teal:#0F766E; --tlt:#E1F1EE; --pale:#F1F5FB; --ice:#CADCFC; --ink:#1A2340; --grey:#4A5470; --muted:#8A93A6; }
+:root { --navy:#1E2761; --teal:#0F766E; --tlt:#E1F1EE; --pale:#F5F7FA; --ice:#CADCFC; --ink:#1A2340; --grey:#4A5470; --muted:#8A93A6; }
 * { box-sizing:border-box; margin:0; padding:0; }
 body { font-family:'Segoe UI',system-ui,sans-serif; background:var(--pale); color:var(--ink); line-height:1.6; font-size:15px; }
 header { background:var(--navy); padding:18px 32px; display:flex; flex-wrap:wrap; gap:4px 16px; align-items:baseline; }
