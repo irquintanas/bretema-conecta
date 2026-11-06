@@ -39,6 +39,8 @@ La lista exacta (tarea, nombre y nombre de fichero) está en `web/plan.csv`. Cad
 | `herramientas/erp_simulado.py` | El ERP simulado de la demostración: envía la remesa de enero y su reenvío |
 | `bi/cuadro.py` | Consultas SQL (DuckDB) sobre el oro: deja el resultado en `bi/cuadro.json` |
 | `bi/resumen.py` | Resumen en Markdown del lakehouse (tests, cuarentena, ventas por mes) para la página de cada ejecución |
+| `paginas/historia/` | Jornada 7 · La historia: la historia para la dirección y cómo se construyó (ejemplo resuelto) |
+| `web/historia.py`, `web/graficos.py` | Generan esas dos páginas en el área interna, con cifras y gráficos sacados del oro |
 | `.github/workflows/publicar.yml` | Comprobar en cada pull request, publicar en cada cambio de `main` |
 
 ## Ver la web en tu ordenador antes de subir nada
@@ -76,3 +78,30 @@ Tras cada cambio de `main`, plata y oro quedan también publicados en la web, y 
   cada ejecución y lo único que perdura es la web publicada (más la documentación de dbt en `/dbt-docs/`).
 - **Si un test falla**, dbt no construye lo que depende de él, el pull request sale en ❌ y nada llega a `main`: la web
   sigue con las cifras anteriores.
+
+## Jornada 7 · La historia
+
+El ejemplo resuelto de la Jornada 7: los cuatro pasos de «Del dato a la decisión» aplicados a Brétema. Pasa del cuadro
+de mando (un informe) a una historia para la dirección: **1 de cada 4 € de Vinos se vende en noviembre y diciembre, y la
+campaña se decide en septiembre**.
+
+| Pieza | Dónde |
+|---|---|
+| La historia (la portada para la dirección) | `paginas/historia/historia.md` → área interna, «La historia» |
+| Cómo se construyó: decidir, analizar, elegir los datos y las cinco comprobaciones | `paginas/historia/historia-pasos.md` → área interna |
+| Las cifras que necesita la historia, con sus tests | `dbt/models/oro/historia_*.sql` y `_oro.yml` |
+
+Las páginas no llevan ninguna cifra escrita a mano: una marca como `{{ historia_vinos.nov_dic_pct[0] }}` toma el valor
+del oro, y los bloques `grafico` dibujan con los datos de un modelo los cinco tipos de gráfico de la presentación
+(`barras`, `linea`, `histograma`, `calor` y `eje`). Es la misma sintaxis que usan los portales de los casos
+individuales; su README explica cada tipo.
+
+```bash
+dbt build --project-dir dbt --profiles-dir dbt     # construye también los modelos historia_*
+python bi/cuadro.py
+python web/build.py                                # genera _site/interno/historia.html y historia-pasos.html
+```
+
+`python web/build.py --check` comprueba que cada marca tiene valor y que cada gráfico apunta a un modelo y unas
+columnas que existen. Si el oro no está construido o no tienes DuckDB, el portal público se genera igual y la historia
+se salta con un aviso.
