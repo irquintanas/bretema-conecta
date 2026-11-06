@@ -15,6 +15,10 @@ lo que entrega el ERP: nadie las teclea.
 
 Si existe bi/cuadro.json (lo genera el equipo de datos con dbt build y bi/cuadro.py), genera también
 el área interna _site/interno/ y comprueba que portal y cuadro de mando dan las mismas ventas.
+
+Jornada 7 · La historia: si el oro está construido, las páginas de paginas/historia/ se comprueban y se publican
+en el área interna (_site/interno/historia.html y historia-pasos.html). Las genera web/historia.py, con los
+gráficos de web/graficos.py; para eso hace falta DuckDB (pip install -r requirements.txt).
 """
 import csv
 import html
@@ -27,6 +31,9 @@ import sys
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import historia  # noqa: E402  (Jornada 7 · La historia, en web/historia.py)
 
 RAIZ = Path(__file__).resolve().parent.parent
 PAGINAS = RAIZ / "paginas"
@@ -229,11 +236,23 @@ def comprobar():
                                f"{euros(interno) if interno is not None else 'sin dato'}. Revisad la definición común.")
         cuadra = euros(datos["total"])
 
+    # 5 · la historia (Jornada 7), en el área interna: se comprueba cuando el oro está construido
+    hay_historia, motivo = historia.disponible()
+    tipos = set()
+    if hay_historia:
+        errores_historia, tipos = historia.comprobar()
+        errores += errores_historia
+    elif (PAGINAS / "historia").exists():
+        avisos.append(f"La historia (Jornada 7) no se comprueba ni se publica: {motivo}.")
+
     lineas = [f"⚠️  {a}" for a in avisos] + [f"❌ {er}" for er in errores]
     if not errores:
         lineas.append(f"✅ Todo correcto: {len(vistas)} páginas y {len(en_menu)} entradas en el menú.")
         if cuadra:
             lineas.append(f"🔗 Portal y cuadro de mando cuadran: ventas netas {datos['anio']} = {cuadra} en los dos.")
+        if hay_historia:
+            lineas.append(f"📖 La historia (Jornada 7): {len(historia.PAGINAS)} páginas con todas sus cifras; "
+                          f"tipos de gráfico: {', '.join(sorted(tipos))}.")
     print("\n".join(lineas))
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
@@ -422,10 +441,14 @@ def generar():
             pagina(f"{t['nombre']} · Brétema Conecta", cuerpo, menu(pl, publicadas, "../"), "../"), encoding="utf-8")
     # área interna (Brétema Pulso)
     (SALIDA / "interno").mkdir()
+    hay_historia, _ = historia.disponible()
     (SALIDA / "interno" / "index.html").write_text(
-        pagina("Brétema Pulso · acceso empleados", interno(), menu(pl, publicadas, "../"), "../"), encoding="utf-8")
+        pagina("Brétema Pulso · acceso empleados", (historia.aviso_interno() if hay_historia else "") + interno(),
+               menu(pl, publicadas, "../"), "../"), encoding="utf-8")
+    if hay_historia:   # Jornada 7 · La historia
+        historia.generar(SALIDA / "interno", pagina, menu(pl, publicadas, "../"))
     print(f"🌐 Web generada en _site/ ({n} de {total} páginas publicadas"
-          f"{', con el área interna' if CUADRO.exists() else ''}).")
+          f"{', con el área interna' if CUADRO.exists() else ''}{' y la historia' if hay_historia else ''}).")
 
 
 if __name__ == "__main__":
