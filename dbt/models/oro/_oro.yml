@@ -51,3 +51,15 @@ models:
           - relationships: {arguments: {to: ref('dim_comercial'), field: comercial_id}}
   - name: ventas_mes
     description: "Ventas netas y margen por delegación y mes. Es el agregado que resume el cuadro de mando."
+  - name: historia_familias
+    columns:
+      - name: familia
+        data_tests: [unique, not_null]
+  - name: historia_vinos_mes
+    columns:
+      - name: mes
+        data_tests: [unique, not_null]
+  - name: historia_delegaciones
+    columns:
+      - name: delegacion
+        data_tests: [unique, not_null]
