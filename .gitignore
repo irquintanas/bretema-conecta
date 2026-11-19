@@ -10,3 +10,4 @@ lakehouse/oro/*
 lakehouse/pulso.duckdb*
 dbt/target/
 dbt/logs/
+metabase/init.sql

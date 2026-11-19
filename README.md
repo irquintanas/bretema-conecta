@@ -41,6 +41,7 @@ La lista exacta (tarea, nombre y nombre de fichero) está en `web/plan.csv`. Cad
 | `bi/resumen.py` | Resumen en Markdown del lakehouse (tests, cuarentena, ventas por mes) para la página de cada ejecución |
 | `paginas/historia/` | Jornada 7 · La historia: la historia para la dirección y cómo se construyó (ejemplo resuelto) |
 | `web/historia.py`, `web/graficos.py` | Generan esas dos páginas en el área interna, con cifras y gráficos sacados del oro |
+| `metabase/` | Conectar Metabase al oro y la plata con DuckDB (`init_sql.py` genera el Init SQL) |
 | `.github/workflows/publicar.yml` | Comprobar en cada pull request, publicar en cada cambio de `main` |
 
 ## Ver la web en tu ordenador antes de subir nada
@@ -105,3 +106,10 @@ python web/build.py                                # genera _site/interno/histor
 `python web/build.py --check` comprueba que cada marca tiene valor y que cada gráfico apunta a un modelo y unas
 columnas que existen. Si el oro no está construido o no tienes DuckDB, el portal público se genera igual y la historia
 se salta con un aviso.
+
+## Metabase: el mismo oro en una herramienta de BI
+
+`metabase/` conecta Metabase al lakehouse con una base DuckDB en memoria, sin copiar los datos ni bloquear `dbt build`.
+`python metabase/init_sql.py` escribe el Init SQL de la conexión; `metabase/README.md` explica la instalación y los
+pasos. La cifra de control: en Metabase, las ventas netas de 2025 tienen que dar 712.251 €, como Brétema Pulso.
+
