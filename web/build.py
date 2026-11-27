@@ -19,6 +19,9 @@ el área interna _site/interno/ y comprueba que portal y cuadro de mando dan las
 Jornada 7 · La historia: si el oro está construido, las páginas de paginas/historia/ se comprueban y se publican
 en el área interna (_site/interno/historia.html y historia-pasos.html). Las genera web/historia.py, con los
 gráficos de web/graficos.py; para eso hace falta DuckDB (pip install -r requirements.txt).
+
+Con el oro construido publica además plata y oro en _site/lakehouse/, con una página que los lista
+(web/lakehouse.py).
 """
 import csv
 import html
@@ -34,6 +37,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import historia  # noqa: E402  (Jornada 7 · La historia, en web/historia.py)
+import lakehouse  # noqa: E402  (índice de plata y oro, en web/lakehouse.py)
 
 RAIZ = Path(__file__).resolve().parent.parent
 PAGINAS = RAIZ / "paginas"
@@ -442,11 +446,16 @@ def generar():
     # área interna (Brétema Pulso)
     (SALIDA / "interno").mkdir()
     hay_historia, _ = historia.disponible()
+    hay_lakehouse = lakehouse.disponible()
+    avisos = (historia.aviso_interno() if hay_historia else "") + (lakehouse.aviso_interno() if hay_lakehouse else "")
     (SALIDA / "interno" / "index.html").write_text(
-        pagina("Brétema Pulso · acceso empleados", (historia.aviso_interno() if hay_historia else "") + interno(),
+        pagina("Brétema Pulso · acceso empleados", avisos + interno(),
                menu(pl, publicadas, "../"), "../"), encoding="utf-8")
     if hay_historia:   # Jornada 7 · La historia
         historia.generar(SALIDA / "interno", pagina, menu(pl, publicadas, "../"))
+    if hay_lakehouse:
+        n_parquet = lakehouse.generar(SALIDA, pagina, menu(pl, publicadas, "../"))
+        print(f"🗄️  Lakehouse publicado en _site/lakehouse/ ({n_parquet} ficheros Parquet).")
     print(f"🌐 Web generada en _site/ ({n} de {total} páginas publicadas"
           f"{', con el área interna' if CUADRO.exists() else ''}{' y la historia' if hay_historia else ''}).")
 

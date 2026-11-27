@@ -185,3 +185,19 @@ figure.grafico figcaption { font-weight:600; color:var(--navy); font-size:16px; 
 .g-escala { display:flex; gap:10px; align-items:center; font-size:12px; color:var(--grey); }
 .g-escala i { width:180px; height:10px; border-radius:2px; background:linear-gradient(90deg, rgb(241,245,251), rgb(30,39,97)); }
 @media (max-width:640px) { .g-paneles { grid-template-columns:minmax(0,1fr); } }
+
+/* ── Índice del lakehouse ── */
+.aviso-lakehouse { margin-bottom:18px; font-size:14px; color:var(--grey); }
+.aviso-lakehouse a { color:var(--teal); font-weight:700; margin-right:8px; }
+.lakehouse h1 { margin-bottom:8px; }
+.lakehouse > p { margin-bottom:16px; }
+.lakehouse section p { margin-bottom:10px; }
+.lakehouse td { vertical-align:top; }
+.lakehouse td a { color:var(--teal); font-weight:600; }
+.lakehouse > p a { color:var(--teal); }
+.lakehouse small { color:var(--muted); }
+.lakehouse td.num { white-space:nowrap; font-variant-numeric:tabular-nums; }
+.lakehouse summary { cursor:pointer; }
+.lakehouse details { font-size:13px; max-width:420px; }
+.lakehouse pre { background:#101729; color:#DCE3F0; border-radius:8px; padding:12px 16px; overflow-x:auto; }
+.lakehouse pre code { background:none; border:none; padding:0; }
